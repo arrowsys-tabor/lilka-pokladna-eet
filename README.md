@@ -7,7 +7,7 @@
 
 <div align="center">
     <h1>
-        LILKA - Pokladní aplikace
+        LILKA - Pokladní aplikace 
     </h1>
 </div>
 
