@@ -18,11 +18,12 @@ Dokumentace obsahuje kompletní informace a návody k jednotlivým funkcím pokl
 * Tvorba účtenky s daní
 * Přehledy tržeb 
 * Pokladní přehledy
-* Správa položek
+* Třídění a správa položek
 * Správa účtenek (daňových dokladů)
 * Rozhraní pro tisk na termální bluetooth tiskárny
-* CSV výstup dat do účetních systémů 
-* Bitcoin platby
+* CSV výstup dat do pro účetní a skladové systémy
+* Zasílání účtenek a výstupních dat na e-mail
+* Bitcoin platby, BIP44
 
 <b> Elektronická evidence tržeb </b>
 * možnost zkušební simulace EET
@@ -30,13 +31,17 @@ Dokumentace obsahuje kompletní informace a návody k jednotlivým funkcím pokl
 * správa neodeslaných účtenek
 
 <b> Zařízení </b>
-Aplikace funguje na Android 4.1 a vyšší, termální tiskárnu lze spojit nejdříve spárováním v nastavení zařízení a následným zadáním názvu v nastavení aplikace.
-
 Pro komfort doporučujeme Android 4.4. a tiskárnu DL58. Pro objednání tiskárny využijte kontakt uvedený níže.
 
-<b><a href="https://play.google.com/store/apps/details?id=com.arrowsys.lilka01062015"> PLNÁ VERZE </a></b>
+<b><a href="https://play.google.com/store/apps/details?id=com.arrowsys.lilka01062015"> PLNÁ VERZE PRO ANDROID </a></b>
+<b><a href="https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo"> ZKUŠEBNÍ VERZE PRO ANDROID</a></b>
 
-<b><a href="https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo"> DEMO APLIKACE </a></b>
+<b>PLNÁ VERZE PRO WINDOWS: </b> https://www.microsoft.com/store/apps/9NBLGGH67ZHV
+<b>ZKUŠEBNÍ VERZE PRO PRO WINDOWS: </b> https://www.microsoft.com/store/apps/9nblggh67zhx
+
+<b> Limity zkušebních verzí </b>
+* Max. 10 pořízených účtenek
+* Omezené zadávání pokladních dokladů
 
 Máte zařízení s operačním systémem Windows? Zjistěte více o pokladním systému **[ANetCa](http://www.anetcash.cz)**
 
