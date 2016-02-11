@@ -30,11 +30,6 @@ Nastavení nabízí rozšířenou nabídku, do které lze vstoupit po kliknutí 
     </p>
 </div>
 
-## Nastavení prostředí
-
-### První jsou firemní údaje
-
-Nejdůležitější je v Záložce **Nastavení** vyplnit údaje o firmě, které jsou potřeba pro iedntifikaci firmy na účtence. 
 
 
 
