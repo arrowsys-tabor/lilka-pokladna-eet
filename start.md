@@ -37,7 +37,6 @@ Nastavení nabízí rozšířenou nabídku, do které lze vstoupit po kliknutí 
 Nejdůležitější je v Záložce **Nastavení** vyplnit údaje o firmě, které jsou potřeba pro iedntifikaci firmy na účtence. 
 
 
-### Dále vytvořte produkty
 
-Produkty mohou být setříděny podle **skupin**, které lze zadat v záložce **Nastavení > Skupiny**. Pokud si nepřejte používat skupiny, produkty se budou řadit podle vložení do kategorie **Nezařazené*.
+
 
