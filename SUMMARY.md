@@ -6,6 +6,4 @@
 * [Vložení produktů](products.md)
 * [První účtenka](firstreceipt.md)
 * [Jak mazat? Podržte položku](wrongitem.md)
-* [Nastavení](settings.md)
-   * [E-mail](settings/email.md)
 
