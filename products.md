@@ -1,6 +1,6 @@
 # Vytvořte produkty
 
-Vlastní produkt zaevidujete v záložce **Produkty** kliknutím na tlačítko **Vytvořit nový produkt**. Bude otevřen nový formulář, v kterém je potřeba vyplnit
+Vlastní produkt zaevidujete v záložce **Produkty** kliknutím na tlačítko **Vytvořit nový produkt**. Po kliknutí bude otevřen nový formulář ve kterém je potřeba vyplnit nejméně
 
 1) Název
 
@@ -12,4 +12,4 @@ Vlastní produkt zaevidujete v záložce **Produkty** kliknutím na tlačítko *
 
 5) Jednotka - např kus, sada nebo balení
 
-Produkty mohou být setříděny podle **skupin**, které lze zadat v záložce **Nastavení > Skupiny**. Pokud si nepřejte používat skupiny, produkty se budou řadit podle vložení do kategorie **Nezařazené*.
+Produkty mohou být setříděny podle **skupin**, které lze zadat v záložce **Nastavení > Skupiny**. Pokud si nepřejte používat skupiny, produkty se budou řadit podle vložení do kategorie *Nezařazené*.
