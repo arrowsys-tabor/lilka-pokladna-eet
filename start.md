@@ -39,15 +39,5 @@ Nejdůležitější je v Záložce **Nastavení** vyplnit údaje o firmě, kter�
 
 ### Dále vytvořte produkty
 
-
 Produkty mohou být setříděny podle **skupin**, které lze zadat v záložce **Nastavení > Skupiny**
 
-### A pořiďte účtenku..
-
-### Účtenku tiskem nebo na email?
-
-Pořízení účtenky
-
-V záložce **Účtenky** vytvoříte novou účtenku kliknutím na tlačítko **NOVÁ** 
-
-Jakminule máte v záložce **Produkty** alespoň jednu položku
