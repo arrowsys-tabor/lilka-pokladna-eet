@@ -7,5 +7,4 @@
 * [Nastavení](settings.md)
    * [E-mail](settings/email.md)
 * company.md
-* products.md
 
