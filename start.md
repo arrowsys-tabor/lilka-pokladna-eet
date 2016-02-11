@@ -3,13 +3,15 @@
 
 
 ## Základy ovládání
-Ovládání aplikace je rozděleno do *čteřech* hlavní záložek
+Ovládání aplikace je rozděleno do *čtyř* hlavních záložek vyskytujících se v zápatí obrazovky.
+
+
 
 
 Po spuštění programu bude automaticky nastaveno jazykové prostředí, odpovídající měna a doplněny dańové sazby.
 
-
 Prvním důležitým krokem je v Záložce **Nastavení** vyplnit údaje o společnosti, které jsou potřeba pro tisk účtenky.
+
 
 
 
