@@ -6,5 +6,4 @@
 * [Jak mazat? Podržte položku](wrongitem.md)
 * [Nastavení](settings.md)
    * [E-mail](settings/email.md)
-* company.md
 
