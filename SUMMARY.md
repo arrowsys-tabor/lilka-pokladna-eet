@@ -5,5 +5,6 @@
 * [První účtenka](firstreceipt.md)
 * [Jak mazat? Podržte položku](wrongitem.md)
 * [Nastavení](settings.md)
-    * [E-mail](settings/email.md)
-    * [Tiskárna](settings/email.md)
+   * [E-mail](settings/email.md)
+* company.md
+
