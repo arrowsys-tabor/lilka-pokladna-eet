@@ -6,5 +6,5 @@
 * [Vložení produktů](products.md)
 * [První účtenka](firstreceipt.md)
 * [Jak mazat? Podržte položku](wrongitem.md)
-* Export dat
+* [Export dat](export_dat.md)
 
