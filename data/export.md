@@ -1,8 +1,8 @@
 # Export dat
 
-Export dat provedeme vybráním záložky **Správa**. Následně v **Hlavní nabídce** vlevo vybereme položku **Výstup dat**. Vybereme období za které chceme pořídit export a klikneme na tlačítko **Export do CSV**.
+Export dat provedeme vybráním záložky **Správa**. Následně v **Hlavní nabídce** vlevo vybereme položku **Správa**. Vybereme období ze kterého chceme data vybrat a klikneme na tlačítko **Export do CSV**.
 
-Soubor se následně vygeneruje do datového úložiště programu LILKA. Ve výchozím stavu je toto úložiště nastaveno na hlavní úložiště/LILKA-pokladna/pokladna-datumexportu.csv. 
+Soubor se následně zapsán do datového úložiště zařízení. Ve výchozím stavu je úložiště nastaveno na /LILKA/pokladna-datumexportu.csv. 
 
-Soubor lze následně odeslat již standardně přes výchozí poštovní program ve Vašem zařízení.
+Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve Vašem zařízení.
 
