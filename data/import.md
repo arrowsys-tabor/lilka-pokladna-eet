@@ -1,8 +1,8 @@
 # Hromadné vkládání produktů (import)
 
-Funkce hromadného vložení produktů je přístupný v záložce ** Správa > Správa dat**, předpokladem pro úspěšný import je soubor **import.csv** uložený v adresáři **LILKA**. Hodnoty CSV souboru musejí být odděleny **čárkou** "," a v kódové tabulce **UTF-8**.
+Funkce hromadného vložení produktů je přístupná v záložce ** Správa > Správa dat**, předpokladem pro úspěšný import je soubor **import.csv** uložený v adresáři **LILKA**. Hodnoty CSV souboru musejí být odděleny **čárkou** "," a v kódové tabulce **UTF-8**. 
 
-Pro správné přiřazení produktů do existujících skupin vyplňte do ID skupiny číslo zobrazené u dané skupiny ve **Správa > Skupiny**.
+Pro správné přiřazení produktů do existujících skupin vyplňte do ID skupiny číslo zobrazené u dané skupiny ve **Správa > Skupiny**. Dále je nutné mít zadány příslušné sazby DPH.
 
 | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | JKPOV |
 | -- |
@@ -12,9 +12,9 @@ Pro správné přiřazení produktů do existujících skupin vyplňte do ID sku
 
 * **Název** - název produktu
 * **Zkratka** - text na účtenku, maximum je 50 znaku
-* ID skupiny - vytvoří novou skupinu importovaných produktů. Pokud v ANetCa již zadané ID existuje, přiřadí se produkt k vybrané skupině.
+* ID skupiny - Pokud v LILKA již zadané ID existuje, přiřadí se produkt k vybrané skupině. V opačném případě nebude zařazen do žádné skupiny.
 * **DPH %** - sazba DPH. Pro přenesenou daň vyplňte příslušný kód např. P-04
-* **Cena** - prodejní cena produktu, bude přiřazena k výchozí cenové kategorii v ANetCa
+* **Cena** - prodejní cena produktu.
 * Množství - Jednicové množství, výchozí 1
 * **Jednotka**
 * ČK - Čárový kód
