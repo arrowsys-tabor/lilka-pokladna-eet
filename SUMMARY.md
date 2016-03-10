@@ -8,5 +8,5 @@
 * [Jak mazat? Podržte položku](wrongitem.md)
 * [Práce s daty](data/data.md)
   * [Hromadné vkládání produktů](data/import.md)
-  * [Export dat](data/dataexport.md)
+  * [Export dat](data/export.md)
 
