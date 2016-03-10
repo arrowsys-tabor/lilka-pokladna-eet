@@ -2,6 +2,8 @@
 
 Funkce hromadného vložení produktů je přístupný v záložce ** Správa > Správa dat**, předpokladem pro úspěšný import je soubor **import.csv** uložený v adresáři **LILKA**. Hodnoty CSV souboru musejí být odděleny **čárkou** "," a v kódové tabulce **UTF-8**.
 
+Pro správné přiřazení produktů do existujících skupin vyplňte do ID skupiny číslo zobrazené u dané skupiny ve **Správa > Skupiny**.
+
 | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | JKPOV |
 | -- |
 | text | text(50) | int | decimal(2) | decimal(2) | decimal(2)| text | text | text |
