@@ -7,6 +7,6 @@
 * [První účtenka](firstreceipt.md)
 * [Jak mazat? Podržte položku](wrongitem.md)
 * [Práce s daty](data/data.md)
-  * [Hromadné vkládání produktů](data/import.md)
-  * [Export dat](data/export.md)
+  * [Hromadné vkládání produktů (import)](data/import.md)
+  * [Výstup dat (export)](data/export.md)
 
