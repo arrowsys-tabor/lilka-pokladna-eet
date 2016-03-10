@@ -1,4 +1,6 @@
-# Export dat
+# Výstup dat (export)
+
+- soubor obsahuje údaje o tržbách za dané období pro skladové a účetní systémy
 
 Export dat provedeme vybráním záložky **Správa**. Následně v **Hlavní nabídce** vlevo vybereme položku **Správa**. Vybereme období ze kterého chceme data vybrat a klikneme na tlačítko **Export do CSV**.
 
