@@ -6,7 +6,7 @@ Pro správné přiřazení produktů do existujících skupin vyplňte do ID sku
 
 | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | JKPOV |
 | -- |
-| text | text | int | decimal(2) | decimal(2) | decimal(2)| text | text | text |
+| text | text | int | decimal(2) | decimal(2) | decimal(4)| text | text | text |
 | Párek v rohlíku | Pár. v r. | 1 | 15,00 | 35 | 1 | Ks| 0123| 100021 |
 | Párek | parek |  | 15,00 | 35 | 1 | Ks| | | |
 
