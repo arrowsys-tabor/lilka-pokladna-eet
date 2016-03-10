@@ -6,12 +6,12 @@ Pro správné přiřazení produktů do existujících skupin vyplňte do ID sku
 
 | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | JKPOV |
 | -- |
-| text | text(50) | int | decimal(2) | decimal(2) | decimal(2)| text | text | text |
+| text | text | int | decimal(2) | decimal(2) | decimal(2)| text | text | text |
 | Párek v rohlíku | Pár. v r. | 1 | 15,00 | 35 | 1 | Ks| 0123| 100021 |
 | Párek | parek |  | 15,00 | 35 | 1 | Ks| | | |
 
 * **Název** - název produktu
-* **Zkratka** - text na účtenku, maximum je 50 znaku
+* **Zkratka** - text na účtenku, doporučeno je 20 znaků
 * ID skupiny - Pokud v LILKA již zadané ID existuje, přiřadí se produkt k vybrané skupině. V opačném případě nebude zařazen do žádné skupiny.
 * **DPH %** - sazba DPH. Pro přenesenou daň vyplňte příslušný kód např. P-04
 * **Cena** - prodejní cena produktu.
