@@ -2,6 +2,7 @@
 
 * [Úvod](README.md)
 * [Začínáme](start.md)
+* [Aktivování license](license.md)
 * [Údaje firmy](company.md)
 * [Vložení produktů](products.md)
 * [První účtenka](firstreceipt.md)
