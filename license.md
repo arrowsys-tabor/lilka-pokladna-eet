@@ -9,7 +9,7 @@
 3. V záložce **Správa** – otevřete menu (tři vodorovné čárky vlevo nahoře).
 4. Zvolte **Podpora**. 
 5. Následně stiskněte tlačítko **Aktivovat licenci**.
-6. Vyplňte licenční klíč, který byl zaslán s fakturou.
+6. Vyplňte **licenční klíč**, který byl zaslán s fakturou.
 7. Stiskněte **Aktivovat**.
 
 
