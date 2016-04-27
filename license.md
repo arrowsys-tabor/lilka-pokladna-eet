@@ -9,9 +9,10 @@
 3. V záložce **Správa** – otevřete menu (tři vodorovné čárky vlevo nahoře).
 4. Zvolte **Podpora**. 
 5. Následně stiskněte tlačítko **Aktivovat licenci**.
-6. Vyplňte licenční klíč a stisknete **Aktivovat**.
+6. Vyplňte licenční klíč, který byl zaslán s fakturou.
+7. Stiskněte **Aktivovat**.
 
 
 Nyní již není možné dělat cvičné účtenky bez toho, aniž byste je museli stornovat (účtenka se záporným množstvím).
 
-Pokud byste chtěli znovu instalovat čistou verzi, je zapotřebí kontaktovat obchod@arrowsys.cz, abychom vám aktivaci žpřístupnili.
+Pokud byste chtěli znovu instalovat čistou verzi, je zapotřebí kontaktovat obchod@arrowsys.cz, abychom vám aktivaci zpřístupnili.
