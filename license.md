@@ -1,8 +1,6 @@
 
 # Aktivování licence
 
-Po spuštění programu bude automaticky nastaveno jazykové prostředí, odpovídající měna a doplněny dańové sazby.
-
 
 1. V [Google Play](https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo) nejprve odistalujte DEMO, které jste použili k vytvoření zkušebních účtenek
 2. Znovu z [Google Play](https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo) nasintalujte aplikaci
