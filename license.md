@@ -4,8 +4,9 @@
 
 1. V [Google Play](https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo) nejprve odinstalujte Zkušební verzi, kterou jste použili k vytvoření zkušebních účtenek a seznámení s pokladnou LILKA.
 2. Znovu z [Google Play](https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo) nasintalujte aplikaci
-3. Pod záložkou **Správa** je nutné vyplnit správně vaše **IČO** (bez mezer)  a v **Ozn. pokladny** vyplníte 1 popř. číslo, které bylo přiřazeno společně s licencí.
-3. Ikonou **EET pokladna LILKA** na vašem tabletu spustíte LILKU a v záložce **Správa** – otevřete menu (tři vodorovné čárky vlevo nahoře) a zvolíte **Podpora**. Pak zvolíte **Aktivovat licenci**, vyplníte licenční klíč a stisknete **Aktivovat**.
+3. Ikonou **EET pokladna LILKA** na vašem tabletu spustíte LILKU
+4. Pod záložkou **Správa** je nutné vyplnit vaše **IČO** (bez mezer) a **Ozn. pokladny**, vyplníte 1 popř. číslo, které bylo přiřazeno společně s licencí.
+3. V záložce **Správa** – otevřete menu (tři vodorovné čárky vlevo nahoře) a zvolíte **Podpora**. Pak zvolíte **Aktivovat licenci**, vyplníte licenční klíč a stisknete **Aktivovat**.
 
 
 Nyní již není možné dělat cvičné účtenky bez toho, aniž byste je museli stornovat (účtenka se záporným množstvím).
