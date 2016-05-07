@@ -33,13 +33,11 @@ Dokumentace obsahuje kompletní informace a návody k jednotlivým funkcím pokl
 <b> Zařízení </b>
 Pro komfort doporučujeme Android 4.4. a tiskárnu DL58. Pro objednání tiskárny využijte kontakt uvedený níže.
 
-<b><a href="https://play.google.com/store/apps/details?id=com.arrowsys.lilka01062015"> PLNÁ VERZE PRO ANDROID </a></b>
-
 <b><a href="https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo"> ZKUŠEBNÍ VERZE PRO ANDROID</a></b>
 
-<b>PLNÁ VERZE PRO WINDOWS: </b> https://www.microsoft.com/store/apps/9NBLGGH67ZHV
+<b><a href="https://www.microsoft.com/store/apps/9nblggh67zhx"> ZKUŠEBNÍ VERZE PRO PRO WINDOWS</a></b>
 
-<b>ZKUŠEBNÍ VERZE PRO PRO WINDOWS: </b> https://www.microsoft.com/store/apps/9nblggh67zhx
+<b><a href="https://itunes.apple.com/cz/app/eet-pokladna-lilka/id1098126251"> ZKUŠEBNÍ VERZE PRO PRO Apple iOS </a></b>
 
 <b> Limity zkušebních verzí </b>
 * Max. 10 pořízených účtenek
