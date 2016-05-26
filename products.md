@@ -1,7 +1,7 @@
 # Vytvořte produkty
 
 Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko **Vytvořit novou položku**. Po kliknutí bude otevřen nový formulář ve kterém je potřeba vyplnit nejméně
-![](lilka-polozky-uvod.png)
+
 1) Název
 
 2) Daňovou sazbu
@@ -18,7 +18,7 @@ Produkty mohou být setříděny podle **skupin**, které lze zadat v záložce 
 # POLOŽKY – ZÁKLADNÍ POŘÍZENÍ
 
 Pro vytvoření nových položek kliknete na tlačítko zelené tlačítko „**Vytvořit novou položku**“.
-![](lilka-polozky-detail.png)
+
 **Název**
 
 Do tohoto pole zadáte název zboží, pod kterým se pak bude zobrazovat na hlavní účtovací obrazovce.
