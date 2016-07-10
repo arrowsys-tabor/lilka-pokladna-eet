@@ -27,4 +27,6 @@ Datové typy
 
 decimal - číslo v závorce za *decimal* definuje desetinná místa, podporované formáty: 2; 2.00; 2,00
 
+**Šablona pro hromadný import**
+
 Excel s připravenou hlavičkou naleznete na [dokumentace.lilka.cz/tabulka-pro-import.xls](http://dokumentace.lilka.cz/tabulka-pro-import.xls). Pro úspěšný import do programu lilka je nutné převést soubor do CSV formátu v kódování UTF-8. Pokud si s tímto postupem nevíte rady, kontaktujte nás.
