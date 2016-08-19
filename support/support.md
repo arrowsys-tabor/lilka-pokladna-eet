@@ -24,8 +24,8 @@
         <img height="400" width="640" src="support/support3.png"> 
     </p>
 </div>
-4) Povolte připojení ke Vzdálené správě tlačítkem **Povolit**
 
+4) Povolte připojení ke Vzdálené správě tlačítkem **Povolit**
 
 <div align="center">
     <p>
