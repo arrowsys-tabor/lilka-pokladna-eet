@@ -1,6 +1,6 @@
 #Vzdálená správa (Android)
 
-1) V aplikaci Google Play vyhledejte **TeamViewer** a vyberte aplikaci **TeamViewer QuickSupport**
+1) V aplikaci Google Play vyhledejte **TeamViewer** poté vyberte aplikaci **TeamViewer QuickSupport**
  
 <div align="center">
     <p>
