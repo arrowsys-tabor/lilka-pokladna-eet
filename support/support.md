@@ -18,7 +18,6 @@
 
 3) Sdělte podpoře ArrowSys **Vaše ID**
 
-
 <div align="center">
     <p>
         <img height="400" width="640" src="support/support3.png"> 
