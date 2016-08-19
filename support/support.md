@@ -4,7 +4,7 @@
  
 <div align="center">
     <p>
-        <img height="400" width="640" src="support/support1.png"> 
+        <img height="400" width="640" src="support1.png"> 
     </p>
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
     <p>
-        <img height="400" width="640" src="support/support2.png"> 
+        <img height="400" width="640" src="support2.png"> 
     </p>
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
     <p>
-        <img height="400" width="640" src="support/support3.png"> 
+        <img height="400" width="640" src="support3.png"> 
     </p>
 </div>
 
@@ -28,6 +28,6 @@
 
 <div align="center">
     <p>
-        <img height="400" width="640" src="support/support4.png"> 
+        <img height="400" width="640" src="support4.png"> 
     </p>
 </div>
