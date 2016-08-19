@@ -10,4 +10,5 @@
 * [Práce s daty](data/data.md)
    * [Hromadné vkládání produktů (import)](data/import.md)
    * [Výstup dat (export)](data/export.md)
+* support/support.md
 
