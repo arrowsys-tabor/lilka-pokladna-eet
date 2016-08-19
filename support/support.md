@@ -28,6 +28,6 @@
 
 <div align="center">
     <p>
-        <img height="640" width="400" src="support4.png"> 
+        <img height="640" width="400" src="supportpic4.png"> 
     </p>
 </div>
