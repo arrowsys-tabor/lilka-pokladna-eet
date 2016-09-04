@@ -10,6 +10,6 @@
 * [Práce s daty](data/data.md)
    * [Hromadné vkládání produktů (import)](data/import.md)
    * [Výstup dat (export)](data/export.md)
-* [Tiskárna](tiskarna.md)
+* [Tiskárna](printer.md)
 * [Vzdálená správa](support/support.md)
 
