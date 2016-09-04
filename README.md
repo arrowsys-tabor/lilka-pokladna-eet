@@ -31,7 +31,7 @@ Dokumentace obsahuje kompletní informace a návody k jednotlivým funkcím pokl
 * správa neodeslaných účtenek
 
 <b> Zařízení </b>
-Pro komfort doporučujeme Android 4.4. a tiskárnu DL58. Pro objednání tiskárny využijte kontakt uvedený níže.
+Pro komfort doporučujeme Android 4.4. a tiskárnu Elio P200. Pro objednání tiskárny využijte kontakt uvedený níže.
 
 <b><a href="https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo"> ZKUŠEBNÍ VERZE PRO ANDROID</a></b>
 
