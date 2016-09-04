@@ -11,4 +11,5 @@
    * [Hromadné vkládání produktů (import)](data/import.md)
    * [Výstup dat (export)](data/export.md)
 * [Vzdálená správa](support/support.md)
+* Tiskárna
 
