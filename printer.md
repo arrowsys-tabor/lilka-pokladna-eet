@@ -19,7 +19,7 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 1. Na hlavním panelu Windows přejděte do menu Centrum akcí 
 <div align="center">
     <p>
-        <img height="40" width="233" src="win10pc1.png"> 
+        <img height="40" width="233" src="img/printerwin10pc1.png"> 
     </p>
 </div>
 2. Levým tlačítkem myši přidržte dlaždici Bluetooth a zvolte Přejít do nastavení. 
