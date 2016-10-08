@@ -13,7 +13,7 @@ Pro správné přiřazení produktů do existujících skupin vyplňte do ID sku
 
 * **Název** - název produktu
 * **Zkratka** - text na účtenku, doporučeno je 20 znaků
-* ID skupiny - Název nebo číslo pro dohledání skupiny. Pokud v LILKA již zadané ID/název existuje, přiřadí se produkt k vybrané skupině. V opačném případě bude vytvořena skupina s daným názvem/ID.
+* **ID skupiny** - Název nebo číslo pro dohledání skupiny. Pokud v LILKA již zadané ID/název existuje, přiřadí se produkt k vybrané skupině. V opačném případě bude vytvořena skupina s daným názvem/ID.
 * **DPH %** - sazba DPH. Pro přenesenou daň vyplňte příslušný kód např. P-04
 * **Cena** - prodejní cena produktu.
 * Množství - Jednicové množství, výchozí 1
@@ -21,7 +21,7 @@ Pro správné přiřazení produktů do existujících skupin vyplňte do ID sku
 * ČK - Čárový kód
 * Kód zboží - Číslo ceníku
 * A - prázdný sloupec
-* Kuchyně - 1 - položka patří do kuchyně, 0 - položky nepatří do kuchyně
+* **Kuchyně** - 1 - položka patří do kuchyně, 0 - položky nepatří do kuchyně
 
 **Zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdné.**
 
