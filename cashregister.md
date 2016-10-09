@@ -4,7 +4,7 @@ V sekci pokladna lze provést vklad či výdej libovolné částky, uzavřít ka
 
 <div align="center">
     <p>
-        <img height="480" width="300" src="png/deposit.png"> 
+        <img height="480" width="300" src="img/deposit.png"> 
     </p>
 </div>
 
