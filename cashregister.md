@@ -2,11 +2,7 @@
 
 V sekci pokladna lze provést vklad či výdej libovolné částky, uzavřít kasu a tisknout přehled tržeb či pokladny pro dané období. Pokladna také zobrazuje přehled financí. 
 
-<div align="center">
-    <p>
-        <img height="480" width="300" src="img/deposit.png"> 
-    </p>
-</div>
+![](deposit.png)
 
 ### Uzavření kasy 
 
