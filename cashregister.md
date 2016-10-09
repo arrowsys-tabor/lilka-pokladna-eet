@@ -4,11 +4,11 @@ V sekci pokladna lze provést vklad či výdej libovolné částky, uzavřít ka
 
 <div align="center">
     <p>
-        <img height="481" width="320" src="img/deposit.png"> 
+        <img height="481" width="320" src="png/deposit.png"> 
     </p>
 </div>
 
-### Uzavření Kasy 
+### Uzavření kasy 
 
 Kliknutím na tlačítko UZAVŘÍT KASU se veškeré tržby provedené po posledním uzavření kasy převedou do zůstatku  pokladny. 
 
