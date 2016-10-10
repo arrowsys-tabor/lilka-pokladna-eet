@@ -9,13 +9,13 @@ Ovládání aplikace je rozděleno do *čtyř* hlavních záložek vyskytující
 
 ![](img/tabs.png)
 
-1) **Účtenka** zobrazuje aktuálně rozpracované doklady s příslušnými položkami,
+1) **Účtenka** zobrazuje aktuálně rozpracované doklady s příslušnými položkami.
 
 2) **Produkty** slouží pro přidávání zboží na účtenku a pro správu vlastních produktů.
 
 3) **Pokladna** zobrazuje aktuální zůstatek a pohyby pokladny.
 
-4) V **Nastavení** naleznete přehledy, exporty, možnosti prostředí a správu kategorizačních položek jako Skupin a DPH.
+4) **Správa** obsahuje přehledy, exporty, možnosti prostředí a správu kategorizačních položek jako Skupin a DPH.
 
 Nastavení nabízí rozšířenou nabídku, do které lze vstoupit po kliknutí ikony se symbolem žebříku v levém horním rohu.
 
