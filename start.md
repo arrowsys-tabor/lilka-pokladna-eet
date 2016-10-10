@@ -7,11 +7,7 @@ Po spuštění programu bude automaticky nastaveno jazykové prostředí, odpov�
 ## Základy ovládání
 Ovládání aplikace je rozděleno do *čtyř* hlavních záložek vyskytujících se v zápatí obrazovky.
 
-<div align="center">
-    <p>
-        <img height="48" width="410" src="img/tabs.png"> 
-    </p>
-</div>
+![](tabs.png)
 
 1) **Účtenka** zobrazuje aktuálně rozpracované doklady s příslušnými položkami,
 
@@ -23,12 +19,7 @@ Ovládání aplikace je rozděleno do *čtyř* hlavních záložek vyskytující
 
 Nastavení nabízí rozšířenou nabídku, do které lze vstoupit po kliknutí ikony se symbolem žebříku v levém horním rohu.
 
-
-<div align="center">
-    <p>
-        <img height="644" width="425" src="img/menu.png"> 
-    </p>
-</div>
+![](menu.png)
 
 
 
