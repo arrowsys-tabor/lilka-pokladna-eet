@@ -10,6 +10,6 @@ Nejstručněji je potřeba vyplnit 3 položky
 
 3) DIČ
 
-Údaje lze také převzít z registru MFČR vyplněním IČO a následném stisknutí tlačítka **"Převzít údaje z registru MFČR"**.
+Údaje lze také převzít z registru MFČR vyplněním IČO a následném stisknutí tlačítka **Převzít údaje z registru MFČR**.
 
 ![](company.png)
