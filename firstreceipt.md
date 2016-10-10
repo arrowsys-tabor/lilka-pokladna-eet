@@ -11,7 +11,7 @@ V záložce **Účtenky** založíte novou účtenku kliknutím na velké zelen�
 
 ### Nyní přidejte produkty
 
-Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce **Produkty** klikněte na řádek produktu který budete chtít přidat na účtenku. Zobrazí se okno pro doplnění **Množství na účtenku**
+Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce **Produkty** klikněte na řádek produktu který budete chtít přidat na účtenku. Zobrazí se okno pro doplnění **Množství na účtenku**. V případě **chybného vložení produktu na účtenku** přidržte příslušný řádek prstem po 2 vteřiny a objeví se potvrzení volby o odstranění.
 
 <div align="center">
     <p>
