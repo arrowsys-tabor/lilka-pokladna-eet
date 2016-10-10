@@ -1,7 +1,6 @@
 # Vytvořte produkty
 
-Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko **Vytvořit novou položku**. Po kliknutí bude otevřen nový formulář ve kterém je potřeba vyplnit nejméně
-![](lilka-polozky-uvod.png)
+Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko **Vytvořit novou položku**. Po kliknutí bude otevřen nový formulář ve kterém je potřeba vyplnit nejméně:
 
 1) Název
 
@@ -12,6 +11,8 @@ Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko *
 4) Jednotková cena
 
 5) Jednotka - např kus, sada nebo balení
+
+![](lilka-polozky-uvod.png)
 
 Produkty mohou být setříděny podle **skupin**, které lze zadat v záložce **Nastavení > Skupiny**. Pokud si nepřejte používat skupiny, produkty se budou řadit podle vložení do kategorie *Nezařazené*.
 
