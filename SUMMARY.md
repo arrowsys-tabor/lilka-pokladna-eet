@@ -7,7 +7,7 @@
 * [Vložení produktů](products.md)
 * [Vytvoření účtenky](firstreceipt.md)
 * [Pokladna](cashregister.md)
-* [Správa]
+* Správa
    * [Účty](settings_accounts.md)
 * [Práce s daty](data/data.md)
    * [Hromadné vkládání produktů (import)](data/import.md)
