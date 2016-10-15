@@ -8,4 +8,6 @@ Při vytváření účtu je potřeba vyplnit název účtu (nejčastěji jméno 
 
 ![](img/settings_accounts1.png)
 
+
+
 ![](img/settings_accounts2.png)
