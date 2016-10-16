@@ -7,4 +7,8 @@ Zde se skupiny vytvářejí a odstraňují.
 
 Po kliknutí na tlačítko **Vytvořit skupinu** je potřeba vyplnit název skupiny podle toho, jaké položky bude obsahovat, případně připsat poznámku. Dále pod tlačítkem **Uložit** je zapotřebí označit barvu, pod kterou se bude skupina zobrazovat.
 
+### Odstranění skupiny
+
+Odstranění nežádoucí skupiny se provede přidržením prstu na dané skupině po dobu dvou vteřin.
+
 ![](img/settings_groups.png)
