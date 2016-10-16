@@ -14,13 +14,13 @@ Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko *
 
 ![](lilka-polozky-uvod.png)
 
-Produkty mohou být setříděny podle **skupin**, které lze zadat v záložce **Nastavení > Skupiny**. Pokud si nepřejte používat skupiny, produkty se budou řadit podle vložení do kategorie *Nezařazené*.
+Produkty mohou být setříděny podle skupin, které lze zadat v záložce **Správa > Skupiny**. Pokud si nepřejete používat skupiny, produkty se budou řadit podle vložení do kategorie *Nezařazené*.
 
 ![](lilka-polozky-detail.png)
 
 # POLOŽKY – ZÁKLADNÍ POŘÍZENÍ
 
-Pro vytvoření nových položek kliknete na tlačítko zelené tlačítko „**Vytvořit novou položku**“.
+Pro vytvoření nových položek kliknete na tlačítko zelené tlačítko **Vytvořit novou položku**.
 
 **Název**
 
