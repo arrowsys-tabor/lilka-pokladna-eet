@@ -22,6 +22,7 @@ Pro správné přiřazení produktů do existujících skupin vyplňte do ID neb
 * Kód zboží - Číslo ceníku
 * A - prázdný sloupec
 * **Kuchyně** - 1 - položka patří do kuchyně, 0 - položky nepatří do kuchyně
+* PLU - Price Look Up kód
 
 **Zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdné.**
 
