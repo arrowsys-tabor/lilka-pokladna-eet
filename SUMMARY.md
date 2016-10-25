@@ -4,6 +4,7 @@
 * [Začínáme](start.md)
 * [Aktivování licence](license.md)
 * [Údaje firmy](company.md)
+* [Nastavení EET](companyEET.md)
 * [Vložení produktů](products.md)
 * [Vytvoření účtenky](firstreceipt.md)
 * [Pokladna](cashregister.md)
