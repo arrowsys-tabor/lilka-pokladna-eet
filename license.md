@@ -1,17 +1,11 @@
 
 # Aktivování licence
 
+Plná verze programu se aktivuje otevření záložky **Podpora**, která se nachází v hlavní nabídce **Správy** (Přesunutí do hlavní nabídky proběhne po kliknutí na ikonku v levém horním rohu). Stisknutím tlačítka **Aktivování licence** se zobrazí formulář, kde je potřeba vyplnit licenční kód, tel. číslo, email a IČO. Aktivace může probíhat pár vteřin.
 
-1. V [Google Play](https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo) nejprve odinstalujte Zkušební verzi, kterou jste použili k vytvoření zkušebních účtenek a seznámení s pokladnou LILKA.
-2. Znovu z [Google Play](https://play.google.com/store/apps/details?id=com.arrowsys.lilkademo) nainstalujte aplikaci.
-3. Ikonou **EET pokladna LILKA** na vašem tabletu spusťte pokladnu.
-4. Pod záložkou **Správa** je nutné vyplnit vaše **IČO** (bez mezer) a **Ozn. pokladny**, vyplníte 1 popř. číslo, které bylo přiřazeno společně s licencí.
-3. V záložce **Správa** – otevřete menu (tři vodorovné čárky vlevo nahoře).
-4. Zvolte **Podpora**. 
-5. Následně stiskněte tlačítko **Aktivovat licenci**.
-6. Vyplňte **licenční klíč**, který byl zaslán s fakturou.
-7. Stiskněte **Aktivovat**.
+![](license1.png)
 
+![](license2.png)
 
 Nyní již není možné dělat cvičné účtenky bez toho, aniž byste je museli stornovat (účtenka se záporným množstvím).
 
