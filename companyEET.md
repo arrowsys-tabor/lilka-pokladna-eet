@@ -12,7 +12,7 @@ Pro aktivaci funkce odesílání do systému EET je nutné vyplnit
 - **Heslo certifikátu** - Heslo, které bylo zadáno při vytvoření certifikátu na [Webové aplikaci EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
 - Po vyplnění hesla se zobrazí možnost **nahrát certifikát**, ten vyberte ze systémového úložiště. 
 
-V případě Mandatorního/Komisního (Zástupného) prodeje je potřeba vyplnit Pověřující DIČ. 
+V případě Komisního (Zástupného) prodeje je potřeba vyplnit Pověřující DIČ. 
 
 Pokud má provozovna od Finančního úřadu schválenou možnost evidence ve **zjednodušeném režimu**, zvolte možnost Zjednodušený režim. 
 
