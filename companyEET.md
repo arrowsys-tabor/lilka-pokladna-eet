@@ -2,7 +2,7 @@
 
 Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitální certifikát. Návod naleznete na serveru [e-trzby.cz](http://www.etrzby.cz/cs/webova-aplikace-EET-a-certifikaty). Soubor certifikátu je zapotřebí překopírovat přímo do zařízení, připojením přes USB.
 
-# Aktivace funkce odesílání do systému EET
+### Aktivace funkce odesílání do systému EET
 
 1. Přesuneme se do **NASTAVENÍ > Konfigurace**, kde je potřeba vyplnit:
    
@@ -10,7 +10,7 @@ Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitáln�
    - **heslo** - Heslo, které bylo zadáno při vytvoření certifikátu na [Webové aplikaci EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
    - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
    
-![](img/settingsEET1.png)
+![](img/companyEET1.png)
    
 2. Následně je zapotřebí v **NASTAVENÍ > Firma** vyplnit:
 
@@ -26,4 +26,4 @@ Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitáln�
      EET vrátit odpověď "*0 Datovou zpravu evidovane trzby v overovacim modu se podarilo zpracovat*"
    - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
 
-![](img/settingsEET2.png)
+![](img/companyEET2.png)
