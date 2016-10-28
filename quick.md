@@ -12,8 +12,11 @@ Slouží k rychlému zadání tržby na účtenku.
 Pokud chcete provést platbu, klikněte na tlačítko **PLATBA**, která platí pro celou označenou účtenku.
 
 ![](img/quick_after.png)
+
 *obrázek: označená účtenka před provedením tržby*
 ![](img/quick_quick.png)
+
 *obrázek: zadání tržby v položce rychlé*
 ![](img/quick_before.png)
+
 *obrázek: označená účtenka po provedením tržby*
