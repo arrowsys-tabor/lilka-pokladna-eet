@@ -21,4 +21,4 @@ Pokud chcete provést platbu, klikněte na tlačítko **PLATBA**, která platí 
 
 ![](img/quick_before.png)
 
-*obrázek: označená účtenka po provedením tržby*
+*obrázek: označená účtenka po provedení tržby*
