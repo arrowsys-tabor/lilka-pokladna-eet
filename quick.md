@@ -13,7 +13,7 @@ Pokud chcete provést platbu, klikněte na tlačítko **PLATBA**, která platí 
 
 Načíst lze také konkrétní položka, a to vyplněním jejího PLU a stisknutím tlačítka **PLU**. *(kód PLU se nastavuje při vytvoření položky)*
 
-Pro zadávání stejné částky vícekrát je zde operátor **x** - násobení.
+Pro zadávání stejné částky vícekrát je zde operátor **X** - násobení.
 
 ![](img/quick_after.png)
 
