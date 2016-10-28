@@ -11,6 +11,10 @@ Slouží k rychlému zadání tržby na účtenku.
 
 Pokud chcete provést platbu, klikněte na tlačítko **PLATBA**, která platí pro celou označenou účtenku.
 
+Načíst lze také konkrétní položka, a to vyplněním jejího PLU a stisknutím tlačítka **PLU**. *(kód PLU se nastavuje při vytvoření položky)*
+
+Pro zadávání stejné částky vícekrát je zde operátor **x** - násobení.
+
 ![](img/quick_after.png)
 
 *obrázek: označená účtenka před provedením tržby*
