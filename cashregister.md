@@ -16,4 +16,4 @@ Provedením vkladu/výdeje se do zůstatku pokladny připíše/odečte vložená
 ### Tisk přehledu 
 
 Kliknutím na tlačítko **POKLADNA** se na připojenou tiskárnu vytiskne přehled všech finančních pohybů, které byly uskutečněny po posledním uzavření kasy. 
-Kliknutím na tlačítko **TRŽBY** se vytisknou pouze provedené tržby. Zaškrtnutím kroužku s ikonou obličeje se při tisku navíc zobrazí i obsluha, která tržbu provedla.
+Kliknutím na tlačítko **TRŽBY** se vytisknou pouze provedené tržby. Zaškrtnutím kroužku s ikonou obličeje se vytisknou účtenky provedené pouze pod přihlášeným účtem.
