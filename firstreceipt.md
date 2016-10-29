@@ -25,7 +25,7 @@ Pokud se zařízením pracujete ve svislém módu (na šířku), můžete produk
 
 ### Ukončete účtenku
 
-Až budou všechny položky přidány, přejděte zpět do kategorie **Účtenka** a přes velké modré tlačítko **PLATBA** přejděte k úhradě. V novém okně libovolně vyberte způsob platby. informace o hotovisti a pokud jsou žádoucí tak údaje pro KH.
+Až budou všechny položky přidány, přejděte zpět do kategorie **Účtenka** a přes velké modré tlačítko **PLATBA** přejděte k úhradě. V novém okně libovolně vyberte způsob platby, informace o hotovosti a pokud jsou žádoucí, tak údaje pro KH.
 
 
 ### Účtenku na email nebo tisknout?
