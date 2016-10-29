@@ -9,4 +9,4 @@ Plná verze programu se aktivuje otevřením záložky **Podpora**, která se na
 
 Nyní již není možné dělat cvičné účtenky bez toho, aniž byste je museli stornovat (účtenka se záporným množstvím).
 
-Pokud byste chtěli znovu instalovat čistou verzi, je zapotřebí kontaktovat obchod@arrowsys.cz, abychom vám aktivaci zpřístupnili.
+Pokud byste chtěli znovu instalovat čistou verzi, je zapotřebí kontaktovat obchod@arrowsys.cz, abychom Vám aktivaci zpřístupnili.
