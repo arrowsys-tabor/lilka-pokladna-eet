@@ -27,7 +27,7 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 
 2. Levým tlačítkem myši přidržte dlaždici Bluetooth a zvolte Přejít do nastavení. 
 3. Aktivujte Bluetooth
-4. V seznamu vyberte vaši Bluetooth tiskárnu a vyplňte párovací klíč, nejčastěji je tato hodnota 0000, 1234 nebo 123456 
+4. V seznamu vyberte Vaši Bluetooth tiskárnu a vyplňte párovací klíč, nejčastěji je tato hodnota 0000, 1234 nebo 123456 
 5. Přejděte do *Pokladny LILKA*, záložky *Správa - Tiskárna* a název Bluetooth zařízení opište do pole *Název zařízení* v sekci *Údaje pro připojení k Bluetooth tiskárně*. Dbejte na správnost velkých a malých písmen.
 6. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
 7. Stiskněte Zkušební tisk.
