@@ -21,7 +21,7 @@ Pro zadávání stejné částky vícekrát je zde operátor **X** - násobení.
 
 ![](img/quick_quick.png)
 
-*obrázek: zadání tržby v položce rychlé*
+*obrázek: zadání tržby v položce rychlé, po kliknutí na **21%** se tržba převede na účtenku s DPH 21%*
 
 ![](img/quick_before.png)
 
