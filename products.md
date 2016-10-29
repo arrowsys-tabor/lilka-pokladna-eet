@@ -52,7 +52,7 @@ Výchozí měnu (jednotku), ve které se bude hodnota ukládat, zvolíte v oddí
 
 **KÓD ZBOŽÍ**
 
-Jedná se o spojovací číslo pro odpis ze zásob. Doporučuje se zadávat, i když zásoby ještě nepoužíváte. Např. Ve tvaru: 10000001, 1000002, 1000003, atd. Pokud prodáváte je služby, není to zcela potřeba.
+Jedná se o spojovací číslo pro odpis ze zásob. Doporučuje se zadávat, i když zásoby ještě nepoužíváte. Např. Ve tvaru: 10000001, 1000002, 1000003, atd. Pokud prodáváte jen služby, není to zcela potřeba.
 
 **Zkratka**
 
