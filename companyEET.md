@@ -8,9 +8,9 @@ Pro aktivaci funkce odesílání do systému EET je nutné vyplnit:
  
 - **DIČ** - musí obsahovat předponu CZ, napři CZ1212121218
 - **Číslo Provozovny** - (většinou 11 nebo 21) maximálně 999999
-- Označení Pokladny - (libovolné, může obshovat max 20 alfanumerických znaky např. POKLADNA1)
+- Označení Pokladny - (libovolné, může obsahovat max 20 alfanumerických znaků např. POKLADNA1)
 - **Heslo certifikátu** - Heslo, které bylo zadáno při vytvoření certifikátu na [Webové aplikaci EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
-- Po vyplnění hesla se zobrazí možnost **Nahrát certifikát**. Certifikát zvolte ze složky do které byl nakopírován. 
+- Po vyplnění hesla se zobrazí možnost **Nahrát certifikát**. Certifikát zvolte ze složky, do které byl nakopírován. 
 
 V případě Komisního (Zástupného) prodeje je nutné vyplnit Pověřující DIČ. 
 
