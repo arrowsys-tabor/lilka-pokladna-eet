@@ -30,9 +30,9 @@ Až budou všechny položky přidány, přejděte zpět do kategorie **Účtenka
 
 ### Účtenku na email nebo tisknout?
 
-Před pořízením další účtenky si v **Nastavení** vyberze zdali zákazníkovi budete účtenky tisknout po bluetooth tiskárně
+Před pořízením další účtenky si v **Nastavení** vyberte zdali zákazníkovi budete účtenky tisknout po bluetooth tiskárně
 
--  Vyžaduje mít vyplnění *Název tiskárny* v **Správa > Nastavení**
+-  vyžaduje mít vyplnění *Název tiskárny* v **Správa > Nastavení**
 a nebo e-mailem
 - to bude potřeba zapnout *Povolit odesílání účtenek na e-mail* v **Správa > Nastavení**
 
