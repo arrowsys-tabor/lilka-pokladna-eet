@@ -28,7 +28,7 @@ Do tohoto pole zadáte název zboží, pod kterým se pak bude zobrazovat na hla
 
 **DPH**
 
-Zde vyberete DPH dané prodávané položce. DPH nastavíte v Správa / Daňové sazby.
+Zde vyberete DPH dané prodávané položky. DPH nastavíte v Správa / Daňové sazby.
 
 **Skupina**
 
