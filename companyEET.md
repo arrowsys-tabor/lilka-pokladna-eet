@@ -18,6 +18,6 @@ Pokud má provozovna od Finančního úřadu schválenou možnost evidence ve zj
 
 Po vyplnění požadovaných údajů, aktivujte odesílání do EET zvolením **EET Odesílání**. 
 
-Pro kontrolu nastavení a správnosti odesílaných dat můžete zvolit možnost **Ověřovací režim**. Při pořízení účtenky v OR bude provedena kontrola odesílaných údajů. Odesílaná účtenka nebude evidována, nýbdrž zkontrolována. Při správném nastavení by měl server EET vrátit odpověď "*0 Datovou zpravu evidovane trzby v overovacim modu se podarilo zpracovat*"
+Pro kontrolu nastavení a správnosti odesílaných dat můžete zvolit možnost **Ověřovací režim**. Při pořízení účtenky v OR bude provedena kontrola odesílaných údajů. Odesílaná účtenka nebude evidována, nýbrž zkontrolována. Při správném nastavení by měl server EET vrátit odpověď "*0 Datovou zpravu evidovane trzby v overovacim modu se podarilo zpracovat*"
  
  ![](img/companyEET.png)
