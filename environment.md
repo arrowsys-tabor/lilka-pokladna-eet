@@ -6,6 +6,4 @@ V této sekci lze nastavit:
 
 2. **Používat zvuková upozornění** - pokud je mód povolen, při každé platbě zazní zvuk otevření pokladny. V opačném případě nezazní
 
-3. **Tisknout kuchyň s ostatním zbožím** - pokud je mód povolen, na objednávku pro kuchyň se tiskne všechno zboží. V opačném případě se                                              do kuchyně tiskne pouze zboží, které má povolenou možnost **Tisknout do kuchyně**
-
-                                           *Možnost Tisknout do kuchyně se volí při tvorbě položky, nebo při úpravě položky* 
+3. **Tisknout kuchyň s ostatním zbožím** - pokud je mód povolen, na objednávku pro kuchyň se tiskne všechno zboží. V opačném případě se                                              do kuchyně tiskne pouze zboží, které má povolenou možnost **Tisknout do kuchyně** (Možnost                                                Tisknout do kuchyně se volí při tvorbě položky, nebo při úpravě položky) 
