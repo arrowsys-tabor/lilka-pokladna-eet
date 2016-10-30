@@ -7,6 +7,7 @@
 * [Nastavení EET](companyEET.md)
 * [Vložení produktů](products.md)
 * [Vytvoření účtenky](firstreceipt.md)
+   * [Suma](sum.md)
 * [Rychlé](quick.md)
 * [Pokladna](cashregister.md)
 * Správa
