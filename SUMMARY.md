@@ -14,6 +14,7 @@
    * [Daňové sazby](settings_taxesrates.md)
    * [Skupiny](settings_groups.md)
    * [Nastavení](settings_settings.md)
+   * [Prostředí](settings_environment.md)
    * [Pokladna](settings_cashregister.md)
    * [Přehledy tržeb](settings_reports.md)
 * [Práce s daty](data/data.md)
