@@ -1,6 +1,8 @@
 # Pokladna
 
-V sekci Pokladna lze provést vklad či výdej libovolné částky, uzavřít kasu a tisknout přehled tržeb či pokladny pro dané období. Pokladna také zobrazuje přehled financí. 
+V sekci **Pokladna** lze provést vklad či výdej libovolné částky, uzavřít kasu a tisknout přehled tržeb či pokladny pro dané období. **Pokladna** také zobrazuje přehled financí. 
+
+Spodní část pokladny zobrazuje poslední tři záznamy pohybu financí v pokladně.
 
 ![](deposit.png)
 
