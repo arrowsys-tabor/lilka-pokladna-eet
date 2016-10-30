@@ -9,6 +9,7 @@
 * [Vytvoření účtenky](firstreceipt.md)
 * [Rychlé](quick.md)
 * [Suma](sum.md)
+* [Vyhledávání](finder.md)
 * [Pokladna](cashregister.md)
 * Správa
    * [Účty](settings_accounts.md)
