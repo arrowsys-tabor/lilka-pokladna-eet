@@ -23,5 +23,6 @@
    * [Hromadné vkládání produktů (import)](data/import.md)
    * [Výstup dat (export)](data/export.md)
 * [Tiskárna](printer.md)
+* [Tiskárna kuchyň](printerkitchen.md)
 * [Vzdálená správa](support/support.md)
 
