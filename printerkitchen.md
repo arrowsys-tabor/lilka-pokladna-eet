@@ -2,7 +2,7 @@
 
 ### Připojení tiskárny kuchyně
 
-1. Spárujte tiskárnu kuchyně se zařízením na kterém je nainstalován program LILKA podle tohoto návodu -                                      https://lilka.arrowsys.cz/printer.html
+1. Spárujte tiskárnu kuchyně se zařízením, na kterém je nainstalován program LILKA podle tohoto návodu -                                      https://lilka.arrowsys.cz/printer.html
 2. Otevřete **Správa > Tiskárna**
 3. Vyberte název tiskárny v kolonce **Tiskárna kuchyň**
 
