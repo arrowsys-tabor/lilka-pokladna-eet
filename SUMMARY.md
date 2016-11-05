@@ -25,4 +25,5 @@
 * [Tiskárna](printer.md)
 * [Tiskárna kuchyň](printerkitchen.md)
 * [Vzdálená správa](support/support.md)
+* Verze a změny
 
