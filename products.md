@@ -12,11 +12,11 @@ Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko *
 
 5) Jednotka - např kus, sada nebo balení
 
-![](lilka-polozky-uvod.png)
+![](img/items.png)
 
 Produkty mohou být setříděny podle skupin, které lze zadat v záložce **Správa > Skupiny**. Pokud si nepřejete používat skupiny, produkty se budou řadit podle vložení do kategorie *Nezařazené*.
 
-![](lilka-polozky-detail.png)
+![](items/itemsAdjusting.png)
 
 # POLOŽKY – ZÁKLADNÍ POŘÍZENÍ
 
