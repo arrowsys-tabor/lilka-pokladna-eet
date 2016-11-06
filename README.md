@@ -43,7 +43,7 @@ Pro komfort doporučujeme Android 4.4. a tiskárnu Elio P200. Pro objednání ti
 * Max. 10 pořízených účtenek
 * Omezené zadávání pokladních dokladů
 
-Máte zařízení s operačním systémem Windows? Zjistěte více o pokladním systému **[ANetCa](http://www.anetcash.cz)**
+Máte zařízení s operačním systémem Windows? Zjistěte více o pokladním systému **[ANetCa](https://anetca.cz)**
 
 <b> Kontakt: </b>
 www.arrowsys.cz
