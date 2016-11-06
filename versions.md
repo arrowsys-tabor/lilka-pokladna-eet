@@ -1,7 +1,7 @@
 #Verze a změny
 
 ###1.8.0
-* Přidána platba fakturou - neodes9líse do EET
+* Přidána platba fakturou - neodesílá se do EET
 * Odesílání do Produkčního (Ostrého) EET prostředí
 * Správa neodeslaných účtenek
 * * Správa - Neodeslané účtenky
