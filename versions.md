@@ -11,6 +11,7 @@
 * * Správa - Prostředí - Tisknout zkratku položky
 * Volba tisku položek na samostatný řádek
 * Správa - Prostředí - Tisknout položku na nový řádek
+* Zálohování a Obnova (prozatím pouze Android)
 
 #####Drobné úpravy a opravy chyb
 * Tisk do kuchyně přejmenován na Tisk objednávky
