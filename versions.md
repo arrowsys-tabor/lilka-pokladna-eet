@@ -14,6 +14,7 @@
 * Zálohování a Obnova (prozatím pouze Android)
 
 #####Drobné úpravy a opravy chyb
+* Šuplík se otevírá pouze při tisku účtenky
 * Tisk do kuchyně přejmenován na Tisk objednávky
 * Nové ikony plateb
 * Větší prostor pro sumu částky účtenky, odebráno Kč
