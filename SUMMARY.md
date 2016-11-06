@@ -27,4 +27,5 @@
 * [Vzdálená správa](support/support.md)
 * [Verze a změny](version_changes.md)
    * [Verze](versions.md)
+   * [Aktualizace](update.md)
 
