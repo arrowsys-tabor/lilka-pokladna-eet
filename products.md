@@ -16,7 +16,7 @@ Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko *
 
 Produkty mohou být setříděny podle skupin, které lze zadat v záložce **Správa > Skupiny**. Pokud si nepřejete používat skupiny, produkty se budou řadit podle vložení do kategorie *Nezařazené*.
 
-![](items/itemsAdjusting.png)
+![](img/itemsAdjusting.png)
 
 # POLOŽKY – ZÁKLADNÍ POŘÍZENÍ
 
