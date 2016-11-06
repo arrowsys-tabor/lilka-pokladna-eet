@@ -21,7 +21,7 @@ Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce
 
 Pokud se zařízením pracujete ve svislém módu (na šířku), můžete produkty načítat na účtenku z nabídky produktů, která se zobrazuje vedle seznamu účtenek (vpravo).
 
-![](firstreceip_widthmode.png)
+![](firstReceipt_widthMode.png)
 
 ### Ukončete účtenku
 
