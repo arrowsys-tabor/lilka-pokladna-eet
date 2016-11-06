@@ -18,6 +18,6 @@
 * Tisk do kuchyně přejmenován na Tisk objednávky
 * Nové ikony plateb
 * Větší prostor pro sumu částky účtenky, odebráno Kč
-
+* Úpravy zobrazení pro Citaq V1
 ###1.7.0
 * Podpora odesílání do Neprodukčního prostředí EET
