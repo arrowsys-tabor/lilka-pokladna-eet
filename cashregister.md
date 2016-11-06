@@ -4,7 +4,7 @@ V sekci **Pokladna** lze provést vklad či výdej libovolné částky, uzavří
 
 Spodní část pokladny zobrazuje poslední tři záznamy pohybu financí v pokladně.
 
-![](deposit.png)
+![](img/cashRegister.png)
 
 ### Uzavření kasy 
 
