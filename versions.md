@@ -5,7 +5,7 @@
 * Odesílání do Produkčního (Ostrého) EET prostředí
 * Správa neodeslaných účtenek
 * * Správa - Neodeslané účtenky
-* * Neodeslané účtenky lze hromadně odeslat tlačítkem *Znovu odeslat vše*
+* * Neodeslané účtenky lze hromadně odeslat tlačítkem **Znovu odeslat vše**
 * Zrychlené vytváření účtenek. Pokud se přidává položka a není vybrána účtenka, vytvoří se nová účtenka s přidávanou položkou.
 * Volba tisku zkratky na účtenku
 * * Správa - Prostředí - Tisknout zkratku položky
