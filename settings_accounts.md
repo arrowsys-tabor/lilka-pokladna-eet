@@ -8,7 +8,9 @@ V této záložce se nachází nástroje pro správu účtů a kódu správce (h
 
 Nastavení probíhá v **Správa > Účty**.
 
-Pokud je kód správce nastaven a je povolena možnost **Vyžadovat kód pro vstup do záložky Správa**, je pro vstup do správy vyžadováno zadání správného kódu správce. Pro zrušení kódu správce je zapotřebí zadat stávající kód a stisknout tlačítko **ULOŽIT**.
+Pokud je kód správce nastaven a je povolena možnost **Vyžadovat kód pro vstup do záložky Správa**, je pro vstup do správy vyžadováno zadání správného kódu správce. Při špatném zadání kódu se program vrátí do hlavní účtovací obrazovky. 
+
+Pro zrušení kódu správce je zapotřebí zadat stávající kód a stisknout tlačítko **ULOŽIT** (**Správa > Účty**).
 
 *Univerzální kód správce je: 8176*
 
