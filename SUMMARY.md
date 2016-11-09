@@ -10,6 +10,7 @@
   * [Vytvoření účtenky](firstreceipt.md)
   * [Rychlé](quick.md)
   * [Suma](sum.md)
+  * [Sleva](discount.md)
   * [Vyhledávání](finder.md)
   * [Platba fakturou](invoice.md)
   * [Pokladna](cashregister.md)
