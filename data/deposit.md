@@ -17,6 +17,6 @@ Zálohu dat je možné provést v záložce **Správa > Správa dat**.
 3. Vyplňte příjemce (e-mail, na který bude záloha dat odeslána)
 4. Odešlete
 
-- U operačních systému Windows 10 desktop se bude e-mail otevírat, pouze pokud je výchozí poštovní klient aplikace Pošta (LILKA není kompatibilní s programem Outlook).
+U operačních systému Windows 10 desktop se bude e-mail otevírat, pouze pokud je výchozí poštovní klient aplikace Pošta (LILKA není kompatibilní s programem Outlook).
 
    ![](../img/deposit1.png)              ![](../img/deposit2.png)
