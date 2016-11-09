@@ -12,5 +12,6 @@ Při založení slevové položky je nutné, zvolit daňovou sazbu "BEZ DPH", za
 Po označení účtenky, na které chcete slevu aplikovat a kliknutí na položku slevy zadejte do kolonky **Cena:** velikost částky, ze které chcete slevit a klikněte na tlačítko **Přidat**.
 
 ![](img/discount2.png)
-
+*obrázek: Zadání ceny při vkládání slevy na označenou účtenku*
 ![](img/discount3.png)
+*obrázek: sleva na účtence*
