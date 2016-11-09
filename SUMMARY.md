@@ -19,6 +19,7 @@
    * [Prostředí](settings_environment.md)
    * [Pokladna](settings_cashregister.md)
    * [Přehledy tržeb](settings_reports.md)
+   * [Účtenky](settings_receipts.md)
 * [Práce s daty](data/data.md)
    * [Hromadné vkládání produktů (import)](data/import.md)
    * [Výstup dat (export)](data/export.md)
