@@ -3,8 +3,6 @@
 Zálohu dat je možné provést v záložce **Správa > Správa dat**.
 
 - Po kliknutí na tlačítko **Zálohovat** se zobrazí seznam dostupných možností zálohování
- 
-   ![](../img/deposit1.png)              ![](../img/deposit2.png)
    
 ### Záloha přes Bluetooth
 
@@ -21,3 +19,4 @@ Zálohu dat je možné provést v záložce **Správa > Správa dat**.
 
 - U operačních systému Windows 10 desktop se bude e-mail otevírat, pouze pokud je výchozí poštovní klient aplikace Pošta (LILKA není kompatibilní s programem Outlook).
 
+   ![](../img/deposit1.png)              ![](../img/deposit2.png)
