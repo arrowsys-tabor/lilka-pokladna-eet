@@ -20,3 +20,4 @@ Při úhradě účtenky fakturou, účtenka není odeslána do EET.
 2. Stiskněte tlačítko **ZOBRAZIT** v sekci **Přehled tržeb podle způsobu platby**
 3. 
 ## Částečná platba
+Vybráním (zaškrtnutím) položek účtenky dojde k vytvoření nové účtenky pouze s označenými položkami. Poté stiskněte Platba. 
