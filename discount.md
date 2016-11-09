@@ -14,5 +14,6 @@ Po označení účtenky, na které chcete slevu aplikovat a kliknutí na položk
 ![](img/discount2.png)
 
 *obrázek: Zadání ceny při vkládání slevy na označenou účtenku*
+
 ![](img/discount3.png)
 *obrázek: sleva na účtence*
