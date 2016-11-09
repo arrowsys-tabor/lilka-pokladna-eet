@@ -1,16 +1,18 @@
 # Summary
 
 * [Úvod](README.md)
-* [Začínáme](start.md)
-* [Aktivování licence](license.md)
-* [Údaje firmy](company.md)
-* [Nastavení EET](companyEET.md)
-* [Vložení produktů](products.md)
-* [Vytvoření účtenky](firstreceipt.md)
-* [Rychlé](quick.md)
-* [Suma](sum.md)
-* [Vyhledávání](finder.md)
-* [Pokladna](cashregister.md)
+  * [Začínáme](start.md)
+  * [Aktivování licence](license.md)
+  * [Údaje firmy](company.md)
+  * [Nastavení EET](companyEET.md)
+* Obsluha programu
+  * [Vložení produktů](products.md)
+  * [Vytvoření účtenky](firstreceipt.md)
+  * [Rychlé](quick.md)
+  * [Suma](sum.md)
+  * [Vyhledávání](finder.md)
+  * [Platba fakturou](invoice.md)
+  * [Pokladna](cashregister.md)
 * Správa
    * [Účty](settings_accounts.md)
    * [Daňové sazby](settings_taxesrates.md)
@@ -20,13 +22,16 @@
    * [Pokladna](settings_cashregister.md)
    * [Přehledy tržeb](settings_reports.md)
    * [Účtenky](settings_receipts.md)
-* [Práce s daty](data/data.md)
+   * [Neodeslané účtenky](settings_unsentReceipts.md)
+* Tiskárna
+  * [Tiskárna](printer.md)
+  * [Tiskárna kuchyň](printerkitchen.md)
+* Práce s daty
    * [Hromadné vkládání produktů (import)](data/import.md)
    * [Výstup dat (export)](data/export.md)
-* [Tiskárna](printer.md)
-* [Tiskárna kuchyň](printerkitchen.md)
+   * [Záloha dat](data/deposit.md)
 * [Vzdálená správa](support/support.md)
-* [Verze a změny](version_changes.md)
+* Verze a změny
    * [Verze](versions.md)
    * [Aktualizace](update.md)
 
