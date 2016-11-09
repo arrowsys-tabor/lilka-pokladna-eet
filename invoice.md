@@ -1,5 +1,9 @@
-# Faktura
+# Platba
 
+### Hotovost
+### Platba Bitcoinem
+- Je zapotřebí mít vyplňěnou Bitcoin adresu, nebo připojení BitcoinPay účet.
+### Platba kartou
 ### Platba fakturou
 
 Při úhradě účtenky fakturou, účtenka není odeslána do EET.
@@ -10,8 +14,9 @@ Při úhradě účtenky fakturou, účtenka není odeslána do EET.
      
 2. Stisknutím tlačítka **UHRADIT A TISKNOUT** se vytiskne faktura
 
-### Přehled vystavených faktur
+#### Přehled vystavených faktur
 
 1. Otevřete **Správa > Přehledy tržeb**
 2. Stiskněte tlačítko **ZOBRAZIT** v sekci **Přehled tržeb podle způsobu platby**
-
+3. 
+## Částečná platba
