@@ -2,7 +2,7 @@
 
 ### Hotovost
 ### Platba Bitcoinem
-- Je zapotřebí mít vyplňěnou Bitcoin adresu, nebo připojení BitcoinPay účet.
+- Před použiváním vyplňte Bitcoin adresu nebo BIP44 veřejný klíč, nebo připojení BitcoinPay účet.
 ### Platba kartou
 ### Platba fakturou
 
@@ -18,6 +18,7 @@ Při úhradě účtenky fakturou, účtenka není odeslána do EET.
 
 1. Otevřete **Správa > Přehledy tržeb**
 2. Stiskněte tlačítko **ZOBRAZIT** v sekci **Přehled tržeb podle způsobu platby**
-3. 
+
+
 ## Částečná platba
 Vybráním (zaškrtnutím) položek účtenky dojde k vytvoření nové účtenky pouze s označenými položkami. Poté stiskněte Platba. 
