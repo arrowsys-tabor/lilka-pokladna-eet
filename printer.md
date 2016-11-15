@@ -41,7 +41,9 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 6. Stiskněte Zkušební tisk.
 
 ### iOS
-
+1. Přejděte do *Pokladny LILKA*, záložky *Správa - Tiskárna* a název Bluetooth vyberte z pole *Název zařízení* v sekci *Údaje pro připojení k Bluetooth tiskárně*. Pokud se žádné zařízení v seznamnu nezobrazuje, stiskněte zlačítko **Vyhledat zařízení**.
+2. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
+3. Stiskněte Zkušební tisk.
 ### Star Micronics
 Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně tiskárna podporuje pouze StarPRNT tiskový režim, aktivujte jej v nastavení LILKA - *Správa - Tiskárna - Star Micronics StarPRNT mód*.
 
