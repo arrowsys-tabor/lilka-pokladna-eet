@@ -10,6 +10,10 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 
 ## Spárování Bluetooth tiskárny
 
+### Příprava
+- Tiskárnu je nutné před používáním zbavit ochrané fólie na baterce. Odstraňte kryt a sejměte z baterie ochranou fólii, která brání kontaktům pro napájení.
+-  Nabijte a zapněte tiskárnu, následně postupujte podle typu operačního systému, který používáte.
+
 ### Android
 1. V *Nastavení* Vašeho zařízení přejděte do volby *Bluetooth*
 2. V seznamu *Dostupná zařízení* vyberte Vaši Bluetooth tiskárnu a vyplňte párovací klíč, nejčastěji je tato hodnota 0000, 1234 nebo 123456 
@@ -41,9 +45,11 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 6. Stiskněte Zkušební tisk.
 
 ### Apple iOS
-1. Přejděte do *Pokladny LILKA*, záložky *Správa - Tiskárna* a název Bluetooth vyberte z pole *Název zařízení* v sekci *Údaje pro připojení k Bluetooth tiskárně*. Pokud se žádné zařízení v seznamnu nezobrazuje, stiskněte zlačítko **Vyhledat zařízení**.
+1. Přejděte do *Pokladny LILKA*, záložky *Správa - Tiskárna*, v sekci *Údaje pro připojení k Bluetooth tiskárně vyberte z nabídky *Název zařízení* nabízenou tiskárnu *. Pokud se žádné zařízení v seznamnu nezobrazuje, stiskněte zlačítko **Vyhledat zařízení**.
 2. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
 3. Stiskněte Zkušební tisk.
+
+
 ### Star Micronics
 Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně tiskárna podporuje pouze StarPRNT tiskový režim, aktivujte jej v nastavení LILKA - *Správa - Tiskárna - Star Micronics StarPRNT mód*.
 
