@@ -40,7 +40,7 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 5. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
 6. Stiskněte Zkušební tisk.
 
-### iOS
+### Apple iOS
 1. Přejděte do *Pokladny LILKA*, záložky *Správa - Tiskárna* a název Bluetooth vyberte z pole *Název zařízení* v sekci *Údaje pro připojení k Bluetooth tiskárně*. Pokud se žádné zařízení v seznamnu nezobrazuje, stiskněte zlačítko **Vyhledat zařízení**.
 2. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
 3. Stiskněte Zkušební tisk.
