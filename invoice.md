@@ -1,9 +1,12 @@
 # Platba
 
 ### Hotovost
+
 ### Platba Bitcoinem
 - Před použiváním vyplňte Bitcoin adresu nebo BIP44 veřejný klíč, nebo připojení BitcoinPay účet.
+
 ### Platba kartou
+
 ### Platba fakturou
 
 Při úhradě účtenky fakturou, účtenka není odeslána do EET.
