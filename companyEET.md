@@ -10,7 +10,7 @@ Pro aktivaci funkce odesílání do systému EET je nutné vyplnit:
 - **Číslo Provozovny** - (většinou 11 nebo 21) maximálně 999999
 - Označení Pokladny - (libovolné, může obsahovat max 20 alfanumerických znaků např. POKLADNA1)
 - **Heslo certifikátu** - Heslo, které jste si zadali při vytváření certifikátu jako heslo pro "soukromý klíč" do [Webové aplikace EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
-- Po vyplnění hesla se zobrazí možnost **Nahrát certifikát**. Certifikát zvolte ze složky, do které byl nakopírován. 
+- Po vyplnění hesla se zobrazí možnost **Nahrát certifikát**. Po kliknutí na tlačítko **Nahrát certifikát** vyberte možnost iCloud drive úložiště (**[iCloud drive](https://www.icloud.com/)** - pokud iCloud účet nemáte vytvořený, prosím vytvořte jej. Následně do něj nahrajte váš EET certifikát). Certifikát zvolte ze složky, do které byl nakopírován. 
 
 V případě Komisního (Zástupného) prodeje je nutné vyplnit Pověřující DIČ. 
 
