@@ -13,7 +13,9 @@ Pro aktivaci funkce odesílání do systému EET je nutné vyplnit:
 - Po vyplnění hesla se zobrazí možnost **Nahrát certifikát**. Po kliknutí na tlačítko **Nahrát certifikát** vyberte možnost vašeho cloud úložiště (pokud cloud účet nemáte vytvořený, prosím vytvořte jej. Následně do něj nahrajte váš EET certifikát). Certifikát zvolte ze složky, do které byl nakopírován. 
 
 *Cloud pro Apple: [iCloud drive](https://www.icloud.com/)*
+
 *Cloud pro Windows: [One drive](https://onedrive.live.com/)*
+
 *Cloud pro Android: [Disk google](https://www.google.cz/intl/cs/drive/)*
 
 V případě Komisního (Zástupného) prodeje je nutné vyplnit Pověřující DIČ. 
