@@ -20,6 +20,8 @@ Pro aktivaci funkce odesílání do systému EET je nutné vyplnit:
 
 V případě Komisního (Zástupného) prodeje je nutné vyplnit Pověřující DIČ. 
 
+**Mezní doba odezvy** - čas ve vteřinách, po který program čeká na odezvu z EET serveru finanční správy. Pokud do zvoleného času nepřijde odpověď, program automaticky udělá offline účtenku.
+
 Pokud má provozovna od Finančního úřadu schválenou možnost evidence ve zjednodušeném režimu, zvolte možnost **Zjednodušený režim**.     
 
 Po vyplnění požadovaných údajů, aktivujte odesílání do EET zvolením **EET Odesílání**. 
