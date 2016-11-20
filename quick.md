@@ -9,7 +9,7 @@ Slouží k rychlému zadání tržby na účtenku.
 3. Napište částku tržby na kalkulačce
 4. Stisknutím vybraného procenta DPH se převede tržba na označenou účtenku
 
-Pokud chcete provést platbu, klikněte na tlačítko **PLATBA**, která platí pro celou označenou účtenku.
+Pokud chcete provést platbu, klikněte na tlačítko **PLATBA**, která platí pro celou označenou účtenku. Po provedení platby se program vrátí na hlavní účtovací obrazovku **Účtenka**.
 
 Načíst lze také konkrétní položka, a to vyplněním jejího PLU a stisknutím tlačítka **PLU**. *(kód PLU se nastavuje při vytvoření položky)*
 
