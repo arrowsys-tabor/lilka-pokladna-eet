@@ -14,3 +14,9 @@
   
   3. **Tisknout položku na nový řádek** - povolení módu způsobí, že pokud se celý název položky nevejde do své kolonky, její DPH, cena a množství se vytiskne pod tuto položku na nový řádek. V opačném případě nebude uvedeno celé jméno položky.
   
+  
+**Počet kopií** - číslo, kolikrát se bude tisknout kopie účtenky. Kopie účtenky se tisknou pouze v případě, že po dokončení platby tisk kopie povolíte.
+
+![](img/copy.png)
+
+*obrázek - Po dokončení objednávky se objeví dotaz na tisk kopie*
