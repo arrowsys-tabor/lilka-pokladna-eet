@@ -12,6 +12,8 @@ Pro aktivaci funkce odesílání do systému EET je nutné vyplnit:
 - **Heslo certifikátu** - Heslo, které jste si zadali při vytváření certifikátu jako heslo pro "soukromý klíč" do [Webové aplikace EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
 - Po vyplnění hesla se zobrazí možnost **Nahrát certifikát**. Certifikát zvolte ze složky, do které byl nakopírován. Pro zařízení Apple je zapotřebí mít iCloud účet, na kterém je nahraný EET certifikát.
 
+Po vyplnění požadovaných údajů, aktivujte odesílání do EET zvolením **EET Odesílání**. 
+
 *Cloud pro Apple: [iCloud drive](https://www.icloud.com/)*
 
 *Cloud pro Windows: [One drive](https://onedrive.live.com/)*
@@ -23,8 +25,6 @@ V případě Komisního (Zástupného) prodeje je nutné vyplnit Pověřující 
 **Mezní doba odezvy** - čas ve vteřinách, po který program čeká na odezvu z EET serveru finanční správy. Pokud do zvoleného času nepřijde odpověď, program automaticky udělá offline účtenku.
 
 Pokud má provozovna od Finančního úřadu schválenou možnost evidence ve zjednodušeném režimu, zvolte možnost **Zjednodušený režim**.     
-
-Po vyplnění požadovaných údajů, aktivujte odesílání do EET zvolením **EET Odesílání**. 
 
 Pro kontrolu nastavení a správnosti odesílaných dat můžete zvolit možnost **Ověřovací režim**. Při pořízení účtenky v OR bude provedena kontrola odesílaných údajů. Odesílaná účtenka nebude evidována, nýbrž zkontrolována. Při správném nastavení by měl server EET vrátit odpověď "*0 Datovou zpravu evidovane trzby v overovacim modu se podarilo zpracovat*"
  
