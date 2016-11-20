@@ -2,15 +2,15 @@
 
 1. Otevřete **Správa > Podpora** a klikněte na tlačítko **Vzdálená pomoc**
 
-    ![](support1.png)
+    ![](Support1.png)
 
 2. Po zobrazení aplikace **[TeamViewer QuickSupport](https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=cs)** v **Google Play** aplikaci TeamViewer QuickSupport nainstalujte kliknutím na tlačítko **INSTALOVAT**
 
-    ![](support2.png)
+    ![](Support2.png)
 
    Pro plnou funkčnost aplikace prosím potvrďte instalaci potřebných doplňků
    
-    ![](support3.png)
+    ![](Support3.png)
    
 3. Po instalaci se otevře aplikace TeamViewer QuickSupport, kde bude vypsán Váš **ID kód**
 
