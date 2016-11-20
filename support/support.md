@@ -1,30 +1,16 @@
 #Vzdálená správa (Android)
 
-1) V aplikaci Google Play vyhledejte **TeamViewer** poté vyberte aplikaci **TeamViewer QuickSupport**
- 
-<div align="center">
-    <p>
-        <img height="640" width="400" src="support1.png"> 
-    </p>
-</div>
+1. Otevřete **Správa > Podpora** a klikněte na tlačítko **Vzdálená pomoc**
 
-2) Instalujte program vzdálené správy tlačítkem **INSTALOVAT**
+2. Po zobrazení aplikace **[TeamViewer QuickSupport](https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=cs)** v **Google Play** aplikaci TeamViewer QuickSupport nainstalujte kliknutím na tlačítko **INSTALOVAT**.
 
-<div align="center">
-    <p>
-        <img height="640" width="400" src="support2.png"> 
-    </p>
-</div>
+   Pro plnou funkčnost aplikace prosím potvrďte instalaci potřebných doplňků.
+   
+3. Po instalaci se otevře aplikace TeamViewer QuickSupport, kde bude vypsán Váš **ID kód**.
 
-3) Sdělte podpoře ArrowSys **Vaše ID**
+4. Nyní kontaktujte zákaznickou podporu Arrowsys na čísle **381 251 685** a sdělte váš problém a **ID kód** Vašeho zařízení.
 
-<div align="center">
-    <p>
-        <img height="640" width="400" src="support3.png"> 
-    </p>
-</div>
-
-4) Povolte připojení ke Vzdálené správě tlačítkem **Povolit**
+5. Povolte připojení ke Vzdálené správě tlačítkem **Povolit**
 
 <div align="center">
     <p>
