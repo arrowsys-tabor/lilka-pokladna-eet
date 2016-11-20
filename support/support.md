@@ -20,4 +20,4 @@
 
 5. Povolte připojení ke Vzdálené správě tlačítkem **Povolit**
 
-    ![](supportpic4.png)
+    ![](support5.png)
