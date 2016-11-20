@@ -19,4 +19,4 @@
 
 ![](img/copy.png)
 
-*obrázek - Po dokončení objednávky se objeví dotaz na tisk kopie*
+*obrázek: Po dokončení objednávky se objeví dotaz na tisk kopie*
