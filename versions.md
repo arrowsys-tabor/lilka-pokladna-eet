@@ -1,6 +1,29 @@
 #Verze a změny
 
-###1.8.0
+###1.8.1 "Vzhledové úpravy"
+* Zrychlení vystavení účtenky v Pověření. Ve Správa - Firma, musí být uvedeno DIČ, při platbě stačí zaškrtnout, že se jedná o prodej v Pověření. 
+* Rychlejší načítání Účtenek a Pohybů pokladny z archivu
+* Rychlejší pořizování v záložce Rychlé. Nyní lze nastavit, aby se po tisku účtenky pokladna vrátila zpět na záložku Rychlé. Správa - Prostředí
+* Položky aktuální účtenky se v záložce zobrazují nalevo od kalkulačky. 
+* * Při horizontálním rozdělení vyšším než 750px, tablety 7p a vyšší
+* Dělená platba - část lze platit hotově, kartou a stravenkami
+* Tisk kopií účtenky (Správa - Prostředí - Účtenka)
+* Tisk poznámky na účtenku (Správa - Prostředí - Účtenka)
+
+#####Drobné úpravy a opravy chyb
+* Oprava chyby kdy účtenka nebyla v přílozee-mailu na Windows 10 PC
+* Přímý odkaz na vzdálenou správu ve Správa - Podpora
+* Při výběru položek k rozdělené platbě se mezišoučet v horním panelu aktualizuje podle vybraných položek
+* Důkladnější kontrola nastavení EET, přesnější upozornění špatného nastavení.
+* Nastavení Mezní doby odezvy EET
+* DPH 21, 15 a 10 v záložce Rychlé jsou pro neplátce skryta
+* Ověřovací režim přejmenován na Ověřovací mód
+* Pokud se změnily záložky, pokladní nezůstal vybraný
+* Po smazání produktu z účtenky se součet neprojevil na horním panelu Rychlé a Účtenka
+* Po smazání dat nastavení Hotovostního zůstatku na 0
+* Odstraněna chyba kdy nešel nastavit PIN
+
+###1.8.0 "Ostré EET"
 * Přidána platba fakturou - neodesílá se do EET
 * Odesílání do Produkčního (Ostrého) EET prostředí
 * Správa neodeslaných účtenek
@@ -19,5 +42,5 @@
 * Nové ikony plateb
 * Větší prostor pro sumu částky účtenky, odebráno Kč
 * Úpravy zobrazení pro Citaq V1
-###1.7.0
+###1.7.0 "EET"
 * Podpora odesílání do Neprodukčního prostředí EET
