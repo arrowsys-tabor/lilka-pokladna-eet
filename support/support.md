@@ -1,4 +1,4 @@
-#Vzdálená správa (Android)
+#Vzdálená pomoc (Android)
 
 1. Otevřete **Správa > Podpora** a klikněte na tlačítko **Vzdálená pomoc**
 
