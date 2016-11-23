@@ -3,9 +3,9 @@
 * [Úvod](README.md)
    * [Začínáme](start.md)
    * [Aktivování licence](license.md)
+   * Videonávody
    * [Údaje firmy](company.md)
    * [Nastavení EET](companyEET.md)
-   * Videonávody
 * Obsluha programu
    * [Vložení produktů](products.md)
    * [Vytvoření účtenky](firstreceipt.md)
