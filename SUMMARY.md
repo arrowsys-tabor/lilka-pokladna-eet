@@ -5,6 +5,7 @@
    * [Aktivování licence](license.md)
    * [Údaje firmy](company.md)
    * [Nastavení EET](companyEET.md)
+   * Videonávody
 * Obsluha programu
    * [Vložení produktů](products.md)
    * [Vytvoření účtenky](firstreceipt.md)
