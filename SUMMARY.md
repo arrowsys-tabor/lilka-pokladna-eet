@@ -4,7 +4,7 @@
    * [Začínáme](start.md)
    * [Nastavení EET](companyEET.md)
    * [Aktivování licence](license.md)
-   * Videonávody
+   * [Videonávody](videonavody.md)
    * [Údaje firmy](company.md)
 * Obsluha programu
    * [Vložení produktů](products.md)
