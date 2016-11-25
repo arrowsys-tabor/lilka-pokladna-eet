@@ -60,3 +60,39 @@ Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně 
 3. Stiskněte tlačítko *Vyhledat USB zařízení*.
 4. Pokud budete upozorněni, že byla nalezena USB zařízení ve výběrovém poli *Název zařízení* vyberte tiskárnu. V opačném případě připojené zařízení nepodporuje USB tisk, nebo je zařízení špatně připojeno.
 5. Stiskněte *Zkušební tisk*
+
+## Google cloud print
+### Android
+Co je potřeba při google cloud print tisku:
+1. Tiskárnu podporující Google Cloud print, nebo počítač s nejnovější verzí prohlížeče **[Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)** a tiskárnu
+2. Google účet (účet, na kterém jste přihlášeni ve Vašem zařízení s Android)
+
+Pokud nemáte tiskárnu podporující Google Cloud print, je zapotřebí přidat tiskárnu do google účtu:
+*V případě, že vaše tiskárna podporuje Google Cloud print, tento krok ignorujte*
+
+1. Nejprve přidejte tiskárnu do počítače
+
+   ![](img/cloudprint1.png)
+
+2. Otevřete Google Chrome
+3. V Google Chrome otevřete chrome://devices
+
+   ![](img/cloudprint2.png)
+
+4. Stiskněte tlačítko "Přidat tiskárny"
+5. Vyhledejte Vaši tiskárnu
+   
+   ![](img/cloudprint3.png)
+
+Nastavte google cloud tisk v zařízení s aplikací LILKA
+1. Otevřete "Nastavení > Tisk"
+2. Povolte Cloud print
+
+   ![](img/cloudprint4.png)
+
+Povolte Cloud print tisk v aplikaci LILKA
+1. Otevřete program LILKA
+2. V záložce "Správa > Tiskárna" povolte Cloud print tisk
+3. Stiskněte tlačítko "Vyhledat zařízení"
+   
+   ![](img/cloudprint5.png)
