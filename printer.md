@@ -93,10 +93,9 @@ Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně 
 
    ![](img/cloudprint4.png)
 
-#### Povolte Cloud print tisk v aplikaci LILKA
+#### Povolte Cloud tisk v aplikaci LILKA
 
 1. Otevřete program LILKA
-2. V záložce "Správa > Tiskárna" povolte Cloud print tisk
-3. Stiskněte tlačítko "Vyhledat zařízení"
+2. V záložce "Správa > Tiskárna" povolte "Tisk na Cloud tiskárnu"
    
    ![](img/cloudprint5.png)
