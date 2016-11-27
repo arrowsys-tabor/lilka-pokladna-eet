@@ -1,5 +1,8 @@
 #Verze a změny
 
+###1.8.2 "Vzhledové úpravy 2"
+* Pro neplátce DPH se rozpis DPH netiskne na účtence
+* Opravena chyba nepřístupnosti záložky Správa
 ###1.8.1 "Vzhledové úpravy"
 * Zrychlení vystavení účtenky v Pověření. Ve Správa - Firma, musí být uvedeno DIČ, při platbě stačí zaškrtnout, že se jedná o prodej v Pověření. 
 * Rychlejší načítání Účtenek a Pohybů pokladny z archivu
