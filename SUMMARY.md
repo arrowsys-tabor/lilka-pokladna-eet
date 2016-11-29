@@ -31,7 +31,7 @@
 * Práce s daty
    * [Hromadné vkládání produktů (import)](data/import.md)
    * [Výstup dat (export)](data/export.md)
-   * [Záloha dat](data/deposit.md)
+   * [Správa dat (záloha)](data/deposit.md)
 * [Vzdálená správa](support/support.md)
 * Verze a změny
    * [Verze](versions.md)
