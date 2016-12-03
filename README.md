@@ -47,6 +47,6 @@ Máte zařízení s operačním systémem Windows? Zjistěte více o pokladním 
 
 <b> Kontakt: </b>
 www.arrowsys.cz
-eet@arrowsys.cz
+obchod@arrowsys.cz
 
 (c) ArrowSys s.r.o.
