@@ -6,7 +6,7 @@
    * [Aktivování licence](license.md)
    * [Videonávody](videonavody.md)
    * [Údaje firmy](company.md)
-* [Časté otázky](faqmd.md)
+* [Časté otázky](faq.md)
 * Obsluha programu
    * [Vložení produktů](products.md)
    * [Vytvoření účtenky](firstreceipt.md)
