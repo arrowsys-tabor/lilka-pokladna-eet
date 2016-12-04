@@ -3,7 +3,7 @@
 Zkontrolujte následující
 
 1) [Aktuální verze](https://lilka.arrowsys.cz/versions.html)
-* Verze LILKA (ve Správa - Podpora) se musí shodovat s poslední verzí [aktuální verzi](https://lilka.arrowsys.cz/versions.html).
+* Verze LILKA (ve Správa - Podpora) se musí shodovat s poslední [aktuální verzi](https://lilka.arrowsys.cz/versions.html).
 
 2) Zkontrolujte, zdali Google Play nečeká nebo neaktualizuje aplikaci [Android System WebView](https://play.google.com/store/apps/details?id=com.google.android.webview) 
 * Pokud probíhá aktualizace, nechte aktualizaci dokončit
