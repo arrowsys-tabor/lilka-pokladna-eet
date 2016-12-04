@@ -16,11 +16,11 @@ Zkontrolujte následující
 * Zkontrolujte zdali jste vaše DIČ nezadali do DIČ Pověřujícího. 
 * Musí mít předponu (velké) CZ, bez mezer, celé buď 10 nebo 12 znaků. Zkontrolujte zdali nemáte prázdnou mezeru za nebo před DIČ.
 
-5) Číslo provozovny
+5) Označení provozovny
 * Zkontrolujte zdali číslo provozovny odpovídá přiřazenému číslu provozovny z webu [etrzby.cz](http://www.etrzby.cz/)
 * Musí být číslo
 
-6) Číslo pokladny
+6) Označení (číslo) pokladny
 * Zkontrolujte zdali máte vyplněné číslo pokladny
 
 7) Certifikát ve formátu .p12
