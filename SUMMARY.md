@@ -37,4 +37,5 @@
 * Verze a změny
    * [Verze](versions.md)
    * [Aktualizace](update.md)
+* Časté otázky
 
