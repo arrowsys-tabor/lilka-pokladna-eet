@@ -8,6 +8,7 @@
    * [Údaje firmy](company.md)
 * [Časté otázky](faq.md)
    * Tiskne se mi pouze PKP
+   * Účtenky nejdou doodeslat
 * Obsluha programu
    * [Vložení produktů](products.md)
    * [Vytvoření účtenky](firstreceipt.md)
