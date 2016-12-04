@@ -7,7 +7,7 @@
    * [Videonávody](videonavody.md)
    * [Údaje firmy](company.md)
 * [Časté otázky](faq.md)
-   * Tiskne se mi pouze PKP
+   * [Tiskne se mi pouze PKP](faq_pkpkod.md)
    * Účtenky nejdou doodeslat
 * Obsluha programu
    * [Vložení produktů](products.md)
