@@ -5,7 +5,7 @@ Plná verze programu se aktivuje otevřením záložky **Podpora**, která se na
 
 ![](img/license1.png)
 
-![](img/license2.png)
+![](img/license.png)
 
 Nyní již není možné dělat cvičné účtenky bez toho, aniž byste je museli stornovat (účtenka se záporným množstvím).
 
