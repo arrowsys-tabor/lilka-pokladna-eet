@@ -4,7 +4,7 @@
 Plná verze programu se aktivuje otevřením záložky **Podpora**, která se nachází v **hlavní nabídce** záložky **Správa** (Přesunutí do hlavní nabídky proběhne po kliknutí na ikonku v levém horním rohu). Stisknutím tlačítka **Aktivování licence** se zobrazí formulář, kde je potřeba vyplnit licenční kód, tel. číslo, email a IČO. Nutností je také souhlasit s licenčními podmínkami (zaškrtnout poslední kolonku).
 Aktivace může probíhat pár vteřin.
 
-![](img/license1.png)
+![](img/license_1.png)
 
 ![](img/license2.png)
 
