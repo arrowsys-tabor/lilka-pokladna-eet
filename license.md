@@ -6,7 +6,7 @@ Aktivace může probíhat pár vteřin.
 
 ![](img/license1.png)
 
-![](img/license.png)
+![](img/license2.png)
 
 Nyní již není možné dělat cvičné účtenky bez toho, aniž byste je museli stornovat (účtenka se záporným množstvím).
 
