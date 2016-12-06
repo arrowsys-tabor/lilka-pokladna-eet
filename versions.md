@@ -1,5 +1,5 @@
 #Verze a změny
-###1.8.2 "Alcatel"
+###1.8.3 "Alcatel"
 * Oprava výpadků spojení s BT tiskárnou pro XP58 s Alcatel, Blowtab, Prestigio tablety
 * Položky vyplňují obrazovku prodeje na maximum
 * Zpřehlednění aktivované verze
