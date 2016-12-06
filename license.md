@@ -2,6 +2,7 @@
 # Aktivování licence
 
 Plná verze programu se aktivuje otevřením záložky **Podpora**, která se nachází v **hlavní nabídce** záložky **Správa** (Přesunutí do hlavní nabídky proběhne po kliknutí na ikonku v levém horním rohu). Stisknutím tlačítka **Aktivovat licenci** se zobrazí formulář, kde je potřeba vyplnit licenční kód, tel. číslo, email a IČO.
+
 *Tlačítko **Aktivovat licenci** není možné stisknout v případě, že na vašem zařízení již je aktualizovaná nejnovější verze programu LILKA*
 
 ![](img/license_1.png)
