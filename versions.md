@@ -1,4 +1,10 @@
 #Verze a změny
+###1.8.2 "Alcatel"
+* Oprava výpadků spojení s BT tiskárnou pro XP58 s Alcatel, Blowtab, Prestigio tablety
+* Položky vyplňují obrazovku prodeje na maximum
+* Zpřehlednění aktivované verze
+* Oprava pusuvných šipek položek na Windows 10 Mobile
+
 
 ###1.8.2 "Vzhledové úpravy 2"
 * Pro neplátce DPH se rozpis DPH netiskne na účtence
