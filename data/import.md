@@ -32,5 +32,5 @@ decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporovan
 
 **Šablona pro hromadný import:**
 
-**Vzorovou tabulku** s připravenou hlavičkou naleznete [ZDE](https://docs.google.com/spreadsheets/d/1CkQYw7V3bmsWK2f9R8JflQ8GQnmu664KwrTVstGxiCQ/edit?usp=sharing). Pro úspěšný import do programu lilka je nutné převést soubor do CSV formátu v kódování UTF-8. Doporučujeme využívat editor tabulek v [Google Drive](https://www.google.cz/intl/cs/drive/). Excel ve výchozím nastavení UTF-8 neexportuje. Pokud si s tímto postupem nevíte rady, kontaktujte nás.
+**Vzorovou tabulku** s připravenou hlavičkou naleznete [ZDE](img/_VZOR.xls) . Pro úspěšný import do programu lilka je nutné převést soubor do CSV formátu v kódování UTF-8. Doporučujeme využívat editor tabulek v [Google Drive](https://www.google.cz/intl/cs/drive/). Excel ve výchozím nastavení UTF-8 neexportuje. Pokud si s tímto postupem nevíte rady, kontaktujte nás.
 
