@@ -1,8 +1,8 @@
 # Hromadné vkládání produktů \(import\)
 
-Funkce hromadného vložení produktů je přístupná v záložce ** Správa &gt; Správa dat**, předpokladem pro úspěšný import je soubor **import.csv** uložený v adresáři **LILKA-data **ve Vašem zařízení. Hodnoty CSV souboru musejí být odděleny **čárkou** "," a v kódové tabulce **UTF-8**.
+Funkce hromadného vložení produktů je přístupná v záložce ** Správa &gt; Správa dat**, předpokladem pro úspěšný import je soubor **import.csv** uložený v adresáři **LILKA-data \(pro vkládání\) **ve Vašem zařízení. Hodnoty CSV souboru musejí být odděleny **čárkou** "," a v kódové tabulce **UTF-8**.
 
-Pokud do kolonky "ID skupiny" vyplníte skupinu, která ještě neexistuje a provedete úspěšný import, bude tato skupina nově vytvořena. Pokud skupina již existuje, přidají se do ní pouze nově položky, které v ní ještě před importem nebyly. Skupiny lze editovat v **Správa-&gt;Skupiny.**
+Pokud do kolonky **"ID skupiny"** vyplníte skupinu, která ještě neexistuje a provedete úspěšný import, bude tato skupina nově vytvořena. Pokud skupina již existuje, přidají se do ní pouze nově položky, které v ní ještě před importem nebyly. Skupiny lze editovat v **Správa-&gt;Skupiny.**
 
 | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | Prodejní množství | Kuchyně | PLU |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -38,5 +38,7 @@ decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporovan
 
 **Import pro Windows 10**
 
-Po dokončení všech kroků uvedených výše, je nutno z vytvořeného souboru **import.csv** zkopírovat obsah do aplikace LILKA. Pole pro vložení zkopírovaného obsahu naleznete v záložce **Správa -&gt; Správa dat**
+Po dokončení všech kroků uvedených výše, je nutno z vytvořeného souboru **import.csv** zkopírovat jeho obsah \(hodnoty oddělené čárkou\) do aplikace LILKA. Pole pro vložení zkopírovaného obsahu naleznete v záložce **Správa -&gt; Správa dat **.
+
+
 
