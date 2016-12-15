@@ -31,7 +31,7 @@
     * [Tiskárna](printer.md)
     * [Tiskárna kuchyň](printerkitchen.md)
 * [Práce s daty](práce-s-daty.md)
-    * [Hromadné vkládání produktů \(import\)](data/import.md)
+    * [Hromadné vkládání dat \(import\)](data/import.md)
     * [Výstup dat \(export\)](data/export.md)
     * [Správa dat \(záloha\)](data/deposit.md)
 * [Vzdálená správa](support/support.md)
