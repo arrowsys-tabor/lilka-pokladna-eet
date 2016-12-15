@@ -36,9 +36,7 @@ decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporovan
 
 
 
-**Import pro Windows 10**
+**Import pro Windows 10:**
 
 Po dokončení všech kroků uvedených výše, je nutno z vytvořeného souboru **import.csv** zkopírovat jeho obsah \(hodnoty oddělené čárkou\) do aplikace LILKA. Pole pro vložení zkopírovaného obsahu naleznete v záložce **Správa -&gt; Správa dat **.
-
-
 
