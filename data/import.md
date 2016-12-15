@@ -4,7 +4,7 @@ Funkce hromadného vložení produktů je přístupná v záložce ** Správa &g
 
 Pro správné přiřazení produktů do existujících skupin vyplňte do ID nebo Název skupiny zobrazený u dané skupiny ve **Správa &gt; Skupiny**. Dále je nutné mít zadány příslušné sazby DPH.
 
-| Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | A | Kuchyně | PLU |
+| Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | Prodejní množství | Kuchyně | PLU |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | text | text | int/text | decimal\(2\) | decimal\(2\) | decimal\(4\) | text | text | text |  | bit | text |
 | Párek v rohlíku | Pár. v r. | 1 | 15,00 | 35 | 1 | Ks | 0123 | 100021 |  | 1 | 101 |
@@ -32,5 +32,5 @@ decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporovan
 
 **Šablona pro hromadný import:**
 
-**Vzorovou tabulku** si můžete stáhnout ve formátu .xls [ZDE](/img/aVZOR.xls) nebo k nahlédnutí přímo na Google Drive [ZDE](https://docs.google.com/spreadsheets/d/1CkQYw7V3bmsWK2f9R8JflQ8GQnmu664KwrTVstGxiCQ/edit?usp=sharing) . Pro úspěšný import do programu lilka je nutné převést soubor do CSV formátu v kódování UTF-8. Doporučujeme využívat editor tabulek v [Google Drive](https://www.google.cz/intl/cs/drive/). Excel ve výchozím nastavení UTF-8 neexportuje. Pokud si s tímto postupem nevíte rady, kontaktujte nás.
+**Vzorovou tabulku** si můžete stáhnout ve formátu **.xls** [ZDE](/img/aVZOR.xls) nebo k nahlédnutí přímo na **Google Drive** [ZDE](https://docs.google.com/spreadsheets/d/1CkQYw7V3bmsWK2f9R8JflQ8GQnmu664KwrTVstGxiCQ/edit?usp=sharing) . Pro úspěšný import do programu lilka je nutné převést soubor do **CSV** formátu v kódování **UTF-8**. Doporučujeme využívat editor tabulek v [Google Drive](https://www.google.cz/intl/cs/drive/). Excel ve výchozím nastavení UTF-8 neexportuje. Pokud si s tímto postupem nevíte rady, kontaktujte nás.
 
