@@ -20,5 +20,5 @@
 
 6\) nainstalovat LILKu z Google play
 
-\*je nutné vybrat následně tiskárnu pro ELIO V1 s názvem Sunmi V1
+ \*je nutné vybrat následně tiskárnu pro ELIO V1 s názvem Sunmi V1
 

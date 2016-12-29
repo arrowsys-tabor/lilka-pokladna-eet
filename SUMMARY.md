@@ -38,6 +38,7 @@
 * [Verze a změny](verze-a-změny.md)
     * [Verze](versions.md)
     * [Aktualizace](update.md)
-* [Pro dealery](pro-dealery.md)
-    * [Elio miniPOS V1](elio-minipos-v1.md)
+* [Řešení problémů](řešení-problémů.md)
+* Pro dealery
+    * [ELIO miniPOS V1](elio-minipos-v1.md)
 
