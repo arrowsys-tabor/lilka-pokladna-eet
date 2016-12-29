@@ -35,10 +35,10 @@
     * [Výstup dat \(export\)](data/export.md)
     * [Správa dat \(záloha\)](data/deposit.md)
 * [Vzdálená správa](support/support.md)
+* [Řešení problémů](řešení-problémů.md)
 * [Verze a změny](verze-a-změny.md)
     * [Verze](versions.md)
     * [Aktualizace](update.md)
-* [Řešení problémů](řešení-problémů.md)
 * Pro dealery
     * [ELIO miniPOS V1](elio-minipos-v1.md)
 
