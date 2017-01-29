@@ -1,5 +1,10 @@
 # Verze a změny
 
+### 1.8.7
+
+* Oprava chyby konečného zůstatku
+* Oprava Bitcoinpay API
+
 ### 1.8.6
 
 * QR faktura
