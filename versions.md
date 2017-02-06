@@ -1,5 +1,19 @@
 # Verze a změny
 
+### 1.8.8
+
+* Do pokladny se vkládají částka po zaokrouhlení
+* Oprava null a undefined na účtence
+* Oprava rozepisování jednotkových cen na účtence
+* Export CSV rozšířen o EET kódy a poznámku účtenky
+* Možnost vypnout výpis tržeb po položkách Správa - Prostředí - Tržby nevypisovat položky
+* Podpora prodeje použitého zboží
+* PDF a e-mail účtenky doplněny o jednotkové množství
+* Zablokováno mazání položek, které už jsou na účtenkách
+* Podpora čtečky čárových kódu na obrazovce Účtenka a Rychlé
+* Podpora VIetnamštiny
+* Když je překročen součet dělené platby, přebytek se přiřadí do vratky
+
 ### 1.8.7
 
 * Oprava chyby konečného zůstatku
