@@ -6,6 +6,7 @@
 * Oprava načítání produktu
 * Lze načíst produkt z čárového kódu kamery v záložce Rychlé
 * Opraven přepočet jednotkové ceny na účtence
+* Kompatibilita s QR Platba + F
 
 ### 1.8.8
 
