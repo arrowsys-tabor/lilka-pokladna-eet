@@ -1,5 +1,12 @@
 # Verze a změny
 
+### 1.8.9
+
+* Oprava  zadávání nuly za desetinnou částkou
+* Oprava načítání produktu
+* Lze načíst produkt z čárového kódu kamery v záložce Rychlé
+* Opraven přepočet jednotkové ceny na účtence
+
 ### 1.8.8
 
 * Do pokladny se vkládají částka po zaokrouhlení
