@@ -1,20 +1,20 @@
-# Vytvořte produkty
+# Vytvoření položky
 
 Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko **Vytvořit novou položku**. Po kliknutí bude otevřen nový formulář ve kterém je potřeba vyplnit nejméně:
 
-1) Název
+1\) Název
 
-2) Daňovou sazbu
+2\) Daňovou sazbu
 
-3) Jednotkové množství (většinou 1)
+3\) Jednotkové množství \(většinou 1\)
 
-4) Jednotková cena
+4\) Jednotková cena
 
-5) Jednotka - např kus, sada nebo balení
+5\) Jednotka - např kus, sada nebo balení
 
 ![](img/items.png)
 
-Produkty mohou být setříděny podle skupin, které lze zadat v záložce **Správa > Skupiny**. Pokud si nepřejete používat skupiny, produkty se budou řadit podle vložení do kategorie *Nezařazené*.
+Produkty mohou být setříděny podle skupin, které lze zadat v záložce **Správa &gt; Skupiny**. Pokud si nepřejete používat skupiny, produkty se budou řadit podle vložení do kategorie _Nezařazené_.
 
 ![](img/itemsAdjusting.png)
 
@@ -40,11 +40,11 @@ Množství udává počet jednotek. Zvolíte příslušnou jednotku z dodacího 
 
 **Jedn. cena**
 
-Zadáte hodnotu bez jednotky. Cena musí být uvedena včetně případné DPH. 
+Zadáte hodnotu bez jednotky. Cena musí být uvedena včetně případné DPH.
 
 **Jednotka**
 
-Výchozí měnu (jednotku), ve které se bude hodnota ukládat, zvolíte v oddílu Správa / Nastavení.
+Výchozí měnu \(jednotku\), ve které se bude hodnota ukládat, zvolíte v oddílu Správa / Nastavení.
 
 **Čárový kód**
 
@@ -56,4 +56,5 @@ Jedná se o spojovací číslo pro odpis ze zásob. Doporučuje se zadávat, i k
 
 **Zkratka**
 
-Pod zkratkou můžete hledat produkt na hlavní účtovací obrazovce. 
+Pod zkratkou můžete hledat produkt na hlavní účtovací obrazovce.
+
