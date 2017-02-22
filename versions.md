@@ -1,5 +1,19 @@
 # Verze a změny
 
+### 1.9.1
+
+* Úprava načítání QR Faktur
+* Úpravy pro tisk na P2000
+* Opravena chyba nenačítání údajů o položce ve formuláři položky
+* Podpora tisku Zebra tiskáren
+* Přidána univerzální funkce pro tisk "Znakový tisk"
+* Podpora Zebra Line Print módu
+* Odstraněna chyba, která navyšovala kasu při platbě kartou
+
+### 1.9.0
+
+* Podpora tisku na all in one zařízení P2000
+
 ### 1.8.9
 
 * Oprava  zadávání nuly za desetinnou částkou
