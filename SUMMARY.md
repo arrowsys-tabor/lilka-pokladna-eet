@@ -8,6 +8,7 @@
   * [Údaje firmy](company.md)
 * [Časté otázky](faq.md)
   * [Tiskne se mi pouze PKP](faq_pkpkod.md)
+  * [Apple iOS - EET Certifikát](apple-ios-eet-certifikat.md)
 * Obsluha programu
   * [Vložení produktů](products.md)
   * [Vytvoření účtenky](firstreceipt.md)

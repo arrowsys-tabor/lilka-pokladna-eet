@@ -9,6 +9,7 @@
 * Přidána univerzální funkce pro tisk "Znakový tisk"
 * Podpora Zebra Line Print módu
 * Odstraněna chyba, která navyšovala kasu při platbě kartou
+* Odstraněna chyba, která způsobovala zdvojování číselné řady
 
 ### 1.9.0
 
