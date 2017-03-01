@@ -1,4 +1,4 @@
-# Apple iOS - EET Certifikát
+Apple iOS - EET Certifikát
 
 Certifikát je zapotřebí vygenerovat na PC nebo na mac OS, ne na iPhone nebo iPad.
 
@@ -8,7 +8,11 @@ Při vytváření certifikátu postupujte podle videa [ZDE ](https://youtu.be/SB
 
 Jakmile budete mít v PC stažený certifikát pokračujte podle tohoto videa
 
-https://www.youtube.com/embed/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY
+&lt;iframe width="560" height="315" src="[https://www.youtube.com/embed/39ay7I9ZgT4](https://www.youtube.com/embed/i_hUk8dnsLQ?list=PLQUda_wxVbKyis7BChx4Mubf3g6D88alY)" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
 
 ## Vytváření certifikátu v Safari \(mac OS\)
 
