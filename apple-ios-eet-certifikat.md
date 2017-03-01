@@ -2,13 +2,19 @@
 
 Certifikát je zapotřebí vygenerovat na PC nebo na mac OS, ne na iPhone nebo iPad.
 
-Pokud vytváříte certifikát v prohlížeči **Safari**, nastane problém se stažením neznámého souboru "Unknown", bude zapotřebí po stažení certifikátu přejít do **Stahování **- \(vybrat soubor\) ozubeným kolem **Přejmenovat **na "**certifikat.p12**" a potvrdit **Přidat**.
 
-![](/img/apple/safari-certifikat.png)
 
-## Přejmenování \(pouze Safari\) ![](img/apple/apple-p12.png)
+## Vytváření certifikátu
 
-## Potvrzení \(pouze Safari\)![](img/apple/apple-p12-2.png)
+Při vytváření certifikátu postupujte podle videa ZDE: 
+
+## Vytváření certifikátu v Safari \(mac OS\)
+
+Pokud vytváříte certifikát v prohlížeči **Safari**, nastane problém se stažením neznámého souboru **Unknown**, bude zapotřebí po stažení certifikátu přejít do **Stahování **- \(vybrat soubor\) Nastavení \(ozubené kolo\) následně **Přejmenovat **na "**certifikat.p12**" a potvrdit **Přidat**. Po stažení tedy zkontrolujte zdali je přípona souboru .p12.![](/img/apple/safari-certifikat.png)
+
+### Přejmenování  ![](img/apple/apple-p12.png)
+
+### Potvrzení ![](img/apple/apple-p12-2.png)
 
 
 
