@@ -6,7 +6,7 @@ Certifikát je zapotřebí vygenerovat na PC nebo na mac OS, ne na iPhone nebo i
 
 Při vytváření certifikátu postupujte podle videa [ZDE ](https://youtu.be/SB1bf9p6JrY)a uložte jej do PC, následně postupujte podle kroku níže.
 
-Jakmile budete mít v PC stažený certifikát pokračujte podle tohoto videa
+Jakmile budete mít v PC stažený certifikát pokračujte podle tohoto videa https://youtu.be/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY
 
 ## Vytváření certifikátu v Safari \(mac OS\)
 
