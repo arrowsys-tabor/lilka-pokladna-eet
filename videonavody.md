@@ -6,6 +6,12 @@
 ## Aktivování Licence
 <iframe width="560" height="315" src="https://www.youtube.com/embed/39ay7I9ZgT4" frameborder="0" allowfullscreen></iframe>
 
+## Nastavení EET pro Apple iOS
+<iframe width="560" height="315" src="
+https://www.youtube.com/embed/39ay7I9ZgT4" frameborder="0" allowfullscreen></iframe>
+
+
+
 
 
 
