@@ -26,5 +26,5 @@ decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporovan
 
 **Šablona pro hromadný import:**
 
-**Vzorovou tabulku** si můžete stáhnout ve správném formátu zde [import-vzor-sklad.xls](assets/import-vzor-sklad.xls).
+**Vzorovou tabulku** si můžete stáhnout ve správném formátu zde http://dokumentace.lilka.cz/import-vzor-sklad.xls
 
