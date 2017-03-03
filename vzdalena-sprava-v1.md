@@ -6,13 +6,13 @@
 
 1/ Spusťte **"OBCHOD PLAY"** na Vašem terminálu
 
-2/ nainstalujte aplikaci **TEAMVIEWER QS \(Quick Support\)**
+2/ nainstalujte aplikaci **TEAMVIEWER QS \(Quick Support\) **z OBCHOD PLAY
 
-3/ otevřete prohlížec a stáhněte **doplněk pro TEAMVIEWER** z adresy [http://dev.lilka.cz/twdoplnek.apk](http://dev.lilka.cz/twdoplnek.apk)
+3/ otevřete internetovém prohlížeči adresu [http://dev.lilka.cz/twdoplnek.apk](http://dev.lilka.cz/twdoplnek.apk) a stáhněte **doplněk pro TEAMVIEWER** 
 
-4/ v androidu je nutno povolit instalaci z neznámých zdrojů. 
+4/ v androidu je nutno povolit instalaci z neznámých zdrojů. Provedete tak v nastavení androidu.
 
-v tabletu: **NASTAVENÍ -&gt; ZABEZPEČENÍ\(SECURITY\) -&gt; NEZNÁMÉ ZDROJE \(UNKNOWN SOURCES\)**
+**NASTAVENÍ -&gt; ZABEZPEČENÍ\(SECURITY\) -&gt; NEZNÁMÉ ZDROJE \(UNKNOWN SOURCES\)**
 
 5/ nainstalujte doplněk a **spusťte TEAMVIEWER**. Po úspěšném připojení by mělo jít vše ovládat na dálku
 
