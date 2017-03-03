@@ -13,7 +13,7 @@ Funkce hromadného vložení produktů do modulu skladů musí být ve formátu 
 * **DPH %** - sazba DPH \(0, 10, 15, 21\).
 * **Prodejní cena** - prodejní cena produktu.
 * **Zůstatek skladu** - Zůstatek skladu, může být 0
-* **Jednotka **- jednotka, ke které bude množství přiřazeno
+* **Jednotka **- Měrná jednotka \(ks, kg, t\)
 * ČK - Čárový kód
 * **Kód zboží** - Číslo ceníku, číslo položky
 * **Nákupní cena** - nákupní cena
