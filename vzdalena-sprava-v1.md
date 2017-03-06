@@ -4,7 +4,7 @@
 
 ## Instalace:
 
-1/ V androidu je nutno povolit **instalaci z neznámých zdrojů**. Provedete tak v nastavení androidu.
+1/ V androidu je nutno povolit **instalaci z neznámých zdrojů**. Provedete tak v nastavení androidu
 
 **NASTAVENÍ -&gt; ZABEZPEČENÍ\(SECURITY\) -&gt; NEZNÁMÉ ZDROJE \(UNKNOWN SOURCES\)**
 
