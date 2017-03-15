@@ -27,6 +27,10 @@ Pokud se zařízením pracujete ve svislém módu (na šířku), můžete produk
 
 Až budou všechny položky přidány, přejděte zpět do kategorie **Účtenka** a přes velké zelené tlačítko **PLATBA** přejděte k úhradě. V novém okně libovolně vyberte způsob platby, informace o hotovosti a pokud jsou žádoucí, tak údaje pro KH.
 
+### Dotisk účtenky
+Pokud zákazník nebo situace vyžaduje vytisknout kopii účtenky, je toto možné provést v menu **"SPRÁVA->ÚČTENKY"**. Zde klikněte na danou účtenku a stiskněte tlačítko **"TISKNOUT"**
+
+
 
 ### Účtenku na email nebo tisknout?
 
