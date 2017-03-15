@@ -21,6 +21,16 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 4. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
 5. Stiskněte Zkušební tisk.
 
+### Apple
+1. Na **AppStore** nainstalujte aplikaci **"LIGHTBLUE"** 
+2. Zapněte tiskárnu, zkontrolujte zda máte papír v tiskárně a **spusťte aplikaci LIGHTBLUE**
+3. Vyhledejte tiskárnu v seznamu a klikněte na ni. 
+4. Po spárování Vám vyskočí parametry tiskárny, kde v pravém horním rohu stiskněte **tlačítko "CLONE"**
+5. Spusťte pokladnu LILKA a přejděte do záložky **"Správa->Tiskárna"**
+6. Zaškrtněte tlačítko **"povolit tisk na Bluetooth tiskárnu"** a vyberte tiskárnu ze seznamu tiskáren. Seznam naleznete ve spodní části s nápisem **"Údaje pro připojení k Bluetooth tiskárně"**.
+7. stiskněte **"zkušební tisk"**
+
+
 ### Windows 10 PC
 1. Na hlavním panelu Windows přejděte do menu Centrum akcí 
 <div align="center">

@@ -1,0 +1,6 @@
+Párování tiskárny
+
+
+
+Apple
+

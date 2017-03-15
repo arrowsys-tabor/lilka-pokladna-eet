@@ -29,7 +29,7 @@
   * [Přehledy tržeb](settings_reports.md)
   * [Účtenky](settings_receipts.md)
   * [Neodeslané účtenky](settings_unsentReceipts.md)
-* Tiskárna
+* [Tiskárna](tiskarna.md)
   * [Tiskárna](printer.md)
   * [Tiskárna kuchyň](printerkitchen.md)
 * [Práce s daty](práce-s-daty.md)
