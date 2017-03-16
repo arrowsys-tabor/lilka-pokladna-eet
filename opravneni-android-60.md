@@ -2,8 +2,6 @@
 
 -u nových verzí mobilního operačního systému ANDROID je možno uživatelsky měnit využítí jistých částí zařízení. Mezi nejdůležitější a nejdiskutovanější patří hlavně kamera, mikrofon, kontakty a uložiště. Toto povolíte v nastavení mobilního zařízení.
 
-
-
 **MENU-&gt;NASTAVENÍ-&gt;APLIKACE-&gt;vyberte patřičnou aplikaci a klikněte na kolonku OPRÁVNĚNÍ**
 
 
@@ -22,9 +20,11 @@ Pokud Vám nevyskočí automatické okno pro odesílání účtenek na email, pr
 
 ### Nelze mi zálohovat/obnovit pokladnu Lilka
 
-Pro zálohu je nutno mít vždy povolené **ULOŽIŠTĚ**
+Pro zálohu je nutno mít vždy povolené **ULOŽIŠTĚ,**
 
 
 
+### Při stisku EXPORT do .csv mi Lilka nic nedělá
 
+Pro exportování dat je nutné povolit **ULOŽIŠTĚ**
 

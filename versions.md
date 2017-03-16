@@ -1,5 +1,13 @@
 # Verze a změny
 
+### 1.9.3
+
+-
+
+### 1.9.2
+
+-
+
 ### 1.9.1
 
 * Úprava načítání QR Faktur

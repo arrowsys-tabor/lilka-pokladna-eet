@@ -11,7 +11,7 @@
   * [Apple iOS - EET Certifikát](apple-ios-eet-certifikat.md)
   * [Oprávnění ANDROID 6.0](opravneni-android-60.md)
   * [Mazání položek](mazani-polozek.md)
-* Obsluha programu
+* [Obsluha programu](obsluha-programu.md)
   * [Vložení produktů](products.md)
   * [Vytvoření účtenky](firstreceipt.md)
   * [Rychlé](quick.md)
