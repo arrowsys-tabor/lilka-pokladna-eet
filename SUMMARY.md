@@ -9,6 +9,7 @@
 * [Časté otázky](faq.md)
   * [Tiskne se mi pouze PKP](faq_pkpkod.md)
   * [Apple iOS - EET Certifikát](apple-ios-eet-certifikat.md)
+  * [Oprávnění ANDROID 6.0](opravneni-android-60.md)
 * Obsluha programu
   * [Vložení produktů](products.md)
   * [Vytvoření účtenky](firstreceipt.md)
