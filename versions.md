@@ -2,11 +2,22 @@
 
 ### 1.9.3
 
--
+* vylepšené odesílání účtenek
 
 ### 1.9.2
 
--
+* Změna tisku jednotkové ceny 2 L x 25.00
+* Oprava slévání množství a ceny na účtence při funkci tisku názvu položky na nový řádek a znakového tisku
+* Možnost netisknout jednotkovou cenu
+* Možnost tisknout jednotkovou cenu u korunových položek
+* Výpis tržeb celkem za stravenky na uzávěrku
+* Opraveno zadávání desetinných míst Rychlé kalkulačky \(100,05 a10,05\)
+* Vylepšení podpory BT tisku na Windows 10
+* Doplněno tlačítko pro vzdálenou pomoc na SUNMI V1 - TW V1 Doplněk
+* Lze zadat variabilní množství na 3 desetinná místa
+* Jednotkové množství produktu může být na 3 desetinná místa
+* Export obsahuje 3 desetinná místa
+* Vylepšení exportu na některých zařízeních
 
 ### 1.9.1
 
