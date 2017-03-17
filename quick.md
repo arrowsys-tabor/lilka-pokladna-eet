@@ -2,6 +2,13 @@
 
 Slouží k rychlému zadání tržby na účtenku.
 
+Pro bezproblémový chod kalkulačky musí být založeny položky se správnou sazbou daně, cenou "1", kódem zboží "999999" a PLU:
+
+* pro Bez DPH: 90900
+* pro DPH 10%: 90910 
+* pro DPH 15%: 90915
+* pro DPH 21%: 90921
+
 ### Zadaní tržby na účtenku
 
 1. Označte účtenku, na kterou chcete tržbu přičíst na záložce **Účtenka**
@@ -9,11 +16,11 @@ Slouží k rychlému zadání tržby na účtenku.
 3. Napište částku tržby na kalkulačce
 4. Stisknutím vybraného procenta DPH se převede tržba na označenou účtenku
 
-*V případě, že nejste plátce DPH (ve "Správa > Firma" je potřeba povolit "**Tisknout 'Subjekt není plátcem DPH**"), zobrazí se pouze 0% DPH.*
+_V případě, že nejste plátce DPH \(ve "Správa &gt; Firma" je potřeba povolit "**Tisknout 'Subjekt není plátcem DPH**"\), zobrazí se pouze 0% DPH._
 
 Pokud chcete provést platbu, klikněte na tlačítko **PLATBA**, která platí pro celou označenou účtenku. Po provedení platby se program vrátí na hlavní účtovací obrazovku **Účtenka**.
 
-Načíst lze také konkrétní položka, a to vyplněním jejího PLU a stisknutím tlačítka **PLU**. *(kód PLU se nastavuje při vytvoření položky)*
+Načíst lze také konkrétní položka, a to vyplněním jejího PLU a stisknutím tlačítka **PLU**. _\(kód PLU se nastavuje při vytvoření položky\)_
 
 Pro zadávání stejné částky vícekrát je zde operátor **X** - násobení.
 
@@ -23,12 +30,13 @@ Lze zadat záporné hodnoty vyplněním příslušné hodnoty a následném stis
 
 ![](img/quick_after.png)
 
-*obrázek: označená účtenka před provedením tržby*
+_obrázek: označená účtenka před provedením tržby_
 
 ![](img/quick_quick.png)
 
-*obrázek: zadání tržby v položce rychlé, po kliknutí na **21%** se tržba převede na účtenku s DPH 21%*
+_obrázek: zadání tržby v položce rychlé, po kliknutí na **21%** se tržba převede na účtenku s DPH 21%_
 
 ![](img/quick_before.png)
 
-*obrázek: označená účtenka po provedení tržby*
+_obrázek: označená účtenka po provedení tržby_
+
