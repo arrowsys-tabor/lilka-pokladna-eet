@@ -17,7 +17,7 @@
 * Lze zadat variabilní množství na 3 desetinná místa
 * Jednotkové množství produktu může být na 3 desetinná místa
 * Export obsahuje 3 desetinná místa
-* Vylepšení exportu na některých zařízeních
+* Vylepšené generování exportu na některých zařízeních
 
 ### 1.9.1
 
