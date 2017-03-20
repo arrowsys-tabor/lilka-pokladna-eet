@@ -47,4 +47,5 @@
 * [Pro dealery](pro-dealery.md)
   * [ELIO miniPOS V1](elio-minipos-v1.md)
   * [Vzdálená správa V1](vzdalena-sprava-v1.md)
+  * BETA - předčasaný přístup
 
