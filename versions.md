@@ -1,8 +1,14 @@
 # Verze a změny
 
+### 1.9.4
+
+* Opravena chyba odesílání v pověření
+* Přidána podpora Aclas Aow tisku
+* Možnost tisknout diakritiku - Nastavení tisku
+
 ### 1.9.3
 
-* vylepšené odesílání účtenek
+* Oprava chyby neodesílaných účtenek z archivu
 
 ### 1.9.2
 
