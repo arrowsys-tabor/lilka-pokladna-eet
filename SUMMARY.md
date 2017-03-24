@@ -48,4 +48,5 @@
   * [ELIO miniPOS V1](elio-minipos-v1.md)
   * [Vzdálená správa V1](vzdalena-sprava-v1.md)
   * [BETA - předčasaný přístup](beta-predcasany-pristup.md)
+  * [Rozsypání záložky ÚČTENKA](rozsypani-zalozky-uctenka.md)
 
