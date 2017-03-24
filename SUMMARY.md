@@ -49,4 +49,5 @@
   * [Vzdálená správa V1](vzdalena-sprava-v1.md)
   * [BETA - předčasaný přístup](beta-predcasany-pristup.md)
   * [Rozsypání záložky ÚČTENKA](rozsypani-zalozky-uctenka.md)
+  * [ODBLOKOVÁNÍ LICENCE](odblokovani-licence.md)
 
