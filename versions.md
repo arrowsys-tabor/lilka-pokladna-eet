@@ -1,5 +1,12 @@
 # Verze a změny
 
+### 1.9.5
+
+* Upraven počet zobrazovaných položek pro větší displeje \(nyní až 44\)
+* Opravena chyba duplicitních účtenek při špatném spojení s tiskárnou
+* Opravena chyba která při zápisu účtenky zapsala do označení pokladny označení provozovny
+* Opraveno špatné řazené účtenek ve Správa - Účtenky
+
 ### 1.9.4
 
 * Opravena chyba odesílání v pověření
