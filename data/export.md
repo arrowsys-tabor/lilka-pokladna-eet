@@ -16,57 +16,97 @@ Po stistknutí tlačítka bude vytvořen e-mail se spojovacím .csv souborem v p
 
 Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve Vašem zařízení.
 
+## Postup pro převod dat výstupu .csv na .xls
+
+-data ve formátu .csv jsou ve své podstatě pouhý text oddělený čárkami. V jejich standartní formě jsou špatně čitelná. Dají se ale převést do čitelného formátu. 
+
+### Převod na .xls pomocí [drive.google.com](https://drive.google.com/drive/my-drive) 
+
+1/ Spusťte intenetový prohlížeč a přejděte na adresu **https://drive.google.com/drive/my-drive **
+
+2/ Je nutné se **přihlásit** pomocí Vašeho **GMAIL** účtu a soubor** .csv** nahrát na **GOOGLE DRIVE**
+
+3/ Následně vytvořte nový sešit přímo na **"GOOGLE DRIVE"**. Uděláte tak stisknutím modrého tlačítka "PŘIDAT" v levém horním rohu prohlížeče a následným výběrem položky **"TABULKY GOOGLE"**
+
+![](/assets/exportgoogle1.jpg)
+
+4/ V novém sešitě zvolte záložku **"SOUBOR"** a **"IMPORTOVAT"**
+
+5/ Zvolte požadovaný soubor a nakonfigurujte vložení dle obrázku níže
+
+![](/assets/exportgoogle2.JPG)
+
+6/ Stiskněte tlačítko **"IMPORT"**
+
+
+
+### Převod pomocí EXCELL
+
+1/ Spusťte EXCELL a vytvořte prázdný sešit
+
+2/ Přejděte do záložky "DATA", stiskněte tlačítko "NAČÍST EXTERNÍ DATA" a zvolte položku "Z TEXTU"
+
+![](/assets/Exportexcell1.jpg)
+
+3/ Načtěte soubor.csv a dle obrázků níže nastavte hodnoty.
+
+![](/assets/Exportexcell2.JPG)
+
+![](/assets/Exportexcell3.JPG)
+
+![](/assets/Exportexcell4.JPG)
+
+4/ Pro správnou funkci je nutné nastavit formát text u sloupců F, J, N, O a P 
+
+5/Stiskněte tlačítko **"DOKONČIT"**
+
 
 
 #### Sloupce a formát CSV
 
-ReceiptId – interní ID účtenky,
+A - ReceiptId – interní ID účtenky,
 
-InternalNo – číslo účtenky,
+B - InternalNo – číslo účtenky,
 
-Jkpov – skladové označení položky,
+C- Jkpov – skladové označení položky,
 
-BuyerTin – DIČ odběratele,
+D - BuyerTin – DIČ odběratele,
 
-DateTime – datum a čas vystavení účtenky,
+E - DateTime – datum a čas vystavení účtenky,
 
-TotalValue – celková částka účtenky,
+F - TotalValue – celková částka účtenky,
 
-Text – název položky,
+G - Text – název položky,
 
-Unit – jednotka položky,
+H - Unit – jednotka položky,
 
-UnitAmount – jednotkové množství položky,
+I - UnitAmount – jednotkové množství položky,
 
-UnitPrice – jednotková cena položky,
+J - UnitPrice – jednotková cena položky,
 
-Quantity - množství,
+K - Quantity - množství,
 
-Amount - počet,
+L - Amount - počet,
 
-QuantityAmount - množství \(na účtence\),
+M - QuantityAmount - množství \(na účtence\),
 
-Netto – částka položky bez DPH,
+N - Netto – částka položky bez DPH,
 
-Brutto – cena položky s DPH,
+O - Brutto – cena položky s DPH,
 
-Tax – DPH z položky,
+P - Tax – DPH z položky,
 
-TaxPercentage – Daňová sazba,
+Q - TaxPercentage – Daňová sazba,
 
-BatchId – ID skupiny,
+R - BatchId – ID skupiny,
 
-BatchName - Název skupiny,
+S - BatchName - Název skupiny,
 
-fik – fiskální kód,
+T - fik – fiskální kód,
 
-EET\_SecureCode – BKP kód,
+U - EET\_SecureCode – BKP kód,
 
-EET\_SignatureCode – PKP kód,
+V - EET\_SignatureCode – PKP kód,
 
-Name - poznámka účtenky
-
-
-
-
+W - Name - poznámka účtenky
 
