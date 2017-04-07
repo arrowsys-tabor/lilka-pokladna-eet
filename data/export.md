@@ -16,3 +16,57 @@ Po stistknutí tlačítka bude vytvořen e-mail se spojovacím .csv souborem v p
 
 Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve Vašem zařízení.
 
+
+
+#### Sloupce a formát CSV
+
+ReceiptId – interní ID účtenky,
+
+InternalNo – číslo účtenky,
+
+Jkpov – skladové označení položky,
+
+BuyerTin – DIČ odběratele,
+
+DateTime – datum a čas vystavení účtenky,
+
+TotalValue – celková částka účtenky,
+
+Text – název položky,
+
+Unit – jednotka položky,
+
+UnitAmount – jednotkové množství položky,
+
+UnitPrice – jednotková cena položky,
+
+Quantity - množství,
+
+Amount - počet,
+
+QuantityAmount - množství \(na účtence\),
+
+Netto – částka položky bez DPH,
+
+Brutto – cena položky s DPH,
+
+Tax – DPH z položky,
+
+TaxPercentage – Daňová sazba,
+
+BatchId – ID skupiny,
+
+BatchName - Název skupiny,
+
+fik – fiskální kód,
+
+EET\_SecureCode – BKP kód,
+
+EET\_SignatureCode – PKP kód,
+
+Name - poznámka účtenky
+
+
+
+
+
