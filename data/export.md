@@ -18,15 +18,15 @@ Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve
 
 ## Postup pro převod dat výstupu .csv na .xls
 
--data ve formátu .csv jsou ve své podstatě pouhý text oddělený čárkami. V jejich standartní formě jsou špatně čitelná. Dají se ale převést do čitelného formátu. 
+-data ve formátu .csv jsou ve své podstatě pouhý text oddělený čárkami. V jejich standartní formě jsou špatně čitelná. Dají se ale převést do čitelného formátu .xls a .xlsx.
 
-### Převod na .xls pomocí [drive.google.com](https://drive.google.com/drive/my-drive) 
+### Převod na .xls pomocí [drive.google.com](https://drive.google.com/drive/my-drive)
 
-1/ Spusťte intenetový prohlížeč a přejděte na adresu **https://drive.google.com/drive/my-drive **
+1/ Spusťte intenetový prohlížeč a přejděte na adresu [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)** **
 
 2/ Je nutné se **přihlásit** pomocí Vašeho **GMAIL** účtu a soubor** .csv** nahrát na **GOOGLE DRIVE**
 
-3/ Následně vytvořte nový sešit přímo na **"GOOGLE DRIVE"**. Uděláte tak stisknutím modrého tlačítka "PŘIDAT" v levém horním rohu prohlížeče a následným výběrem položky **"TABULKY GOOGLE"**
+3/ Následně vytvořte nový sešit přímo na **"GOOGLE DRIVE"**. Uděláte tak stisknutím modrého tlačítka **"PŘIDAT"** v levém horním rohu prohlížeče a následným výběrem položky **"TABULKY GOOGLE"**
 
 ![](/assets/exportgoogle1.jpg)
 
@@ -36,15 +36,15 @@ Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve
 
 ![](/assets/exportgoogle2.JPG)
 
-6/ Stiskněte tlačítko **"IMPORT"**
+6/ Stiskněte tlačítko **"IMPORTOVAT"**
 
+7/Výsledný soubor uložte do počítače
 
+### Převod na .xls pomocí Excel
 
-### Převod pomocí EXCELL
+1/ Spusťte Excel a vytvořte prázdný sešit
 
-1/ Spusťte EXCELL a vytvořte prázdný sešit
-
-2/ Přejděte do záložky "DATA", stiskněte tlačítko "NAČÍST EXTERNÍ DATA" a zvolte položku "Z TEXTU"
+2/ Přejděte do záložky **"DATA"**, stiskněte tlačítko **"NAČÍST EXTERNÍ DATA"** a zvolte položku **"Z TEXTU"**
 
 ![](/assets/Exportexcell1.jpg)
 
@@ -56,11 +56,9 @@ Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve
 
 ![](/assets/Exportexcell4.JPG)
 
-4/ Pro správnou funkci je nutné nastavit formát text u sloupců F, J, N, O a P 
+4/ Pro správnou funkci je nutné nastavit formát **"TEXT"** u sloupců F - DateTime, J - UnitPrice, N - Netto, O - Brutto a P - Tax
 
-5/Stiskněte tlačítko **"DOKONČIT"**
-
-
+5/Stiskněte tlačítko **"DOKONČIT"  **a výsledný soubor uložte do počítače
 
 #### Sloupce a formát CSV
 
