@@ -1,5 +1,9 @@
 # Verze a změny
 
+### 1.9.6
+
+* Upraven tisk pro V1
+
 ### 1.9.5
 
 * Upraven počet zobrazovaných položek pro větší displeje \(nyní až 44\)
