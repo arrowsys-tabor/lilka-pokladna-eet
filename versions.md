@@ -1,5 +1,9 @@
 # Verze a změny
 
+### 1.9.7
+
+* podpora WiFi tiskáren
+
 ### 1.9.6
 
 * Upraven tisk pro V1
