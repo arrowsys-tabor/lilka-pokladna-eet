@@ -1,8 +1,17 @@
 # Verze a změny
 
+### 1.9.8
+
+* Zlepšení UI při platbě bitcoinem
+* Ochranné prvky při zápisu do pokladny, kontrola návaznosti zůstatku
+* Upozornění při vypnutém BT.
+* Zálohování konfiguračního souboru \(Android\)
+* Podpora ČSOB terminálu
+* Kontrola DIČ certifikátu
+
 ### 1.9.7
 
-* podpora WiFi tiskáren
+* Podpora WiFi tiskáren
 
 ### 1.9.6
 
