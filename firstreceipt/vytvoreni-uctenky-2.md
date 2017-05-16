@@ -6,9 +6,9 @@ V záložce **Účtenka **založíte novou účtenku kliknutím na velké modré
 
 ### Nyní přidejte produkty
 
-Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce **Produkty **klikněte na řádek produktu který budete chtít přidat na účtenku. Zobrazí se okno pro doplnění **Množství na účtenku**. V případě **chybného vložení produktu na účtenku **přidržte příslušný řádek prstem po 2 vteřiny a objeví se potvrzení volby o odstranění.
+Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce **Položky **klikněte na řádek produktu který budete chtít přidat na účtenku. Zobrazí se okno pro doplnění **Množství na účtenku**. V případě **chybného vložení produktu na účtenku **přidržte příslušný řádek prstem po 2 vteřiny a objeví se potvrzení volby o odstranění.
 
-![](blob:file:///848bc4ef-18c0-4ee0-a0c6-71c70b1492d5)
+
 
 Pokud se zařízením pracujete ve svislém módu \(našířku\), můžete produkty načítat na účtenku z nabídky produktů, která se zobrazuje vedle seznamu účtenek \(vpravo\).
 
@@ -20,7 +20,7 @@ Až budou všechny položky přidány, v kategori **Účtenka **zvolte velké ze
 
 ### Dotisk účtenky
 
-Pokud zákazník nebo situace vyžaduje vytisknout kopii účtenky, je toto možné provést v menu **"SPRÁVA-&gt;ÚČTENKY"**. Zde klikněte na danou účtenku a stiskněte tlačítko **"TISKNOUT"**  
+Pokud zákazník nebo situace vyžaduje vytisknout kopii účtenky, je toto možné provést v menu **"SPRÁVA &gt; ÚČTENKY"**. Zde klikněte na danou účtenku a stiskněte tlačítko **"TISKNOUT"**  
 ![](blob:file:///3711c475-ab30-44af-926e-5725d7028de3)
 
 ### Účtenku na email nebo tisknout?
