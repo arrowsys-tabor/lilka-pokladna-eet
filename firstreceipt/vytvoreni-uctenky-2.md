@@ -16,7 +16,7 @@ Pokud se zařízením pracujete ve svislém módu \(našířku\), můžete produ
 
 ### Ukončete účtenku
 
-Až budou všechny položky přidány, přejděte zpět do kategorie **Účtenka **a přes velké zelené tlačítko **PLATBA **přejděte k úhradě. V novém okně libovolně vyberte způsob platby, informace o hotovosti a pokud jsou žádoucí, tak údaje pro KH.
+Až budou všechny položky přidány, v kategori **Účtenka **zvolte velké zelené tlačítko **PLATBA **přejděte k úhradě. Více popsáno v záložce "Platba".
 
 ### Dotisk účtenky
 
