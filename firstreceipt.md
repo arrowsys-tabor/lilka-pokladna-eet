@@ -29,14 +29,15 @@ Až budou všechny položky přidány, přejděte zpět do kategorie **Účtenka
 
 ### Dotisk účtenky
 Pokud zákazník nebo situace vyžaduje vytisknout kopii účtenky, je toto možné provést v menu **"SPRÁVA->ÚČTENKY"**. Zde klikněte na danou účtenku a stiskněte tlačítko **"TISKNOUT"**
-
+![](/assets/Dotisk uctenky.png)
 
 
 ### Účtenku na email nebo tisknout?
 
 Před pořízením další účtenky si v **Nastavení** vyberte zdali zákazníkovi budete účtenky tisknout po bluetooth tiskárně
 
--  vyžaduje mít vyplnění *Název tiskárny* v **Správa > Nastavení**
+-  vyžaduje mít vyplnění *Název tiskárny* v **Správa > Nastavení** 
 a nebo e-mailem
 - to bude potřeba zapnout *Povolit odesílání účtenek na e-mail* v **Správa > Nastavení**
+![](/assets/Uctenka emailem.png)
 
