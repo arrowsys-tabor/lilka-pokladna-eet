@@ -22,7 +22,7 @@
 
   4. **Netisknout jedn. cenu** - Pokud je mód aktivní, při tisku účtenky se pouze vytiskne celková cena druhu položky a její počet, cena za jednotlivé položky se nevytiskne
 
-  5. **Tisknout jedn. cenu u korunových položek** - Pokud je mód aktivní, tiskne u položek s kódem zboží "999999" a Jedn. cenou 1,cennu za jednotku.
+  5. **Tisknout jedn. cenu u korunových položek** - Pokud máte vyplněno v kodu zboží "999999", čili máte nastavenou položku jako korunovou položku, standartně se nebude zobrazovat jednotková cena, zapnutím tohoto módu docílíte toho že jednotková cena bude zobrazena na účtence i na korunnové položce.
 
 **Počet kopií** - číslo, kolikrát se bude tisknout kopie účtenky. Kopie účtenky se tisknou pouze v případě, že po dokončení platby tisk kopie povolíte a číslo v této kolonce je větší nebo rovno než 1.
 
