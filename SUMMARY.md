@@ -21,7 +21,7 @@
   * [Platba](invoice.md)
   * [Pokladna](cashregister.md)
   * [Prodej použitého zboží](prodej-pouziteho-zbozi.md)
-* Správa
+* [Správa](sprava.md)
   * [Účty](settings_accounts.md)
   * [Daňové sazby](settings_taxesrates.md)
   * [Skupiny](settings_groups.md)
