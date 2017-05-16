@@ -32,10 +32,6 @@ Lze zadat záporné hodnoty vyplněním příslušné hodnoty a následném stis
 
 ![](img/quick_after.png)
 
-_obrázek: označená účtenka před provedením tržby_
-
-![](img/quick_quick.png)
-
 _obrázek: zadání tržby v položce rychlé, po kliknutí na **21%** se tržba převede na účtenku s DPH 21%_
 
 ![](img/quick_before.png)
