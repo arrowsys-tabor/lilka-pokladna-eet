@@ -27,9 +27,7 @@ Pokud zákazník nebo situace vyžaduje vytisknout kopii účtenky, je toto mož
 
 Před pořízením další účtenky si v **Nastavení **vyberte zdali zákazníkovi budete účtenky tisknout po bluetooth tiskárně
 
-* vyžaduje mít vyplnění _Název tiskárny _v **Správa &gt; Nastavení **a nebo e-mailem to bude potřeba zapnout _Povolit odesílání účtenek na e-mail _v **Správa &gt; Nastavení**
+* vyžaduje mít vyplnění \_Název tiskárny \_v **Správa &gt; Nastavení **a nebo e-mailem to bude potřeba zapnout \_Povolit odesílání účtenek na e-mail \_v **Správa &gt; Nastavení**
 
 ![](blob:file:///1e79ad51-b7da-41c2-ae05-cda40c66c7ac)
-
-
 
