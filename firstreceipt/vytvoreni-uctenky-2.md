@@ -16,7 +16,7 @@ Pokud se zařízením pracujete ve svislém módu \(našířku\), můžete produ
 
 ### Ukončete účtenku
 
-Až budou všechny položky přidány, v kategori **Účtenka **zvolte velké zelené tlačítko **PLATBA **přejděte k úhradě. Více popsáno v záložce "Platba".
+Až budou všechny položky přidány, v kategori **Účtenka **zvolte velké zelené tlačítko **PLATBA **přejděte k úhradě. Více popsáno v záložce "[Platba](/invoice.md "Platba")".
 
 ### Dotisk účtenky
 
