@@ -31,7 +31,7 @@
 _obrázek: Po ukončení účtenky se objeví dotaz na tisk kopie_
 
 * Nastavení sestav:
-  **Tržby - nevypisovat položky** -** **
+  **Tržby - nevypisovat položky** -** **Při vypsání tržeb, při zaškrtnutí tohoto módu se vytisknou pouze sumy a součty DPH a názvy položek budou vynechány.
 
 
 
