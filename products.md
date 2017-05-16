@@ -59,5 +59,16 @@ Kód pro dohledání ceny / interní kód zboží
 
 **Zkratka**
 
-Pod zkratkou můžete hledat produkt na hlavní účtovací obrazovce.
+Pod zkratkou můžete hledat produkt na hlavní účtovací obrazovce.  
+Váže se na **Správa** &gt; **Prostředí** &gt; ** Účtenka** - "Tisknout zkratku položky" Což zajistí tisknutí zadané zkratky na účtenku.
+
+**Variabilní cena   
+**Modifikátor pro cenu \(např. sleva\)**  
+Variabilní název  
+**Možnost změny jména zboží při přidání na účtenku.**  
+Tisk objednávky  
+**Tisk obědnávky na propojenou tiskárnu \(npř. do kuchyně\). Lze spustit přes **PLATBA** &gt; **TISK OBJEDNÁVKY  
+**![](/assets/Tisk objednávky.png)**  
+K následnému čerpání \(poukázka apod.\)  
+**
 
