@@ -6,11 +6,7 @@ V záložce **Účtenka **založíte novou účtenku kliknutím na velké modré
 
 ### Nyní přidejte produkty
 
-Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce **Položky **klikněte na řádek produktu který budete chtít přidat na účtenku. Zobrazí se okno pro doplnění **Množství na účtenku**. V případě **chybného vložení produktu na účtenku **přidržte příslušný řádek prstem po 2 vteřiny a objeví se potvrzení volby o odstranění.
-
-
-
-Pokud se zařízením pracujete ve svislém módu \(našířku\), můžete produkty načítat na účtenku z nabídky produktů, která se zobrazuje vedle seznamu účtenek \(vpravo\).
+Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce **Položky **či z nabídky produktů, která se zobrazuje vedle seznamu účtenek \(vpravo\), který budete chtít přidat na účtenku. Zobrazí se okno pro doplnění **Množství na účtenku **\(popřípadě Variabilní název či cena\). V případě **chybného vložení produktu na účtenku **přidržte příslušný řádek účtenky prstem po 2 vteřiny a objeví se potvrzení volby o odstranění.
 
 ![](blob:file:///969a4b8d-7808-4785-bafe-179171ade2bd)
 
