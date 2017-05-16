@@ -36,5 +36,7 @@ _obrázek: zadání tržby v položce rychlé, po kliknutí na **21%** se tržba
 
 ![](img/quick_before.png)
 
+
+
 _obrázek: označená účtenka po provedení tržby_
 

@@ -14,6 +14,7 @@
 * [Obsluha programu](obsluha-programu.md)
   * [Vložení produktů](products.md)
   * [Vytvoření účtenky](firstreceipt.md)
+  * [Vytvoření účtenky 2](firstreceipt/vytvoreni-uctenky-2.md)
   * [Rychlé](quick.md)
   * [Suma](sum.md)
   * [Sleva](discount.md)
