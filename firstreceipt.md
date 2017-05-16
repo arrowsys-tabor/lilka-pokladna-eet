@@ -1,7 +1,7 @@
 # První účtenka
 
 ### Založení dokladu
-V záložce **Účtenky** založíte novou účtenku kliknutím na velké modré tlačítko **NOVÁ**. V zápětí bude vytvořen nový řádek, označený zeleně, to je barva která indikuje aktuálně vybranou účtenku. Účtenky s bílým pozadím jsou ty, se kterými nyní nepracujete.
+V záložce **Účtenka** založíte novou účtenku kliknutím na velké modré tlačítko **NOVÁ**. V zápětí bude vytvořen nový řádek, označený zeleně, to je barva která indikuje aktuálně vybranou účtenku. Účtenky s bílým pozadím jsou ty, se kterými nyní nepracujete.
 
 <div align="center">
     <p>

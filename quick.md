@@ -2,12 +2,14 @@
 
 Slouží k rychlému zadání tržby na účtenku.
 
-Pro bezproblémový chod kalkulačky musí být založeny položky se správnou sazbou daně, cenou "1", kódem zboží "999999" a PLU:
+Pro bezproblémový chod kalkulačky musí být založeny položky se správnou sazbou daně, cenou "1", kódem zboží "999999" a PLU.
 
-* pro Bez DPH: 90900
-* pro DPH 10%: 90910 
-* pro DPH 15%: 90915
-* pro DPH 21%: 90921
+Kód pro:
+
+* Bez DPH: 90900
+* DPH 10%: 90910 
+* DPH 15%: 90915
+* DPH 21%: 90921
 
 ### Zadaní tržby na účtenku
 
