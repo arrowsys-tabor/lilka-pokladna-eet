@@ -14,38 +14,22 @@ Pokud se zařízením pracujete ve svislém módu \(našířku\), můžete produ
 
 ![](blob:file:///969a4b8d-7808-4785-bafe-179171ade2bd)
 
-### Ukončeteúčtenku
+### Ukončete účtenku
 
-Až budou všechny položky přidány, přejděte zpět do kategorie**Účtenka**a přes velké zelené tlačítko**PLATBA**přejděte k úhradě. V novém okně libovolně vyberte způsob platby, informace o hotovosti a pokud jsou žádoucí, tak údaje pro KH.
+Až budou všechny položky přidány, přejděte zpět do kategorie **Účtenka **a přes velké zelené tlačítko **PLATBA **přejděte k úhradě. V novém okně libovolně vyberte způsob platby, informace o hotovosti a pokud jsou žádoucí, tak údaje pro KH.
 
-### Dotiskúčtenky
+### Dotisk účtenky
 
-Pokud zákazník nebo situace vyžaduje vytisknout kopii účtenky, je toto možné provést v menu**"SPRÁVA-&gt;ÚČTENKY"**. Zde klikněte na danou účtenku a stiskněte tlačítko**"TISKNOUT"**  
+Pokud zákazník nebo situace vyžaduje vytisknout kopii účtenky, je toto možné provést v menu **"SPRÁVA-&gt;ÚČTENKY"**. Zde klikněte na danou účtenku a stiskněte tlačítko **"TISKNOUT"**  
 ![](blob:file:///3711c475-ab30-44af-926e-5725d7028de3)
 
-### Účtenkunaemailnebotisknout?
+### Účtenku na email nebo tisknout?
 
-Před pořízením další účtenky si v**Nastavení**vyberte zdali zákazníkovi budete účtenky tisknout po bluetooth tiskárně
+Před pořízením další účtenky si v **Nastavení **vyberte zdali zákazníkovi budete účtenky tisknout po bluetooth tiskárně
 
-* vyžaduje mít vyplnění
-  _Název_
-  _tiskárny_
-  v
-  **Správa**
-  **&gt;**
-  **Nastavení**
-  a nebo e-mailem
-* to bude potřeba zapnout
-  _Povolit_
-  _odesílání_
-  _účtenek_
-  _na_
-  _e-mail_
-  v
-  **Správa**
-  **&gt;**
-  **Nastavení**
-  ![](blob:file:///1e79ad51-b7da-41c2-ae05-cda40c66c7ac)
+* vyžaduje mít vyplnění _Název tiskárny _v **Správa &gt; Nastavení **a nebo e-mailem to bude potřeba zapnout _Povolit odesílání účtenek na e-mail _v **Správa &gt; Nastavení**
+
+![](blob:file:///1e79ad51-b7da-41c2-ae05-cda40c66c7ac)
 
 
 
