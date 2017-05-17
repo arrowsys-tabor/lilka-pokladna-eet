@@ -28,7 +28,7 @@ Tlačítko **CL** slouží k vymazání hodnoty na kalkulačce.
 
 Lze zadat záporné hodnoty vyplněním příslušné hodnoty a následném stisknutí znaménka mínus -.
 
-Pomocí tlačítka fotoaparátu v pravém horním rohu lze načíst čárový kód \(tato funkce je pouze dodotečná a za špatných světelných podmínek nemusí fungovat, pokud chcete využívat čárové kódy doporučujeme zakoupení čtečky čárových kódů\), pro použití této funkce musíte mít v nastavení tabletu povolený fotoaparát : **NASTAVENÍ &gt; APLIKACE** ** &gt; EET Pokladna LILKA &gt;** **OPRÁVNĚNÍ &gt; Povolit fotoaparát**![](/assets/suma.png)
+Pomocí **tlačítka fotoaparátu **v pravém horním rohu lze načíst čárový kód \(tato funkce je pouze dodotečná a za špatných světelných podmínek nemusí fungovat, pokud chcete využívat čárové kódy doporučujeme zakoupení čtečky čárových kódů\), pro použití této funkce musíte mít v **nastavení tabletu** povolený fotoaparát : **NASTAVENÍ &gt; APLIKACE** ** &gt; EET Pokladna LILKA &gt;** **OPRÁVNĚNÍ &gt; Povolit fotoaparát**![](/assets/suma.png)
 
 ![](/assets/suma.png)
 
