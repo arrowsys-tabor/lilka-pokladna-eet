@@ -1,6 +1,6 @@
 # Prodej použitého zboží
 
-ANetCa umožňuje speciální režim EET pro prodej použitého zboží pro plátce DPH následně. Pro neplátce DPH se tento režim nevztahuje, prodej použitého zboží evidují jako běžnou tržbu bez DPH.
+LILKA umožňuje speciální režim EET pro prodej použitého zboží pro plátce DPH následně. Pro neplátce DPH se tento režim nevztahuje, prodej použitého zboží evidují jako běžnou tržbu bez DPH.
 
 1\) Je zapotřebí mít založeny speciální DPH skupiny pro prodej použitého zboží
 
