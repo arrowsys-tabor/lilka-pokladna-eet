@@ -10,13 +10,9 @@ Vlastní produkt zaevidujete v záložce **Položky** kliknutím na tlačítko *
 
 4\) Jednotková cena
 
-5\) Jednotka - např kus, sada nebo balení
+5\) Jednotka - např kus, sada nebo balení![](/assets/polozky.png)
 
-![](img/items.png)
-
-Produkty mohou být setříděny podle skupin, které lze zadat v záložce **Správa &gt; Skupiny**. Pokud si nepřejete používat skupiny, produkty se budou řadit podle vložení do kategorie _Nezařazené_.
-
-![](img/itemsAdjusting.png)
+Produkty mohou být setříděny podle skupin, které lze zadat v záložce **Správa &gt; Skupiny**. Pokud si nepřejete používat skupiny, produkty se budou řadit podle vložení do kategorie _Nezařazené_.![](/assets/vytvareni polozky.png)
 
 # POLOŽKY – ZÁKLADNÍ POŘÍZENÍ
 
@@ -62,14 +58,14 @@ Kód pro dohledání ceny / interní kód zboží
 Pod zkratkou můžete hledat produkt na hlavní účtovací obrazovce.  
 Váže se na **Správa** &gt; **Prostředí** &gt; ** Účtenka** - "Tisknout zkratku položky" Což zajistí tisknutí zadané zkratky na účtenku.
 
-**Variabilní cena             
+**Variabilní cena               
 **Modifikátor pro cenu \(např. sleva\)**  
-Variabilní název            
+Variabilní název              
 **Možnost změny jména zboží při přidání na účtenku.  
 ![](/assets/Variabilní.png)  
 **  
-Tisk objednávky            
+Tisk objednávky              
 **Tisk obědnávky na propojenou tiskárnu \(npř. do kuchyně\). Lze spustit přes **PLATBA** &gt; **TISK OBJEDNÁVKY  **![](/assets/Tisk objednávky.png)**  
-K následnému čerpání \(poukázka apod.\)            
+K následnému čerpání \(poukázka apod.\)              
 **Vytvoří možnost platit poukázkou či snížení ceny pomocí poukázky.
 
