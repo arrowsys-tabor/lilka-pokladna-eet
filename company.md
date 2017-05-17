@@ -10,5 +10,5 @@ Nejstručněji je potřeba vyplnit 3 položky:
 
 3\) DIČ
 
-Údaje lze také převzít z registru MFČR vyplněním IČO a následném stisknutí tlačítka **Převzít údaje z registru MFČR**.![](/assets/firma.png)
+Údaje lze také převzít z registru ARES vyplněním IČO a následném stisknutí tlačítka **ARES** a potvrzením stisknutí tlačítka **ANO**.![](/assets/firma.png)
 
