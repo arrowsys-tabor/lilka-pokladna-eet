@@ -6,7 +6,7 @@
 
 * Před použiváním vyplňte Bitcoin adresu nebo BIP44 veřejný klíč, nebo připojení BitcoinPay účet.
 
-### Platba kartouZ
+### Platba kartou
 
 1. Jedná se o platbu platební kartou kdy ve způsobu úhrady na účtence se zobrazí text** ZPŮSOB ÚHRADY: KARTOU.**
 
