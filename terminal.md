@@ -1,30 +1,28 @@
 # Platební terminál
 
--pokud vlastníte platební terminál nebo jej plánujete zřídit, je možné specifické typy spárovat s pokladnou.
+Pokud vlastníte platební terminál nebo jej plánujete zřídit, je možné určité typy spárovat přímo s pokladnou, tak aby obsluha při platbě kartou nemusela zadávat částku do terminálu ručně. Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úsporám a komfortu, kdy zákazník nedostává hromadu papírků.
 
 ### Instalace terminálu
 
--instalaci Bankovního terminálu provádí ze zásady osoba v tomto vyškolená. Důležité je mít terminál správně nastavený od banky.
+Instalaci platebních terminálů provádí ze zásady osoba servis od banky. K našim pokladnám doporučujeme platební terminály od ČSOB. 
 
-### Podporované terminály:
+### Podporované terminály
 
-CSOB - ICT220 a IPP220
+Mezi podporované terminály patří ICT 220, IPP 320, WX 675 a WX520.
 
-### Terminál v pokladně LILKA
+#### Nastavení
 
--slouží k zjednodušení platby kartou. Především eliminuje riziko, že se obsluha splete a zadá na terminálu jinou částku, než bylo plánováno.
+**IP adresa** - do tohoto pole se vkládá IP adresa terminálu
 
+**Port** - **33333**, pokud není uvedeno jinak
 
-
-#### Terminál ČSOB
-
-**IP adresa** - do tohoto pole se vkládá aktuální IP adresa terminálu
-
-**Port** - vždy je vyplněno "**33333**"
-
-**UDP protokol** - protokol, přes který běží terminál
+**UDP protokol** - protokol, přes který běží terminál. Využívejte výhradně tento.
 
 **TCP/IP protokol** - protokol, přes který běží terminál
+
+
+
+#### Uzávěrky a mezisoučty 
 
 **Uzávěrka** - Vytiskne uzávěrku terminálu, pro kontrolu tržby
 
@@ -32,7 +30,5 @@ CSOB - ICT220 a IPP220
 
 
 
-**JEDNÁ SE O PLACENOU SLUŽBU. PRO VÍCE INFORMACÍ PIŠTE NA EMAIL OBCHOD@ARROWSYS.CZ nebo volejte linku technické podpory 381/251685**
-
-
+_V případě zájmu o zřízení terminálu nebo propojení stávajícího terminálu s pokladnou, nás kontaktujte na obchod@arrowsys.cz, nebo telefonicky na 381251685._
 
