@@ -4,7 +4,7 @@ Certifikát je zapotřebí vygenerovat na PC nebo na mac OS, ne na iPhone nebo i
 
 ## Vytvoření certifikátu
 
-<iframe width="560" height="315" src="https://youtu.be/SB1bf9p6JrY" frameborder="0" allowfullscreen></iframe>
+
 
 Při vytváření certifikátu postupujte podle videa výše / [ZDE](https://youtu.be/SB1bf9p6JrY). Certifikát uložte do PC, následně postupujte podle následujícího postupu.
 
