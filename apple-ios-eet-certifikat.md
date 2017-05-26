@@ -8,13 +8,7 @@ Při vytváření certifikátu postupujte podle videa [ZDE ](https://youtu.be/SB
 
 Jakmile budete mít v PC stažený certifikát pokračujte podle tohoto videa [https://youtu.be/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY](https://www.youtube.com/watch?v=i_hUk8dnsLQ&)
 
-
-
-&lt;iframe width="560" height="315" src="
-
-[https://youtu.be/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY](https://youtu.be/i_hUk8dnsLQ?list=PLQUda_wxVbKyis7BChx4Mubf3g6D88alY "https://youtu.be/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY")" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=i\_hUk8dnsLQ&feature=youtu.be&list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 ## Vytváření certifikátu v Safari \(mac OS\)
 
