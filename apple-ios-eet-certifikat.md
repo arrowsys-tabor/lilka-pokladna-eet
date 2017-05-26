@@ -11,6 +11,9 @@ Jakmile budete mít v PC stažený certifikát pokračujte podle tohoto videa [h
 <iframe width="560" height="315" src="
 https://youtu.be/i_hUk8dnsLQ" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="
+https://www.youtube.com/embed/39ay7I9ZgT4" frameborder="0" allowfullscreen></iframe>
+
 
 ## Vytváření certifikátu v Safari \(mac OS\)
 
