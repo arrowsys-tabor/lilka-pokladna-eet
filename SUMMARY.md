@@ -1,10 +1,10 @@
 # Summary
 
+* [Videonávody](videonavody.md)
 * [Úvod](README.md)
   * [Začínáme](start.md)
   * [Nastavení EET](companyEET.md)
   * [Aktivování licence](license.md)
-  * [Videonávody](videonavody.md)
   * [Údaje firmy](company.md)
 * [Časté otázky](faq.md)
   * [Tiskne se mi pouze PKP](faq_pkpkod.md)
