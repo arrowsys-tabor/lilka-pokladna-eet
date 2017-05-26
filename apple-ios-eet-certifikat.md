@@ -4,14 +4,13 @@ Certifikát je zapotřebí vygenerovat na PC nebo na mac OS, ne na iPhone nebo i
 
 ## Vytváření certifikátu
 
-Při vytváření certifikátu postupujte podle videa [ZDE ](https://youtu.be/SB1bf9p6JrY)a uložte jej do PC, následně postupujte podle kroku níže.
+<iframe width="560" height="315" src="https://youtu.be/SB1bf9p6JrY" frameborder="0" allowfullscreen></iframe>
+
+Při vytváření certifikátu postupujte podle videa výše / [ZDE](https://youtu.be/SB1bf9p6JrY). Certifikát uložte do PC, následně postupujte podle následujícího postupu.
 
 Jakmile budete mít v PC stažený certifikát pokračujte podle tohoto videa [https://youtu.be/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY](https://www.youtube.com/watch?v=i_hUk8dnsLQ&)
 
-<iframe width="560" height="315" src="
-https://youtu.be/i_hUk8dnsLQ" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/39ay7I9ZgT4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/i_hUk8dnsLQ" frameborder="0" allowfullscreen></iframe>
 
 
 ## Vytváření certifikátu v Safari \(mac OS\)
