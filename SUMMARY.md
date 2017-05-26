@@ -27,10 +27,11 @@
   * [Skupiny](settings_groups.md)
   * [Nastavení](settings_settings.md)
   * [Prostředí](settings_environment.md)
+  * [Terminál](terminal.md)
   * [Pokladna](settings_cashregister.md)
   * [Přehledy tržeb](settings_reports.md)
   * [Účtenky](settings_receipts.md)
-  * [Neodeslané účtenky](settings_unsentReceipts.md)
+  * Terminál
 * [Tiskárna](tiskarna.md)
   * [Tiskárna](printer.md)
   * [Tiskárna kuchyň](printerkitchen.md)

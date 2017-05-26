@@ -5,9 +5,9 @@ Zálohu dat je možné provést v záložce **Správa &gt; Správa dat**.
 * Po kliknutí na tlačítko **Zálohovat** se zobrazí seznam dostupných možností zálohování
 * Také se vytvoří v zařízení slozka LILKA-data s podsložkou BACKUP
 
-LILKA-data/lilka - aktuální záloha, která se provádí po každém startu aplikace
+**LILKA-data/lilka** - aktuální záloha, která se provádí po každém startu aplikace
 
-LILKA-data/BACKUP - záloha, která se vytvoří pokud stisknete tlačítko ZÁLOHOVAT
+**LILKA-data/BACKUP** - záloha, která se vytvoří pokud stisknete tlačítko ZÁLOHOVAT
 
 \*POZOR: po smazání zkušebních dat může na některých zařízeních dojít ke smazání této složky, Poté je nutné ji v zařízení ručně vytvořit.
 
@@ -73,12 +73,6 @@ U operačních systému Windows 10 desktop se bude e-mail otevírat, pouze pokud
 3. Spusťte LILKU
 4. Přejděte do záložky SPRÁVA-&gt;SPRÁVA DAT
 5. Stiskněte OBNOVIT
-
-
-
-
-
-
 
 ![](../img/deposit1.png)              ![](../img/deposit2.png)
 
