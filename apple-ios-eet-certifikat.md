@@ -10,23 +10,11 @@ Jakmile budete mít v PC stažený certifikát pokračujte podle tohoto videa [h
 
 
 
-```
-## Nastavení EET pro Apple iOS
-```
+&lt;iframe width="560" height="315" src="
 
-```
-<iframe width="560" height="315" src="
-https://youtu.be/i_hUk8dnsLQ?list=PLQUda_wxVbKyis7BChx4Mubf3g6D88alY" frameborder="0" allowfullscreen></iframe>
+[https://youtu.be/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY](https://youtu.be/i_hUk8dnsLQ?list=PLQUda_wxVbKyis7BChx4Mubf3g6D88alY "https://youtu.be/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY")" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 
-
-
-
-
-
-
-
-```
 
 ## Vytváření certifikátu v Safari \(mac OS\)
 
