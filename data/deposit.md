@@ -3,6 +3,13 @@
 Zálohu dat je možné provést v záložce **Správa &gt; Správa dat**.
 
 * Po kliknutí na tlačítko **Zálohovat** se zobrazí seznam dostupných možností zálohování
+* Také se vytvoří v zařízení slozka LILKA-data s podsložkou BACKUP
+
+LILKA-data/lilka - aktuální záloha, která se provádí po každém startu aplikace
+
+LILKA-data/BACKUP - záloha, která se vytvoří pokud stisknete tlačítko ZÁLOHOVAT
+
+\*POZOR: po smazání zkušebních dat může na některých zařízeních dojít ke smazání této složky, Poté je nutné ji v zařízení ručně vytvořit.
 
 ### Záloha na počítači či tabletu s Windows 10
 
@@ -42,7 +49,7 @@ Zálohu dat je možné provést v záložce **Správa &gt; Správa dat**.
 6. Ve spodní části obrazovky by se mělo objevit hláška **DATA BYLA OBNOVENA. RESTARTUJTE APLIKACI**
 7. Restartujte pokladnu LILKA
 
-### Záloha na mobilních zařízeních
+### Záloha na Android
 
 #### Záloha přes Bluetooth
 
@@ -58,6 +65,20 @@ Zálohu dat je možné provést v záložce **Správa &gt; Správa dat**.
 4. Odešlete
 
 U operačních systému Windows 10 desktop se bude e-mail otevírat, pouze pokud je výchozí poštovní klient aplikace [**Pošta**](https://www.microsoft.com/en-us/store/p/mail-and-calendar/9wzdncrfhvqm) \(LILKA není kompatibilní s programem Outlook\).
+
+#### Obnova ze zálohy Android
+
+1. Soubor se zálohou prekopírujte do složky LILKA-data v zařízení
+2. Přejmenujte jej tak, aby neměl žádnou příponu. Musí se jmenovat pouze LILKA
+3. Spusťte LILKU
+4. Přejděte do záložky SPRÁVA-&gt;SPRÁVA DAT
+5. Stiskněte OBNOVIT
+
+
+
+
+
+
 
 ![](../img/deposit1.png)              ![](../img/deposit2.png)
 
