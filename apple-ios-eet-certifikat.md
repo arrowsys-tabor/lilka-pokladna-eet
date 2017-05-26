@@ -2,7 +2,7 @@
 
 Certifikát je zapotřebí vygenerovat na PC nebo na mac OS, ne na iPhone nebo iPad.
 
-## Vytváření certifikátu
+## Vytvoření certifikátu
 
 <iframe width="560" height="315" src="https://youtu.be/SB1bf9p6JrY" frameborder="0" allowfullscreen></iframe>
 
