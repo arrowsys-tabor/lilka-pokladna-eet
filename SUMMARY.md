@@ -37,7 +37,7 @@
 * [Práce s daty](práce-s-daty.md)
   * [Hromadné vkládání dat \(import\)](data/import.md)
   * [Výstup dat \(export\)](data/export.md)
-  * [Správa dat \(záloha\)](data/deposit.md)
+  * [Záloha a obnova dat](data/deposit.md)
   * [Sklad - import](data/hromadny-import-sklady.md)
 * [Vzdálená správa](support/support.md)
 * [Řešení problémů](řešení-problémů.md)

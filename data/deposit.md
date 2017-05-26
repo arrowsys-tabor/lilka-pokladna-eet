@@ -1,4 +1,4 @@
-# Záloha dat
+# Záloha a obnova dat
 
 Zálohu dat je možné provést v záložce **Správa &gt; Správa dat**.
 
