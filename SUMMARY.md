@@ -7,7 +7,7 @@
   * [Aktivování licence](license.md)
   * [Údaje firmy](company.md)
 * [Časté otázky](faq.md)
-  * [Tiskne se mi pouze PKP](faq_pkpkod.md)
+  * [Účtenka má pouze PKP](faq_pkpkod.md)
   * [Apple iOS - EET Certifikát](apple-ios-eet-certifikat.md)
   * [Oprávnění ANDROID 6.0](opravneni-android-60.md)
   * [Mazání položek](mazani-polozek.md)
