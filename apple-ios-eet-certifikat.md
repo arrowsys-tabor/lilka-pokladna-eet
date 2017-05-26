@@ -1,4 +1,4 @@
-# Apple iOS - EET Certifikát
+# Nahrání certifikátu na Apple iOS
 
 Certifikát je zapotřebí vygenerovat na PC nebo na mac OS, ne na iPhone nebo iPad.
 
