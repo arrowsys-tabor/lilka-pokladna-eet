@@ -8,8 +8,8 @@
 * Zálohování na iOS
 - Při každém startu se duplikovaly skryté položky kalkulačky, aktualizace nepoužité smaže.
 * Ošetřena chyba při které bylo možné zvýšit číslo účtenky překliknutím na metodu platby.
-- Úplná podpora bankovního terminálu ČSOB
-- Záloha na Android se nyní tvoří do složky /LILKA-data/backup
+* Úplná podpora bankovního terminálu ČSOB
+* Záloha na Android se nyní tvoří do složky /LILKA-data/backup
 
 ### 2.0.0
 * Stabilita BT pro Windows
