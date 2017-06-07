@@ -16,7 +16,7 @@ Podporované klienty pro odesílání na email:
 
 [EMAIL.CZ](https://play.google.com/store/apps/details?id=cz.seznam.email)
 
-
+\*z pravidla platí, že aplikace pro email musí být správně nastavena a poté by mělo jít nainstalovat i jiné alternativní emailové klienty.
 
 ![](/assets/SPRAVA-NASTAVENI-EMAIL.PNG)
 
