@@ -27,11 +27,15 @@ Podporované klienty pro odesílání na email:
 3. Vyplňte **"VÝCHOZÍ PŘÍJEMCE, BCC SKRYTÁ KOPIE, PŘEDMĚT a ZPRÁVA"** - je nutné mít vyplněna všechna pole pro správnou funkci odesílání.
 4. Přejděte do záložky "ÚČTENKA",  vytvořte novou účtenku a pomocí tlačítka **"UHRADIT A ODESLAT E-MAIL"**.
 
-\*Pokud potřebujete opět tisknout na Bluetooth tiskárnu, je nutné zaškrtnout v záložce **"SPRÁVA-&gt;TISKÁRNA"** pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**.
+
 
 ![](/assets/UCTENKA-PLATBA-EMAIL.PNG)
 
 **UPOZORNĚNÍ:**
 
 \*na operačním systému **WINDOWS** je nutné mít nastavený výchozí program pro email jako **"POŠTA"**.
+
+
+
+\*Pokud potřebujete opět tisknout na Bluetooth tiskárnu, je nutné zaškrtnout v záložce **"SPRÁVA-&gt;TISKÁRNA"** pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**.
 
