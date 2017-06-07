@@ -4,6 +4,8 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 
 Účtenku lze zaslat i na email zákazníka pokud si tak situace vyžaduje a zákazník souhlasí. Toto se nastavuje v záložce **"SPRÁVA->NASTAVENÍ"** viz. dokumentace sekce **"SPRÁVA->NASTAVENÍ"** - vždy může být aktivní pouze jeden režim tisku/odeslání. Nastavení zpět na Bluetooth tiskárnu provedete zaškrtnutím pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**  v záložce **"SPRÁVA->TISKÁRNA"**
 
+### Podpora tisku na jednotlivých operačních systémech
+
 |  | **USB** | **Bluetooth** | 
 | -- |
 | **Android** | ANO | ANO | 
