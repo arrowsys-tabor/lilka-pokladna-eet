@@ -55,4 +55,5 @@
   * [Rozsypání záložky ÚČTENKA](rozsypani-zalozky-uctenka.md)
   * [ODBLOKOVÁNÍ LICENCE](odblokovani-licence.md)
   * [TEAMVIEWER](teamviewer.md)
+  * [Instalace LILKA na ostatních zařízeních](instalace-lilka-na-ostatnich-zarizenich.md)
 
