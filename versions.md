@@ -1,4 +1,10 @@
 # Verze a změny
+### 2.0.3
+* Nastavení emailu pro zálohu a exporty
+* Export produktů do skladů/v importovatelném formátu do LILKY
+* Oprava chyby, která způsobila nedopsání účtenky do pohybu kasy
+* Oprava chyby, která na účtence tiskla zbytečné nuly např. 35.0000001
+
 ### 2.0.2
 * Korektura německého překladu
 
