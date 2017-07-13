@@ -24,7 +24,7 @@
 
 -zkontrolujte zda máte nainstalovanou nejnovější verzi aplikace **"ANDROID SYSTEM WEBVIEW"**. Tu naleznete k nainstalování v aplikaci **"OBCHOD PLAY"**, která slouží k instalaci a aktualizaci všech aplikací ve Vašem zařízení.
 
-# Poskytoval internetu blokuje komunikaci se servery EET
+# Poskytovatel internetu blokuje komunikaci se servery EET
 
 Poskytovatel internetu musí povolit komunikaci na port 443 a webové adresy:
 
