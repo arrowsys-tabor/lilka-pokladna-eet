@@ -6,11 +6,9 @@
 
 -v záložce **SPRÁVA -&gt; INFORMACE O FIRMĚ** nastavte vyšší hodnotu časové odezvy pro **MEZNÍ DOBA ODEZVY**
 
-
-
 **2. způsob**
 
--zkontrolujte zda máte správně připojenou tiskárnu k Vašemu zařízení a zda-li je správně zadaná i v pokladně Lilka. 
+-zkontrolujte zda máte správně připojenou tiskárnu k Vašemu zařízení a zda-li je správně zadaná i v pokladně Lilka.
 
 **SPRÁVA-&gt;TISKÁRNA-&gt;ÚDAJE PRO PŘIPOJENÍ K BLUETOOTH TISKÁRNĚ-&gt;NÁZEV ZAŘÍZENÍ**
 
@@ -20,9 +18,11 @@
 
 # Nelze mi doodeslat účtenky
 
--přejděte do záložky **SPRÁVA -&gt; NEODESLANÉ ÚČTENKY** a stiskněte tlačítko **ZNOVU ODESLAT VŠE.**
+-přejděte do záložky **"SPRÁVA -&gt; NEODESLANÉ ÚČTENKY"** a stiskněte tlačítko **"ZNOVU ODESLAT VŠE".**
 
 -pokud Vám Lilka nechce doodeslat neodeslané účtenky opakujte toto později, servery finanční správy jsou pravděpodobně v danou chvíli zaneprázdněné.
+
+-zkontrolujte zda máte nainstalovanou nejnovější verzi aplikace **"ANDROID SYSTEM WEBVIEW"**. Tu naleznete k nainstalování v aplikaci **"OBCHOD PLAY"**, která slouží k instalaci a aktualizaci všech aplikací ve Vašem zařízení.
 
 # Poskytoval internetu blokuje komunikaci se servery EET
 
