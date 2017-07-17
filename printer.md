@@ -70,7 +70,7 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 
 
 ### Apple iOS
-1. Spárujte Vaši tiskárnu iOS.
+1. Spárujte Vaši tiskárnu s iOS.
 3. Spusťte EET pokladnu LILKA a přejděte do záložky **"SPRÁVA->TISKÁRNA"**.
 4. Zaškrtněte pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**.
 5. V poli **"NÁZEV ZAŘÍZENÍ"** vyberte spárovanou tiskárnu.
@@ -83,11 +83,11 @@ Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně 
 
 ## Spárování USB tiskárny
 ### Android
-1. Přejděte do záložky* Správa - Tiskárna* 
-2. Aktivujte USB tisk volbou *Povolit tisk na USB tiskárnu*.
-3. Stiskněte tlačítko *Vyhledat USB zařízení*.
-4. Pokud budete upozorněni, že byla nalezena USB zařízení ve výběrovém poli *Název zařízení* vyberte tiskárnu. V opačném případě připojené zařízení nepodporuje USB tisk, nebo je zařízení špatně připojeno.
-5. Stiskněte *Zkušební tisk*
+1. Přejděte do záložky **"SPRÁVA->TISKÁRNA"**.
+2. Aktivujte USB tisk volbou **"POVOLIT TISK NA USB TISKÁRNU"**.
+3. Stiskněte tlačítko **"VYHLEDAT ZAŘÍZENÍ"**.
+4. Vyberte v "NÁZEV ZAŘÍZENÍ" USB tiskárnu. Pokud by se Vás při tisku účtenky aplikace zeptala, zda chcete nastavit tiskárnu jako výchozí, potvrďte ANO.
+5. Stiskněte **"ZKUŠEBNÍ TISK"**.
 
 ## Google cloud print
 ### Android
@@ -109,14 +109,14 @@ Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně 
 
    ![](img/cloudprint2.png)
 
-4. Stiskněte tlačítko "Přidat tiskárny"
+4. Stiskněte tlačítko **"PŘIDAT TISKÁRNY"**
 5. Vyhledejte Vaši tiskárnu
    
    ![](img/cloudprint3.png)
 
 #### Nastavte google cloud tisk v zařízení s aplikací LILKA
 
-1. Otevřete "Nastavení > Tisk"
+1. Otevřete **"NASTAVENÍ->TISK"**
 2. Povolte Cloud print
 
    ![](img/cloudprint4.png)
@@ -124,6 +124,6 @@ Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně 
 #### Povolte Cloud tisk v aplikaci LILKA
 
 1. Otevřete program LILKA
-2. V záložce "Správa > Tiskárna" povolte "Tisk na Cloud tiskárnu"
+2. V záložce **"SPRÁVA->TISKÁRNA"** povolte **"TISK NA CLOUD TISKÁRNU"**
    
    ![](img/cloudprint5.png)
