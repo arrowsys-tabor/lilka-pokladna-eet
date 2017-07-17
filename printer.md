@@ -60,17 +60,21 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 
 
 ### Windows 10 Mobile
-1. Přejděte do Nastavení - Zařízení - Bluetooth.
-2. Zkontrolujte zdali Stav Bluetooth je Zapnuto.
-3. V seznamu vyberte vaši Bluetooth tiskárnu a vyplňte párovací klíč, nejčastěji je tato hodnota 0000, 1234 nebo 123456 
-4. Přejděte do *Pokladny LILKA*, záložky *Správa - Tiskárna* a název Bluetooth zařízení opište do pole *Název zařízení* v sekci *Údaje pro připojení k Bluetooth tiskárně*. Dbejte na správnost velkých a malých písmen.
-5. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
-6. Stiskněte Zkušební tisk.
+1. Přejděte do **"Nastavení->Zařízení->Bluetooth"** ve Vašem zařízení.
+2. Zkontrolujte zda-li je **"BLUETOOTH"** zapnuto.
+3. V seznamu vyberte Vaši Bluetooth tiskárnu a vyplňte párovací klíč. Nejčastější párovací klíče jsou **"0000, 1234 nebo 123456"**.
+3. Spusťte EET pokladnu LILKA a přejděte do záložky **"SPRÁVA->TISKÁRNA"**.
+4. Zaškrtněte pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**.
+5. V poli **"NÁZEV ZAŘÍZENÍ"** vyberte spárovanou tiskárnu.
+6. Stiskněte tlačítko **"ZKUŠEBNÍ TISK"**.
+
 
 ### Apple iOS
-1. Přejděte do *Pokladny LILKA*, záložky *Správa - Tiskárna*, v sekci *Údaje pro připojení k Bluetooth tiskárně vyberte z nabídky *Název zařízení* nabízenou tiskárnu *. Pokud se žádné zařízení v seznamnu nezobrazuje, stiskněte zlačítko **Vyhledat zařízení**.
-2. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
-3. Stiskněte Zkušební tisk.
+1. Spárujte Vaši tiskárnu iOS.
+3. Spusťte EET pokladnu LILKA a přejděte do záložky **"SPRÁVA->TISKÁRNA"**.
+4. Zaškrtněte pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**.
+5. V poli **"NÁZEV ZAŘÍZENÍ"** vyberte spárovanou tiskárnu.
+6. Stiskněte tlačítko **"ZKUŠEBNÍ TISK"**.
 
 
 ### Star Micronics
