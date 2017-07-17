@@ -1,6 +1,6 @@
 # Tiskárna
 
-LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth a USB. Tabulku podporovaných rozhraní naleznete níže.
+LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth, na Androidu i přes rozhraní USB. Tabulku podporovaných rozhraní naleznete níže.
 
 Účtenku lze zaslat i na email zákazníka pokud si tak situace vyžaduje a zákazník souhlasí. Toto se nastavuje v záložce **"SPRÁVA->NASTAVENÍ"** viz. dokumentace sekce **"SPRÁVA->NASTAVENÍ"** - vždy může být aktivní pouze jeden režim tisku/odeslání. Nastavení zpět na Bluetooth tiskárnu provedete zaškrtnutím pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**  v záložce **"SPRÁVA->TISKÁRNA"**
 
@@ -16,14 +16,15 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 
 ### Příprava
 - Tiskárnu je nutné před používáním zbavit ochrané fólie na baterce. Odstraňte kryt a sejměte z baterie ochranou fólii, která brání kontaktům pro napájení.
--  Nabijte a zapněte tiskárnu, následně postupujte podle typu operačního systému, který používáte.
+-  Nabijte, zapněte a vložte papír do tiskárny, následně postupujte podle typu operačního systému, který používáte.
 
 ### Android
-1. V *Nastavení* Vašeho zařízení přejděte do volby *Bluetooth*
-2. V seznamu *Dostupná zařízení* vyberte Vaši Bluetooth tiskárnu a vyplňte párovací klíč, nejčastěji je tato hodnota 0000, 1234 nebo 123456 
-3. Přejděte do *Pokladny LILKA*, záložky *Správa - Tiskárna* a název Bluetooth zařízení opište do pole *Název zařízení* v sekci *Údaje pro připojení k Bluetooth tiskárně*. Dbejte na správnost velkých a malých písmen.
-4. Aktivujte Bluetooth tisk volbou **Povolit tisk na Bluetooth tiskárnu**
-5. Stiskněte Zkušební tisk.
+1. Přejděte ve Vašem zařízení do záložky **"MENU->NASTAVENÍ->BLUETOOTH"** a zapněte **"BLUETOOTH"**.
+2. V seznamu **"DOSTUPNÁ ZAŘÍZENÍ"** vyberte Vaši Bluetooth tiskárnu a vyplňte párovací klíč. Nejčastější párovací klíče jsou **"0000, 1234 nebo 123456"**.
+3. Spusťte EET pokladnu LILKA.
+4. Přejděte do záložky **"SPRÁVA->TISKÁRNA"** a zaškrtněte pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**.
+5. V poli **"NÁZEV ZAŘÍZENÍ"** vyberte spárovanou tiskárnu.
+6. Stiskněte tlačítko **"ZKUŠEBNÍ TISK"**.
 
 ### Apple
 1. Na **AppStore** nainstalujte aplikaci **"LIGHTBLUE"** 
