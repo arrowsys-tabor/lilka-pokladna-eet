@@ -50,6 +50,7 @@
   * [Aktualizace](update.md)
 * [Periférie](periferie.md)
   * [Čtečka čárového kódu](periferie/ctecka-caroveho-kodu.md)
+  * [BT čtečka čárového kódu](periferie/bt-ctecka-caroveho-kodu.md)
 * [Pro dealery](pro-dealery.md)
   * [ELIO miniPOS V1](elio-minipos-v1.md)
   * [Vzdálená správa V1](vzdalena-sprava-v1.md)

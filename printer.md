@@ -86,8 +86,13 @@ Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně 
 1. Přejděte do záložky **"SPRÁVA->TISKÁRNA"**.
 2. Aktivujte USB tisk volbou **"POVOLIT TISK NA USB TISKÁRNU"**.
 3. Stiskněte tlačítko **"VYHLEDAT ZAŘÍZENÍ"**.
-4. Vyberte v "NÁZEV ZAŘÍZENÍ" USB tiskárnu. Pokud by se Vás při tisku účtenky aplikace zeptala, zda chcete nastavit tiskárnu jako výchozí, potvrďte ANO.
+4. Vyberte v **"NÁZEV ZAŘÍZENÍ"** USB tiskárnu. 
 5. Stiskněte **"ZKUŠEBNÍ TISK"**.
+
+Pokud by se Vás při zkušebním tisku aplikace zeptala, zda chcete nastavit tiskárnu jako výchozí, potvrďte OK. 
+
+***"POVOLIT APLIKACI EET POKLADNA LILKA PŘÍSTUP K ZAŘÍZENÍ USB?"** OK
+
 
 ## Google cloud print
 ### Android

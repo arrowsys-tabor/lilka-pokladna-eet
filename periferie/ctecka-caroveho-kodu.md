@@ -8,7 +8,7 @@
 
 2/ Pomocí dlouhého stisku scanovacího tlačítka vyzkoušejte, zda je funkční laser.
 
-3/ Následně je nutno čtečku nastavit pomocí přiložené kartičky s čárovými kódy. \(důležité je hlavně nastavit tzv. Terminátor, čili ukončující znak na**"ENTER"**\)
+3/ Následně je nutno čtečku nastavit pomocí přiložené kartičky s čárovými kódy. \(důležité je hlavně nastavit tzv. Terminátor, čili ukončující znak na **"ENTER"**\)
 
 4/ Pokud i tak načítá diakritická znaménka je nutno změnit jazyk klávesnice na anglický, tak, aby se při načtení čárového kódu objevila čísla nikoli diakritická znaménka.+
 
