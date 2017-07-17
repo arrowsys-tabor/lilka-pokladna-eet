@@ -78,7 +78,7 @@ LILKA umožňuje podle typu operačního systému tisk přes rozhraní Bluetooth
 
 
 ### Star Micronics
-Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně tiskárna podporuje pouze StarPRNT tiskový režim, aktivujte jej v nastavení LILKA - *Správa - Tiskárna - Star Micronics StarPRNT mód*.
+Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně tiskárna podporuje pouze **"StarPRNT mód"** tiskový režim, aktivujte jej v nastavení LILKA - **"SPRÁVA->TISKÁRNA->Star Micronics StarPRNT mód"**.
 
 
 ## Spárování USB tiskárny
