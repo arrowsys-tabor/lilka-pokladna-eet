@@ -4,13 +4,13 @@ Pokud vlastníte platební terminál nebo jej plánujete zřídit, je možné ur
 
 ### Instalace terminálu
 
-Instalaci platebních terminálů provádí ze zásady osoba servis od banky. K našim pokladnám doporučujeme platební terminály od ČSOB. 
+Instalaci platebních terminálů provádí ze zásady osoba servis od banky. K našim pokladnám doporučujeme platební terminály od ČSOB.
 
 ### Podporované terminály
 
 Mezi podporované terminály patří ICT 220, IPP 320, WX 675 a WX520.
 
-#### Nastavení
+#### Nastavení terminálu
 
 **IP adresa** - do tohoto pole se vkládá IP adresa terminálu
 
@@ -18,17 +18,13 @@ Mezi podporované terminály patří ICT 220, IPP 320, WX 675 a WX520.
 
 **UDP protokol** - protokol, přes který běží terminál. Využívejte výhradně tento.
 
-**TCP/IP protokol** - protokol, přes který běží terminál
+**TCP/IP protokol** - protokol, přes který běží terminál.
 
-
-
-#### Uzávěrky a mezisoučty 
+#### Uzávěrky a mezisoučty
 
 **Uzávěrka** - Vytiskne uzávěrku terminálu, pro kontrolu tržby
 
 **Mezisoučet** - Vytiskne průběžný stav tržeb bez uzavření kasy od posledního období
 
-
-
-_V případě zájmu o zřízení terminálu nebo propojení stávajícího terminálu s pokladnou, nás kontaktujte na obchod@arrowsys.cz, nebo telefonicky na 381251685._
+_V případě zájmu o zřízení terminálu nebo propojení stávajícího terminálu s pokladnou, nás kontaktujte na obchod@arrowsys.cz , nebo telefonicky na 381251685._
 

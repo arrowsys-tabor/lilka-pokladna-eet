@@ -36,7 +36,7 @@
   * [Pokladna](settings_cashregister.md)
   * [Přehledy tržeb](settings_reports.md)
   * Tiskárna
-* [Tiskárna](tiskarna.md)
+* [Tiskárna](tiskarny.md)
   * [Tiskárna](printer.md)
   * [Tiskárna kuchyň](printerkitchen.md)
 * [Práce s daty](práce-s-daty.md)
