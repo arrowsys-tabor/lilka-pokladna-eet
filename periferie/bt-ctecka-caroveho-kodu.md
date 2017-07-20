@@ -8,6 +8,11 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 2. Připojte **"BLUETOOTH"** čtečku a dlouhým stiskem scanovacího tlačítka vyzkoušejte zda je funkční laser.
 3. Po dobu pár vteřin podržte scanovací tlačítko pro vstup do režimu párování. 
 4. Vyhledejte v zařízení čtečku v nastavení BLUETOOTH a spárujte ji se zařízením.
+5. Přejděte do **"NASTAVENÍ-&gt;JAZYK A ZADÁVÁNÍ-&gt;AKTUÁLNÍ KLÁVESNICE"** ve Vašem zařízení. Zde se musí zapnout podpora hardwarové klávesnice, jinak bude brána jako hlavní klávesnice BT čtečka. Nabídka zobrazená níže je dostupná až po úspěšném spárování čtečky.
+
+\*aktuální nastavení klávesnice se může v jednotlivých verzích ANDROID lišit
+
+![](/assets/BT CTECKA-KLAVESNICE.PNG)
 
 ### Nastavení čtečky
 
@@ -20,7 +25,7 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 1. Spusťte EET pokladnu LILKA.
 2. Vytvořte novou účtenku.
 3. Vložte zboží pomocí čtečky čárového kódu na účtenku.
-4. Uhraďte
+4. Uhraďte.
 
 \*V záložce **"POLOŽKY"** je prvně nutné vyplnit k danému zboží čárová kód.
 
