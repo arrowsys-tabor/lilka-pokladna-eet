@@ -26,6 +26,7 @@
   * [Pokladna](cashregister.md)
   * [Prodej použitého zboží](prodej-pouziteho-zbozi.md)
 * [Správa](sprava.md)
+  * [Informace o firmě](informace-o-firme.md)
   * [Účty](settings_accounts.md)
   * [Daňové sazby](settings_taxesrates.md)
   * [Skupiny](settings_groups.md)
@@ -35,7 +36,10 @@
   * [Terminál](terminal.md)
   * [Pokladna](settings_cashregister.md)
   * [Přehledy tržeb](settings_reports.md)
-  * Tiskárna
+  * Účtenky
+  * [Neodeslané účtenky](neodeslane-uctenky.md)
+  * Správa dat
+  * Podpora
 * [Tiskárna](tiskarny.md)
   * [Tiskárna](printer.md)
   * [Tiskárna kuchyň](printerkitchen.md)
