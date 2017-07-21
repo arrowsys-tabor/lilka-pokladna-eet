@@ -38,8 +38,8 @@
   * [Přehledy tržeb](settings_reports.md)
   * [Neodeslané účtenky](neodeslane-uctenky.md)
   * [Účtenky](uctenky.md)
-  * Správa dat
-  * Podpora
+  * [Správa dat](sprava-dat.md)
+  * [Podpora](podpora.md)
 * [Tiskárna](tiskarny.md)
   * [Tiskárna](printer.md)
   * [Tiskárna kuchyň](printerkitchen.md)
