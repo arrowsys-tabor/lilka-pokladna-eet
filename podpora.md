@@ -19,9 +19,7 @@ Nyní již není možné dělat cvičné účtenky bez toho, aniž byste je muse
 
 Pokud byste chtěli znovu instalovat čistou verzi, je zapotřebí kontaktovat obchod@arrowsys.cz, abychom Vám aktivaci zpřístupnili.
 
-### Vzdálená pomoc
-
-# Vzdálená pomoc \(Android\)
+### Vzdálená pomoc pro Android
 
 1. Otevřete **Správa &gt; Podpora** a klikněte na tlačítko **Vzdálená pomoc**
 
