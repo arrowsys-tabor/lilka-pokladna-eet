@@ -32,8 +32,25 @@ Ve správě dat naleznete dodatkové funkce EET pokladny jako je EXPORT, IMPORT,
 
 1. Spusťte EET pokladnu LILKA.
 2. Přejděte do záložky **"SPRÁVA-SPRÁVA DAT"**.
-3. 
+3. Spusťte aplikaci **GMAIL**, rozklikněte email se zálohou a **stáhněte zálohu** do Vašeho zařízení ANDROID.
+4. Spusťte **správce souborů**, najděte zálohu, pojmenujte soubor jako **"lilka"** \(bude bez přípony\) a překopírujte do složky **"LILKA-Data"**.
+5. Přejděte do EET pokladny LILKA a stiskněte tlačítko **"OBNOVIT"**.
+
+\*musí vyskočit systémové hlášení **"obnova dat proběhla úspěšně"**
+
 ### Smazání zkušebních dat
+
+1. Přejděte do záložky **"SPRÁVA-&gt;SPRÁVA DAT"**.
+2. Zaškrtněte **"ODSTRANIT PRODUKTY"**, **"ODSTRANIT ÚČTENKY"** nebo obojí. Záleží co přesně potřebujete odstranit. Nejčastěji jsou to právě účtenky.
+3. Stiskněte tlačítko **"SMAZAT ZKUŠEBNÍ DATA"**.
+
+\*Po smazání zkušebních dat jako jsou účtenky nutné nastavit opět číselnou řadu účtenek v záložce **"SPRÁVA-&gt;INFORMACE O FIRMĚ"** jinak dojde k duplikování čísla účtenky na finanční správě.
+
+
+
+
+
+### 
 
 
 
