@@ -36,7 +36,7 @@
   * [Terminál](terminal.md)
   * [Pokladna](settings_cashregister.md)
   * [Přehledy tržeb](settings_reports.md)
-  * Účtenky
+  * [Účtenky](uctenky.md)
   * [Neodeslané účtenky](neodeslane-uctenky.md)
   * Správa dat
   * Podpora
