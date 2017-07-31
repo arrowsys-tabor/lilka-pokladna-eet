@@ -2,7 +2,7 @@
 
 U nových verzí mobilního operačního systému ANDROID je možno uživatelsky měnit využítí jistých částí zařízení. Mezi nejdůležitější a nejdiskutovanější patří hlavně kamera, mikrofon, kontakty a uložiště. Toto povolíte v nastavení mobilního zařízení.
 
-**MENU-&gt;NASTAVENÍ-&gt;APLIKACE-&gt;vyberte patřičnou aplikaci a klikněte na kolonku OPRÁVNĚNÍ**
+**MENU-&gt;NASTAVENÍ-&gt;APLIKACE-&gt;vyberte aplikaci "EET Pokladna LILKA" a klikněte na kolonku OPRÁVNĚNÍ**
 
 ### 
 
