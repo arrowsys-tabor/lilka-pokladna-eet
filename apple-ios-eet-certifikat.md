@@ -5,7 +5,7 @@ Certifikát je zapotřebí vygenerovat na PC nebo na mac OS, ne na iPhone nebo i
 ## Vytvoření certifikátu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SB1bf9p6JrY" frameborder="0" allowfullscreen></iframe>
 
-Při vytváření certifikátu postupujte podle videa výše / [ZDE](https://youtu.be/SB1bf9p6JrY). Certifikát uložte do PC, následně postupujte podle následujícího postupu.
+Při vytváření certifikátu postupujte podle videa výše / [ZDE](https://youtu.be/SB1bf9p6JrY). Certifikát uložte do PC, řiďte se pokyny ve videu.
 
 Jakmile budete mít v PC stažený certifikát pokračujte podle tohoto videa [https://youtu.be/i\_hUk8dnsLQ?list=PLQUda\_wxVbKyis7BChx4Mubf3g6D88alY](https://www.youtube.com/watch?v=i_hUk8dnsLQ&)
 
