@@ -8,7 +8,7 @@
 
    ![](Support2.png)
 
-   Pro plnou funkčnost aplikace prosím potvrďte instalaci potřebných doplňků
+   Pro plnou funkčnost aplikace prosím potvrďte instalaci potřebných doplňků pokud jsou vyžadovány.
 
    ![](Support3.png)
 
