@@ -11,7 +11,7 @@ Zkontrolujte následující
 * Pokud probíhá aktualizace, nechte aktualizaci dokončit
 * Pokud se zobrazuje možnost AKTUALIZOVAT, zvolte ji a vyčkejte nez se aktualizace dokončí.
 
-3\) Zkontrolujte zdali certifikát nebyl na webu [Daňové Správy - EET](http://www.etrzby.cz/) zneplatněn
+3\) Zkontrolujte zdali certifikát nebyl na webu [Daňové Správy - EET](http://www.etrzby.cz/) zneplatněn \(webová aplikace EET\)
 
 * Pokud byl zneplatněn, vytvořte nový certifikát a nahrajte jej do pokladny.
 
