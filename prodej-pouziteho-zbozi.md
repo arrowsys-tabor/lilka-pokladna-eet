@@ -2,7 +2,7 @@
 
 ANetCa umožňuje speciální režim EET pro prodej použitého zboží pro plátce DPH následně. Pro neplátce DPH se tento režim nevztahuje, prodej použitého zboží evidují jako běžnou tržbu bez DPH.
 
-1\) Je zapotřebí mít založeny speciální DPH skupiny pro prodej použitého zboží
+1\) Je zapotřebí mít založeny speciální DPH skupiny pro prodej použitého zboží. Tyto skupiny jsou již při prvotní instalaci založeny automaticky. Pokud by došlo z jakéhokoli důvodu k jejich smazání, musí být opětovně založeny v sekci **"SPRÁVA-&gt;DAŇOVÉ SAZBY"**.
 
 * PO-DPH21 kde % DPH bude 21
 * PO-DPH15 kde % DPH bude 15
@@ -11,7 +11,7 @@ ANetCa umožňuje speciální režim EET pro prodej použitého zboží pro plá
 * ZPO-DPH15 kde % DPH bude 0
 * ZPO-DPH10 kde % DPH bude 0
 
-2\) Vytvořit položku s PO-DPH21, která bude evidovat marži
+2\) Vytvořit položku s PO-DPH21, která bude evidovat marži. Další podrobnosti o založení nového zboží naleznete v sekci "OBSLUHA PROGRAMU-&gt;VLOŽENÍ PRODUKTŮ".
 
 3\) Vytvořit položku s ZPO-DPH21, která bude evidovat nákupní cenu zboží.
 
