@@ -4,5 +4,5 @@ Suma je finanční součet všech položek na právě označené účtence, zobr
 
 ![](/assets/suma.png)
 
-_obrázek: Suma označené účtenky, na níž jsou načtené položky v hodnotě 140 kč_
+_obrázek: Suma označené účtenky, na níž jsou načtené položky v hodnotě 195 Kč. _
 
