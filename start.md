@@ -14,5 +14,5 @@ Ovládání aplikace je rozděleno do _pěti_ hlavních záložek vyskytujícíc
 4. **Pokladna** zobrazuje aktuální zůstatek a pohyby pokladny.
 5. **Správa** obsahuje přehledy, exporty, možnosti prostředí a správu kategorizačních položek jako Skupin a DPH.
 
-Nastavení nabízí rozšířenou nabídku, do které lze vstoupit po kliknutí ikony se symbolem žebříku v levém horním rohu.![](/assets/firma++.png)
+HLAVNÍ NABÍDKA nabízí rozšířenou nabídku, do které lze vstoupit po kliknutí ikony se symbolem žebříku v levém horním rohu.![](/assets/firma++.png)
 
