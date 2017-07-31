@@ -26,11 +26,11 @@ Pokud do kolonky **"ID skupiny"** vyplníte skupinu, která ještě neexistuje a
 
 **\*zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdné.**
 
-Datové typy:
+### Datové typy:
 
 decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporované formáty: 2; 2.00; 2,00
 
-**Šablona pro hromadný import:**
+### **Šablona pro hromadný import:**
 
 **Vzorovou tabulku** si můžete stáhnout ve formátu **.xls** [ZDE](https://dokumentace.lilka.cz/import.xls) nebo k nahlédnutí přímo na **Google Drive** [ZDE](https://docs.google.com/spreadsheets/d/1CkQYw7V3bmsWK2f9R8JflQ8GQnmu664KwrTVstGxiCQ/edit?usp=sharing) . Pro úspěšný import do programu lilka je nutné převést soubor do **CSV** formátu v kódování **UTF-8**. Doporučujeme využívat editor tabulek v [Google Drive](https://www.google.cz/intl/cs/drive/). Excel ve výchozím nastavení UTF-8 neexportuje. Pokud si s tímto postupem nevíte rady, kontaktujte nás.
 
