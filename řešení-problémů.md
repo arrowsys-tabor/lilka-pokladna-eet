@@ -1,12 +1,12 @@
 # Lilka mi nechce odesílat účtenky.
 
-**1. způsob**
+**1. ŘEŠENÍ**
 
 -zkontrolujte prosím nastavení tiskárny
 
 -v záložce **SPRÁVA -&gt; INFORMACE O FIRMĚ** nastavte vyšší hodnotu časové odezvy pro **MEZNÍ DOBA ODEZVY**
 
-**2. způsob**
+**2. ŘEŠENÍ**
 
 -zkontrolujte zda máte správně připojenou tiskárnu k Vašemu zařízení a zda-li je správně zadaná i v pokladně Lilka.
 
