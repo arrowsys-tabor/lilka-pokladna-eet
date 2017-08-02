@@ -10,7 +10,7 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 3/ Následně je nutno čtečku nastavit pomocí přiložené kartičky s čárovými kódy. \(důležité je hlavně nastavit tzv. Terminátor, čili ukončující znak na **"ENTER"**\)
 
-4/ Pokud i tak načítá diakritická znaménka je nutno změnit jazyk klávesnice na anglický, tak, aby se při načtení čárového kódu objevila čísla nikoli diakritická znaménka.+
+4/ Pokud i tak načítá diakritická znaménka je nutno změnit jazyk klávesnice na anglický, tak, aby se při načtení čárového kódu objevila čísla nikoli diakritická znaménka.
 
 ### Vkládání čárového kódu do programu: {#vkládání-čárového-kódu-do-programu}
 
@@ -24,7 +24,7 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 1/ Zapněte čtečku a dlouhým stiskem scanovacího tlačítka zjistěte, zda je funkční laser.
 
-2/ Uveďte čtečku do továrního nastavení. Načtěte kód**"START-&gt;DEFAULT-&gt;END"**
+2/ Uveďte čtečku do továrního nastavení. Načtěte kód **"START-&gt;DEFAULT-&gt;END"**
 
 ![](https://anetca.arrowsys.cz/assets/CTECKA-START.png)
 
