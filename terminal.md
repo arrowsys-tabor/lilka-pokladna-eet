@@ -8,7 +8,7 @@ Instalaci platebních terminálů provádí ze zásady osoba pověřená od bank
 
 ### Podporované terminály
 
-Mezi podporované terminály patří ICT 220, IPP 220, WX 675 a WX520.
+Mezi podporované terminály patří ICT 220, IPP 320, WX 675 a WX 520.
 
 #### Nastavení terminálu
 
