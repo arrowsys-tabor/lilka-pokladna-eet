@@ -4,11 +4,11 @@ Pokud vlastníte platební terminál nebo jej plánujete zřídit, je možné ur
 
 ### Instalace terminálu
 
-Instalaci platebních terminálů provádí ze zásady osoba servis od banky. K našim pokladnám doporučujeme platební terminály od ČSOB.
+Instalaci platebních terminálů provádí ze zásady osoba pověřená od banky. K našim pokladnám doporučujeme platební terminály od ČSOB.
 
 ### Podporované terminály
 
-Mezi podporované terminály patří ICT 220, IPP 320, WX 675 a WX520.
+Mezi podporované terminály patří ICT 220, IPP 220, WX 675 a WX520.
 
 #### Nastavení terminálu
 
