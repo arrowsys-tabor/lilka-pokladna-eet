@@ -4,7 +4,7 @@ V pokladně LILKA je možné připojit vybrané typy terminálu ta, aby obsluha 
 
 ### Instalace terminálu
 
-Instalaci platebních terminálů provádí servisní organizace ČSOB. V současné době podporujeme pouze terminály ČSOB.
+Instalaci platebních terminálů provádí servisní organizace ČSOB. V současné době podporujeme pouze terminály** ČSOB**.
 
 ### Mezi podporované terminály patří
 
@@ -12,7 +12,7 @@ Ingenico: ICT 220, IPP 320
 
 Verifone: WX 675 a WX 520.
 
-Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úspoře papíru. Šetří se tak čas i papír. 
+Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úspoře papíru. Šetří se tak čas i papír.
 
 #### Nastavení terminálu
 
