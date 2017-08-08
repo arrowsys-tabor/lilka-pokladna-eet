@@ -1,6 +1,6 @@
 # Platební terminál
 
-V pokladně LILKA je možné připojit vybrané typy terminálu ta, aby obsluha při platbě kartou nemusela zadávat částku do terminálu ručně. Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úsporám a komfortu, kdy zákazník nedostává hromadu papírků.
+K pokladně LILKA je možné připojit vybrané typy terminálu tak, aby obsluha při platbě kartou nemusela zadávat částku do terminálu ručně. Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úsporám času a papíru.
 
 ### Instalace terminálu
 
@@ -11,8 +11,6 @@ Instalaci platebních terminálů provádí servisní organizace ČSOB. V souča
 Ingenico: ICT 220, IPP 320
 
 Verifone: WX 675 a WX 520.
-
-Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úspoře papíru. Šetří se tak čas i papír.
 
 #### Nastavení terminálu
 
