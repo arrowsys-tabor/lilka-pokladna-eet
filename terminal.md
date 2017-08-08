@@ -1,16 +1,22 @@
 # Platební terminál
 
-Pokud vlastníte platební terminál nebo jej plánujete zřídit, je možné určité typy spárovat přímo s pokladnou, tak aby obsluha při platbě kartou nemusela zadávat částku do terminálu ručně. Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úsporám a komfortu, kdy zákazník nedostává hromadu papírků.
+V pokladně LILKA je možné připojit vybrané typy terminálu ta, aby obsluha při platbě kartou nemusela zadávat částku do terminálu ručně. Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úsporám a komfortu, kdy zákazník nedostává hromadu papírků.
 
 ### Instalace terminálu
 
-Instalaci platebních terminálů provádí ze zásady osoba pověřená od banky. K našim pokladnám doporučujeme platební terminály od ČSOB.
+Instalaci platebních terminálů provádí servisní organizace ČSOB. V současné době podporujeme pouze terminály ČSOB.
 
-### Podporované terminály
+### Mezi podporované terminály patří
 
-Mezi podporované terminály patří ICT 220, IPP 320, WX 675 a WX 520.
+Ingenico: ICT 220, IPP 320
+
+Verifone: WX 675 a WX 520.
+
+Další výhodou je, že tisk probíhá pouze na tiskárně pokladny, dochází tedy k úspoře papíru. Šetří se tak čas i papír. 
 
 #### Nastavení terminálu
+
+Pokud plánujete připojit stávající terminál k LILCE, kontaktujte Vaši banku.
 
 **IP adresa** - do tohoto pole se vkládá IP adresa terminálu
 
