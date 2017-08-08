@@ -45,3 +45,12 @@ Pokud byste chtěli znovu instalovat čistou verzi, je zapotřebí kontaktovat o
 
 
 
+### Manuální aktualizace databáze
+
+1. Spusťte EET pokladnu LILKA.
+2. Přejděte do záložky **"SPRÁVA"**.
+3. V hlavní nabídce zvolte záložku **"PODPORA"**.
+4. Stiskněte tlačítko **"AKTUALIZOVAT DATABÁZI"**.
+
+
+
