@@ -43,8 +43,6 @@ Pokud byste chtěli znovu instalovat čistou verzi, je zapotřebí kontaktovat o
 
    ![](/support/support5.png)
 
-
-
 ### Manuální aktualizace databáze
 
 1. Spusťte EET pokladnu LILKA.
