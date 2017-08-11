@@ -1,4 +1,7 @@
 # Verze a změny
+### 2.0.5
+* Opravena chyba odesílání do EET v pověřujícím režimu
+
 ### 2.0.4
 * Základní podpora mobilního platebního terminálu mPOS
 * Opravena chyba, která neukládala účtenku na fakturu
