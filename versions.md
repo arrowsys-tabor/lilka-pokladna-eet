@@ -1,4 +1,14 @@
 # Verze a změny
+### 2.0.4
+* Základní podpora mobilního platebního terminálu mPOS
+* Opravena chyba, která neukládala účtenku na fakturu
+* Možnost ruční aktualizace DB (podpora).
+* Oprava platby Bitcoinem
+* Oprava částky -0.00 do EET
+* Oprava výběru pokladního na hlavní obrazovce
+* Možnost dotisknout účtenky emailem a Cloud tiskem
+* Odstraněna chyba, která při platbě bez EET + karta způsobovala, že se účtenka neukončila
+
 ### 2.0.3
 * Nastavení emailu pro zálohu a exporty
 * Export produktů do skladů/v importovatelném formátu do LILKY
