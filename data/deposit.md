@@ -13,17 +13,14 @@ Zálohu dat je možné provést v záložce **Správa &gt; Správa dat**.
 
 ### Záloha na počítači či tabletu s Windows 10
 
-1. Spusťte LILKU na Vašem iPad nebo iPhone.
-2. Přejděte do záložky **"SPRÁVA-&gt;SPRÁVA DAT"**.
-3. Stiskněte tlačítko **"ZÁLOHOVAT"**.
-4. Zadejte email přijemce zálohy a odešlete.
-
-\*při zálohování na Windows 10 musí být nastaven výchozí emailový klient aplikace POŠTA
+1. Přejděte do "C:\Users\_\_uživatel\_\_\AppData\Local\Packages\48856mareksip.DEMOLILKApokladnaEET\_x3wt2hez9zpqe\LocalState\".
+2. Zde překopírujte soubor "lilka" do složky, kde bude umístěna záloha.
+3. Soubor uchovejte pro případnou obnovu na bezpečném místě, kde nehrozí jeho ztráta.
 
 #### Obnova ze zálohy Windows 10
 
 1. Z emailu stáhněte přílohu do počítače.
-2. Překopírujte stažený soubor do: "C:\Users\\*_uživatel\*_\AppData\Local\Packages\48856mareksip.DEMOLILKApokladnaEET\_x3wt2hez9zpqe\LocalState\".
+2. Překopírujte stažený soubor do: "C:\Users\_\_uživatel\_\_\AppData\Local\Packages\48856mareksip.DEMOLILKApokladnaEET\_x3wt2hez9zpqe\LocalState\".
 3. Pokud je již ve složce takovýto soubor, nahraďte jej.
 4. Spusťte pokladnu LILKA.
 
