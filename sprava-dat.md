@@ -28,6 +28,8 @@ Ve správě dat naleznete dodatkové funkce EET pokladny jako je EXPORT, IMPORT,
 3. Stiskněte tlačítko **"ZÁLOHOVAT"**.
 4. Vyberte **GMAIL**, vyplňte adresu doručení a odešlete.
 
+\*pro otevření kontextové nabídky je nutné mít nastaveno správně oprávnění u aplikace LILKA v systému ANDROID. Především **"KONTAKTY, FOTOAPARÁT a ULOŽIŠTĚ"**.
+
 ### Obnovení
 
 1. Spusťte EET pokladnu LILKA.
