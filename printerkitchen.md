@@ -12,7 +12,9 @@
 
 1. Na hlavní účtovací obrazovce **"Účtenka"** označte účtenku, na které jsou položky, které chcete vytisknout do kuchyně
 2. Stiskněte tlačítko **"PLATBA"**.
-3. Tisk potvrďte stisknutím tlačítka "**TISK DO KUCHYNĚ".**
+3. Tisk potvrďte stisknutím tlačítka "**TISK DO KUCHYNĚ" **nebo** "TISK OBJEDNÁVKY".**
+
+
 
 ![](img/printerkitchen.png)
 
