@@ -20,11 +20,18 @@ Při vytváření účtu je potřeba vyplnit název účtu \(nejčastěji jméno
 
 ### Odstranění účtu
 
-Odstranění bude provedeno po dvouvteřinovém přidržení prstu na vybraném účtu.
+Odstranění bude provedeno po dvouvteřinovém přidržení prstu na vybraném účtu a následném stisknutí tlačítka **"ODSTRANIT"**.
 
 ![](img/settings_accounts1.png)
 
-**Přidat účet**
+### Přidání účtu
+
+1. Přejděte do záložky **"SPRÁVA-&gt;ÚČTY"**.
+2. Stiskněte tlačítko **"PŘIDAT ÚČET"**.
+3. Vyplňte **"NÁZEV"**.
+4. Stiskněte **"ULOŽIT"**.
+
+\*ostatní pole jsou nepovinná
 
 ![](img/settings_accounts2.png)
 
