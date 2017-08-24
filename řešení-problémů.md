@@ -16,6 +16,10 @@
 
 \*\*pokud jste zvolili způsob odesílání pomocí emailu, povolte oprávnění\(naleznete v sekci "časté otázky" naší dokumentace\)
 
+**3. ŘEŠENÍ**
+
+-zkontrolujte správnost zadání hesla k EET certifikátu a certifikát opětovně načtěte. Naleznete v **"SPRÁVA-&gt;INFORMACE O FIRMĚ"**.
+
 # Nelze mi doodeslat účtenky
 
 -přejděte do záložky **"SPRÁVA -&gt; NEODESLANÉ ÚČTENKY"** a stiskněte tlačítko **"ZNOVU ODESLAT VŠE".**

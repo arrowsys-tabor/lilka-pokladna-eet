@@ -18,7 +18,7 @@
 
 4. Nyní kontaktujte zákaznickou podporu Arrowsys na čísle **381 251 685** a sdělte váš problém a **ID kód** Vašeho zařízení
 
-5. Povolte připojení ke Vzdálené správě tlačítkem **Povolit**
+5. Povolte připojení ke Vzdálené správě tlačítkem **Povolit**, případně pokud je vyžadováno ještě tlačítko **Spustit**.
 
    ![](support5.png)
 

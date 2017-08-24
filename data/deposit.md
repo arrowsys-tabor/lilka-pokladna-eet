@@ -53,6 +53,8 @@ Zálohu dat je možné provést v záložce **Správa &gt; Správa dat**.
 2. Při zálohování zvolte možnost **"Bluetooth".**
 3. V seznamu spárovaných zařízení vyberte příslušné zařízení a data se začnou odesílat.
 
+\*záloha pomocí této varianty může trvat i několik minut
+
 #### Záloha přes E-mail
 
 1. Při zálohování zvolte možnost **"E-mail"** nebo **"Gmail".**
@@ -70,11 +72,17 @@ U operačních systému Windows 10 desktop se bude e-mail otevírat, pouze pokud
 
 #### Obnova ze zálohy Android
 
-1. Soubor se zálohou překopírujte do složky **"LILKA-data"** v zařízení.
-2. Přejmenujte jej tak, aby neměl žádnou příponu. Musí se jmenovat pouze **"lilka"**.
-3. Spusťte LILKU.
-4. Přejděte do záložky **"SPRÁVA-&gt;SPRÁVA DAT"**.
-5. Stiskněte **"OBNOVIT"**.
+1. Spusťte EET pokladnu LILKA.
+2. Přejděte do záložky **"SPRÁVA-&gt;SPRÁVA DAT"**.
+3. Z GMAIL stáhněte zálohu, případně překopírujte do zařízení.
+4. Přejmenujte soubor se zálohou tak, aby neměl žádnou příponu. Musí se jmenovat pouze **"LILKA"**.
+5. V EET pokladně LILKA přejděte do záložky **"SPRÁVA-&gt;SPRÁVA DAT"**.
+6. Spusťte správce souborů a smažte soubor** "LILKA" **z umístění** "LILKA-data/"**.
+7. Překopírujte soubor se zálohou do složky "**LILKA-data"**.
+8. Přejděte do EET pokladny LILKA a ve správě dat stiskněte tlačítko **"OBNOVIT"**.
+9. Zkontrolujte zda byla záloha obnovena úspěšně. Pokud ne, opakujte výše uvedený postup.
 
+\*po obnově dat je nutné provést alespoň jeden pohyb v pokladně\(účtenka, vklad, výdej\), aby se zobrazil správný hotovostní zůstatek v pokladně.
 
+\*\*po obnově je dobré nastavit číslování účtenek tak, aby byla zachována logická řada na finančním úřadě do EET. Nastavení číslování účtenky naleznete v záložce **"SPRÁVA-&gt;INFORMACE O FIRMĚ"**.
 
