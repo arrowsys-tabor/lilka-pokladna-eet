@@ -18,12 +18,6 @@ _Univerzální kód správce je: 8176_
 
 Při vytváření účtu je potřeba vyplnit název účtu \(nejčastěji jméno a příjmení vlastníka účtu\). Text zapsaný do kolonky **Text na účtence** se bude zobrazovat jako jméno obsluhy na účtenkách vytvořených pod tímto účtem. Zaškrtnutím kroužku **Účet má práva správce** se účtu udělí všechna administrativní práva. V opačném případě bude účet ochuzen o vstup do záložky **Správa** \(pokud bude nastaven **Kód správce**\).
 
-### Odstranění účtu
-
-Odstranění bude provedeno po dvouvteřinovém přidržení prstu na vybraném účtu a následném stisknutí tlačítka **"ODSTRANIT"**.
-
-![](img/settings_accounts1.png)
-
 ### Přidání účtu
 
 1. Přejděte do záložky **"SPRÁVA-&gt;ÚČTY"**.
@@ -31,7 +25,17 @@ Odstranění bude provedeno po dvouvteřinovém přidržení prstu na vybraném 
 3. Vyplňte **"NÁZEV"**.
 4. Stiskněte **"ULOŽIT"**.
 
-\*ostatní pole jsou nepovinná
+\*ostatní pole jsou nepovinná a jedná se pouze o uzpůsobení dle přání uživatele.
 
-![](img/settings_accounts2.png)
+### ![](/img/settings_accounts2.png)
+
+### Odstranění účtu
+
+Odstranění bude provedeno po dvouvteřinovém přidržení prstu na vybraném účtu a následném stisknutí tlačítka **"ODSTRANIT"**.
+
+![](img/settings_accounts1.png)
+
+### 
+
+
 
