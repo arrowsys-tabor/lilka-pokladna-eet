@@ -25,7 +25,7 @@ Podporované klienty pro odesílání na email:
 1. Přejděte do záložky **"SPRÁVA-&gt;NASTAVENÍ"**.
 2. Zaškrtněte pole **"POVOLIT ODESLÁNÍ ÚČTENEK NA E-MAIL ZÁKAZNÍKA"**.
 3. Vyplňte **"VÝCHOZÍ PŘÍJEMCE, BCC SKRYTÁ KOPIE, PŘEDMĚT a ZPRÁVA"** - je nutné mít vyplněna všechna pole pro správnou funkci odesílání.
-4. Přejděte do záložky **"ÚČTENKA"**,  vytvořte novou účtenku a pomocí tlačítka **"UHRADIT A ODESLAT E-MAIL"**.
+4. Přejděte do záložky **"ÚČTENKA"**,  vytvořte novou účtenku a pomocí tlačítka **"UHRADIT A ODESLAT E-MAIL" **odešlete do EET.
 
 ![](/assets/UCTENKA-PLATBA-EMAIL.PNG)
 
