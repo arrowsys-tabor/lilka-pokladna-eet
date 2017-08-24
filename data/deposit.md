@@ -77,8 +77,8 @@ U operačních systému Windows 10 desktop se bude e-mail otevírat, pouze pokud
 3. Z GMAIL stáhněte zálohu, případně překopírujte do zařízení z jiného zdroje.
 4. Přejmenujte soubor se zálohou tak, aby neměl žádnou příponu. Musí se jmenovat pouze **"LILKA"**.
 5. V EET pokladně LILKA přejděte do záložky **"SPRÁVA-&gt;SPRÁVA DAT"**.
-6. Spusťte správce souborů a smažte soubor** "LILKA" **z umístění** "LILKA-data/"**.
-7. Překopírujte soubor se zálohou do složky "**LILKA-data"**.
+6. Spusťte správce souborů a smažte soubor** "LILKA" **z umístění** "LILKA-data/" **v zařízení.
+7. Překopírujte soubor se zálohou do složky "**LILKA-data" **v zařízení.
 8. Přejděte do EET pokladny LILKA a ve správě dat stiskněte tlačítko **"OBNOVIT"**.
 9. Zkontrolujte zda byla záloha obnovena úspěšně. Pokud ne, opakujte výše uvedený postup.
 
