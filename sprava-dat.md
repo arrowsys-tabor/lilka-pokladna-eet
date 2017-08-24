@@ -44,11 +44,7 @@ Ve správě dat naleznete dodatkové funkce EET pokladny jako je EXPORT, IMPORT,
 2. Zaškrtněte **"ODSTRANIT PRODUKTY"**, **"ODSTRANIT ÚČTENKY"** nebo obojí. Záleží co přesně potřebujete odstranit. Nejčastěji jsou to právě účtenky.
 3. Stiskněte tlačítko **"SMAZAT ZKUŠEBNÍ DATA"**.
 
-\*Po smazání zkušebních dat jako jsou účtenky nutné nastavit opět číselnou řadu účtenek v záložce **"SPRÁVA-&gt;INFORMACE O FIRMĚ"** jinak dojde k duplikování čísla účtenky na finanční správě.
-
-
-
-
+\*Po smazání zkušebních dat jako jsou účtenky je nutné nastavit opět číselnou řadu účtenek v záložce **"SPRÁVA-&gt;INFORMACE O FIRMĚ"** jinak dojde k duplikování čísla účtenky na finanční správě.
 
 ### 
 
