@@ -1,12 +1,12 @@
 # Lilka mi nechce odesílat účtenky.
 
-**1. ŘEŠENÍ**
+**1. ŘEŠENÍ - čekající program jak na tiskárnu tak na internet**
 
 -zkontrolujte prosím nastavení tiskárny
 
 -v záložce **SPRÁVA -&gt; INFORMACE O FIRMĚ** nastavte vyšší hodnotu časové odezvy pro **MEZNÍ DOBA ODEZVY**
 
-**2. ŘEŠENÍ**
+**2. ŘEŠENÍ - zaseklá účtenlová tiskárna**
 
 -zkontrolujte zda máte správně připojenou tiskárnu k Vašemu zařízení a zda-li je správně zadaná i v pokladně Lilka.
 
@@ -16,7 +16,7 @@
 
 \*\*pokud jste zvolili způsob odesílání pomocí emailu, povolte oprávnění\(naleznete v sekci "časté otázky" naší dokumentace\)
 
-**3. ŘEŠENÍ**
+**3. ŘEŠENÍ - pouze zašedlé tlačítko uhradit a tisknout**
 
 -zkontrolujte správnost zadání hesla k EET certifikátu a certifikát opětovně načtěte. Naleznete v **"SPRÁVA-&gt;INFORMACE O FIRMĚ"**.
 
