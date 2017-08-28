@@ -4,9 +4,10 @@ Vlastní produkt zaevidujete v záložce "**Položky"** kliknutím na tlačítko
 
 1. Název.
 2. Daňovou sazbu.
-3. Jednotkové množství \(většinou 1, pokud si to situace nežádá jinak\).
-4. Jednotková cena.
-5. Jednotka - např kus, sada nebo balení.
+3. Skupinu
+4. Jednotkové množství \(většinou 1, pokud si to situace nežádá jinak\).
+5. Jednotková cena.
+6. Jednotka - např kus, sada nebo balení.
 
 ![](img/items.png)
 
