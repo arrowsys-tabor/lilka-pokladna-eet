@@ -13,8 +13,8 @@ Pro bezproblémový chod kalkulačky musí být založeny položky se správnou 
 
 1. Označte účtenku, na kterou chcete tržbu přičíst na záložce "**Účtenka".**
 2. Přesuňte se do záložky "**Rychlé".**
-3. Napište částku tržby na kalkulačce
-4. Stisknutím vybraného procenta DPH se převede tržba na označenou účtenku
+3. Napište částku tržby na kalkulačce.
+4. Stisknutím vybraného procenta DPH se převede tržba na označenou účtenku.
 
 _V případě, že nejste plátce DPH \(ve "Správa &gt; Firma" je potřeba povolit **"Tisknout 'Subjekt není plátcem DPH"**\), zobrazí se pouze 0% DPH._
 
