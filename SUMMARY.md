@@ -27,6 +27,7 @@
   * [Prodej použitého zboží](prodej-pouziteho-zbozi.md)
 * [Správa](sprava.md)
   * [Informace o firmě](informace-o-firme.md)
+  * [Bitcoin](settings_settings/bitcoin.md)
   * [Účty](settings_accounts.md)
   * [Daňové sazby](settings_taxesrates.md)
   * [Skupiny](settings_groups.md)
