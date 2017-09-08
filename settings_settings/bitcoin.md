@@ -31,9 +31,7 @@ Veřejný kód slouží pouze k přijímání nikoli odesílání, tudíž nehro
 
 Pokud používáte BIP44 adresy, můžete ji vyplnit přímo do pole **"BITCOIN ADRESA"**. Poté je nutné zaškrtnout tlačítko **"Zadaná adresa podporuje BIP44 - xpub musí být m´/44´/0´/0´"**.
 
-
-
-![](/assets/SPRAVA-NASTAVENI-BITCOIN2.png)
+![](/assets/SPRAVA-NASTAVENI-BITCOIN2.png)![](/assets/SPRAVA-NASTAVENI-BITCOIN2.png)
 
 ### Přijímání plateb BITCOIN s přímým převodem do Kč na bankovní účet
 
