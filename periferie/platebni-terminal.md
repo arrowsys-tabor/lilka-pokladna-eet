@@ -2,7 +2,7 @@
 
 Platební terminál slouží k provádění transakcí pomocí platební karty. Při přímém propojení platebního terminálu s EET pokladnou se tisknou údaje o provedené transakci přímo na účtenku. Pokladna tak dá pokyn ke zpracování transakce terminálu, tudíž vyplní částku za Vás, takže nemůže dojít k situaci, kdy se obsluha terminálu splete v částce.
 
-![](/assets/TERMINAL-INGENICO.JPG)![](/assets/TERMINAL-INGENICO.JPG)
+![](/assets/TERMINAL-INGENICO.JPG)
 
 ### Jak zaplatit kartou?
 
@@ -16,7 +16,7 @@ Stačí vytvořit novou účtenku, vložit na ni zboží a při výběru způsob
 
 #### **2.Bezkontaktním přiložením do místa, kde je terminál označen symbolem pro bezkontaktní platby **
 
-![](/assets/TERMINAL-BEZKONTAKTNI PLATBA.JPG)![](/assets/TERMINAL-BEZKONTAKTNI PLATBA.JPG)
+![](/assets/TERMINAL-BEZKONTAKTNI PLATBA.JPG)
 
 -zákazník přiloží bezkontaktní kartu a pokud je požadovaná částka do 500 Kč není nutné zadávat PIN. Když částka přesáhne 500 Kč je nutné zadat PIN na pinpadu.
 
