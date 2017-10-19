@@ -42,7 +42,7 @@ obr.
 
 Ne vždy je vhodné pro zákazníka provést storno platby přes infolinku. Pokud zákazník požaduje vrácení peněz přímo na místě, stornuje se platba vytvořením účtenky se záporným číslem, správnou sazbou daně a následným odesláním do EET. Peníze, které byly odeslány na účet obchodníka přijdou na účet v rámci následujících pracovních dnů. Jelikož bylo provedeno storno, částka z pokladny se rovněž odečte a vše sedí tak jak má.
 
-\*postup pro storno zápornou částkou naleznete v záložce **"RYCHLÉ"** této dokumentace.
+\*postup pro storno zápornou částkou naleznete v záložce **"OBSLUHA PROGRAMU-&gt;RYCHLÉ"** této dokumentace.
 
 ### **Není detail transakce, co mám dělat?**
 

@@ -16,6 +16,18 @@ Pro bezproblémový chod kalkulačky musí být založeny položky se správnou 
 3. Napište částku tržby na kalkulačce.
 4. Stisknutím vybraného procenta DPH se převede tržba na označenou účtenku.
 
+### Storno účtenky manuálně - zápornou částkou
+
+1. Přejděte do záložky **"RYCHLÉ"**.
+2. Vytvořte novou účtenku pomocí tlačítka **"NOVÁ"**.
+3. Zadejte částku a stiskněte tlačítko **"-"**.
+4. Stiskněte tlačítko daně, ve které se stornovaná částka nachází.
+5. Odešlete takto vytvořenou účtenku do EET.
+
+**\*POZOR\*** Pokud stornujete manuálně je nutné vždy vložit odděleně částku v jednotlivé dani.
+
+==========================================================================
+
 _V případě, že nejste plátce DPH \(ve "Správa &gt; Firma" je potřeba povolit **"Tisknout 'Subjekt není plátcem DPH"**\), zobrazí se pouze 0% DPH._
 
 Pokud chcete provést platbu, klikněte na tlačítko "**PLATBA"**, která platí pro celou označenou účtenku. Po provedení platby se program vrátí na hlavní účtovací obrazovku "**Účtenka"**.
