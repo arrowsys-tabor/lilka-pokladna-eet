@@ -1,11 +1,48 @@
 # Verze a změny
+
+### 2.1.4
+
+- Oprava blikání na terminálech V1
+
+### 2.1.3
+
+- Úprava logování ČSOB IP terminálu
+
+### 2.1.2
+
+- Úprava pro certifikaci mPOS
+
+### 2.1.1
+
+- Oprava přidávání položky na účtenku, kdy v některých situacích nebyla položka korektně přidána na účtenku
+
+- Omezení počtu číslic na kalkulačce na 12
+
+### 2.1.0
+
+- Oprava tisku PKP kódu na Q80 - tiskárna nemohla vytisknout řetězec delší než 150 znaků. \(iOS\)
+
+### 2.0.6
+
+- Opravení chyby které nevypisovalo položky na E-mail a Cloud účtence
+
+- Oprava textu při potvrzení storna účtenky
+
+- Nemožnost stornovat na Apple
+
+- Přidána možnost filtrování účtenek dle data
+
+- Přidána možnost zobrazit pouze stornované účtenky
+
 ### 2.0.5
+
 * Opravena chyba odesílání do EET v pověřujícím režimu
 
 ### 2.0.4
+
 * Základní podpora mobilního platebního terminálu mPOS
 * Opravena chyba, která neukládala účtenku na fakturu
-* Možnost ruční aktualizace DB (podpora).
+* Možnost ruční aktualizace DB \(podpora\).
 * Oprava platby Bitcoinem
 * Oprava částky -0.00 do EET
 * Oprava výběru pokladního na hlavní obrazovce
@@ -13,24 +50,28 @@
 * Odstraněna chyba, která při platbě bez EET + karta způsobovala, že se účtenka neukončila
 
 ### 2.0.3
+
 * Nastavení emailu pro zálohu a exporty
 * Export produktů do skladů/v importovatelném formátu do LILKY
 * Oprava chyby, která způsobila nedopsání účtenky do pohybu kasy
 * Oprava chyby, která na účtence tiskla zbytečné nuly např. 35.0000001
 
 ### 2.0.2
+
 * Korektura německého překladu
 
 ### 2.0.1
+
 * Opravena chyba která nulovala zůstatek v pokladně - problém s uzávěrkou
 * Po obnově dat se aktualizuje zůstatek kasy
 * Zálohování na iOS
-- Při každém startu se duplikovaly skryté položky kalkulačky, aktualizace nepoužité smaže.
+* Při každém startu se duplikovaly skryté položky kalkulačky, aktualizace nepoužité smaže.
 * Ošetřena chyba při které bylo možné zvýšit číslo účtenky překliknutím na metodu platby.
 * Úplná podpora bankovního terminálu ČSOB
 * Záloha na Android se nyní tvoří do složky /LILKA-data/backup
 
 ### 2.0.0
+
 * Stabilita BT pro Windows
 
 ### 1.9.8
