@@ -57,12 +57,19 @@ Zálohu dat je možné provést v záložce **Správa &gt; Správa dat**.
 
 #### Záloha přes E-mail
 
-1. Při zálohování zvolte možnost **"E-mail"** nebo **"Gmail".**
-2. Přidejte Váš e-mail do e-mailové aplikace \(aplikace, která se otevře po vybrání zálohy e-mailem\) - program vám sám tuto možnost nabídne.
-3. Vyplňte příjemce \(e-mail, na který bude záloha dat odeslána\).
-4. Odešlete.
+1. Spusťte EET pokladnu LILKA   .
+2. Přejděte do záložky **„SPRÁVA“**.
+3. V levém horním rohu klikněte na symbol 3 vodorovných čárek.
+4. Přejděte do záložky **„SPRÁVA DAT“**.
+5. Stiskněte tlačítko **"ZÁLOHOVAT"**  a zvolte otevření pomocí **„GMAIL“**.
+6. Do pole **"KOMU"** napište email na který potřebujete zálohu zaslat.
+7. V pravém horním rohu stiskněte symbol **„ŠIPKY“**.    Tím email odešlete. \(platí pro GMAIL, u ostatních emailových klientů se může lišit\)
 
-U operačních systému Windows 10 desktop se bude e-mail otevírat, pouze pokud je výchozí poštovní klient aplikace [**Pošta**](https://www.microsoft.com/en-us/store/p/mail-and-calendar/9wzdncrfhvqm) \(LILKA není kompatibilní s programem Outlook\).
+\*pokud se při stisknutí tlačítka **"ZÁLOHOVAT"** nic nestane, je nutné povolit oprávnění v systému Android. Návod naleznete v sekci **"ČASTÉ OTÁZKY-&gt;OPRÁVNĚNÍ ANDROID"** této dokumentace.
+
+\*\*před odesláním emailu zkontrolujte zda má email jako přílohu tyto dva soubory – lilka.dat a lilka.data
+
+
 
 ![](../img/deposit1.png)              ![](../img/deposit2.png)
 
