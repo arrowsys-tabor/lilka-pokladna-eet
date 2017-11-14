@@ -1,6 +1,6 @@
 # Připojení WIFI tiskárny
 
-Jedná se o bezdrátový tisk pomocí WIFI sítě. Tiskárnu je nutno řádně nastavit dle postupu níže.
+Jedná se o bezdrátový tisk pomocí WIFI sítě. Tiskárnu je nutno řádně nastavit dle postupu níže. Nastavení tiskárny se může dle modelu a výrobce lišit.
 
 ### Postup na model OK Print 300:
 
@@ -18,6 +18,10 @@ Jedná se o bezdrátový tisk pomocí WIFI sítě. Tiskárnu je nutno řádně n
 12. Do pole IP adresa zadejte IP adresu tiskárny z routeru.
 13. Do pole **PORT** zadejte** "9100"**.
 14. Stiskněte zkušební tisk.
+
+![](/assets/WIFI-STAmode.JPG)
+
+![](/assets/WIFI-STAinterface.JPG)
 
 ### SELFTEST tiskárny:
 
