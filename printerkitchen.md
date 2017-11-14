@@ -1,12 +1,11 @@
 # Jak tisknout objednávku do kuchyně
 
-Kombinace možných spojení
+Možné varianty propojení hlavní, účtenkové tiskárny a tiskárny do kuchyně.
 
-|  | **Hlavní tiskárna Bluetooth** | **Bluetooth** | 
+|  | **Účtenková Bluetooth** | **Účtenková WiFi** | **Účtenková Cloud** | **Účtenková USB** | **Účtenková V1/T1** | **Účtenková P200** | **Účtenková Aclas**| 
 | -- |
-| **K** | ANO | ANO | 
-| **Windows** | NE | ANO | 
-| **iOS** | NE | ANO | 
+| **Kuchyň WiFi** | ANO | x | x | x | ANO | x | x | 
+| **Kuchyň Bluetooth** | ANO | x | x | x | ANO | x | x | 
 
 
 
