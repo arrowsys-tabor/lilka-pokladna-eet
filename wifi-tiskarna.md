@@ -1,6 +1,6 @@
 # Připojení WIFI tiskárny
 
-Jedná se o bezdrátový tisk pomocí WIFI sítě.
+Jedná se o bezdrátový tisk pomocí WIFI sítě. Tiskárnu je nutno řádně nastavit dle postupu níže.
 
 ### Postup na model OK Print 300:
 
