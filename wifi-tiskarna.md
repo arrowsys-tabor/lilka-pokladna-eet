@@ -23,5 +23,7 @@ Jedná se o bezdrátový tisk pomocí WIFI sítě.
 
 Ve vypnutém stavu držte tlačítko FEED a zapněte tiskárnu. Po 1-2 vteřinách pusťte tlačítko FEED.
 
+\*po delším časovém úseku vyjede i lístek s nastavením WIFI
+
 **IP Tiskárny: 192.168.0.1 \(default\)**
 
