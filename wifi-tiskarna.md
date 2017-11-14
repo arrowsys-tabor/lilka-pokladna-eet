@@ -4,9 +4,9 @@ Jedná se o bezdrátový tisk pomocí WIFI sítě.
 
 ### Postup na model OK Print 300:
 
-1. Dle uživatelské příručky zjistěte IP tiskárny.
-2. Na Android zařízení zapněte WIFI.
-3. Připojte se k WIFI tiskárny\(printer-AP\) a zadejte IP tiskárny do webového prohlížeče.
+1. Dle uživatelské příručky zjistěte **IP tiskárny**.
+2. Na Android zařízení** zapněte WIFI**.
+3. **Připojte se k WIFI tiskárny\(printer-AP\)** a zadejte IP tiskárny do webového prohlížeče.
 4. Uživatelské jméno a heslo zjistíte z uživatelské příručky k tiskárně.
 5. V záložce **Mode Selection** zvolte **STA Mode** a dejte **APPLY**.
 6. V záložce STA Interface Setting vyberte pomocí tlačítka **SEARCH WiFi síť**, na kterou potřebujete tiskárnu napojit. Zadejte heslo tzv. **PASS PHRASE** a stiskněte **APPLY**.
@@ -22,8 +22,6 @@ Jedná se o bezdrátový tisk pomocí WIFI sítě.
 ### SELFTEST tiskárny:
 
 Ve vypnutém stavu držte tlačítko FEED a zapněte tiskárnu. Po 1-2 vteřinách pusťte tlačítko FEED.
-
-
 
 **IP Tiskárny: 192.168.0.1 \(default\)**
 
