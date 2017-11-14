@@ -44,6 +44,7 @@
 * [Tiskárna](tiskarny.md)
   * [Tiskárna](printer.md)
   * [Tiskárna kuchyň](printerkitchen.md)
+  * [WIFI tiskárna](wifi-tiskarna.md)
 * [Práce s daty](práce-s-daty.md)
   * [Hromadné vkládání dat \(import\)](data/import.md)
   * [Výstup dat \(export\)](data/export.md)
