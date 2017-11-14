@@ -1,5 +1,15 @@
 # Jak tisknout objednávku do kuchyně
 
+Kombinace možných spojení
+
+|  | **Hlavní tiskárna Bluetooth** | **Bluetooth** | 
+| -- |
+| **K** | ANO | ANO | 
+| **Windows** | NE | ANO | 
+| **iOS** | NE | ANO | 
+
+
+
 ### Připojení tiskárny kuchyně
 
 1. Spárujte tiskárnu kuchyně se zařízením, na kterém je nainstalován program LILKA podle tohoto návodu -                                      [https://lilka.arrowsys.cz/printer.html](https://lilka.arrowsys.cz/printer.html)
