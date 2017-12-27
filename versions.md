@@ -1,38 +1,61 @@
 # Verze a změny
 
+### 2.2.6
+
+* Upravení zasílání požadavků pro Bitcoin platby \(BlockCypher\)
+* Oprava Cloud tisku pro Windows 10 verze 1709 a 1703
+* Přidán kanadský dolar
+* Zaokrouhlování nastaveno pouze pro Kč
+* Přidána možnost "Zakázat storno"
+* Přidána možnost "Řadit účtenky vzestupně"
+* Po přepnutí BT tiskárny v nastavení už není nutné vypínat a zapínat program, aby se změna projevil
+* Uložení předem vybraného filtru v účtenkách po dobu deseti minut od poslední změny
+* Přidána funkce pro doodeslání v režimu cestovních služeb je potřeba, obdobně jako pro Prodej použítého zboží zadat DPH s názvem "CEST"
+* Ošetřeno vkládání nečíselných znaků do variabilní ceny a množství \(záložka Produkt\)
+* Oprava nastavení sekundární BT tiskárny.
+
+* Přidány další varianty propojení hlavní a objednávkové tiskárny
+
+  * BT hlavní + WiFi objednávková
+
+  * V1 hlavní + WiFi objednávková
+
+  * V1 hlavní + BT objednávková
+
 ### 2.1.4
 
-- Oprava blikání na terminálech V1
+* Oprava blikání na terminálech V1
 
 ### 2.1.3
 
-- Úprava logování ČSOB IP terminálu
+* Úprava logování ČSOB IP terminálu
 
 ### 2.1.2
 
-- Úprava pro certifikaci mPOS
+* Úprava pro certifikaci mPOS
 
 ### 2.1.1
 
-- Oprava přidávání položky na účtenku, kdy v některých situacích nebyla položka korektně přidána na účtenku
+* Oprava přidávání položky na účtenku  
+  , kdy v některých situacích nebyla položka korektně přidána na účtenku
 
-- Omezení počtu číslic na kalkulačce na 12
+* Omezení počtu číslic na kalkulačce na 12
 
 ### 2.1.0
 
-- Oprava tisku PKP kódu na Q80 - tiskárna nemohla vytisknout řetězec delší než 150 znaků. \(iOS\)
+* Oprava tisku PKP kódu na Q80 - tiskárna nemohla vytisknout řetězec delší než 150 znaků. \(iOS\)
 
 ### 2.0.6
 
-- Opravení chyby které nevypisovalo položky na E-mail a Cloud účtence
+* Opravení chyby které nevypisovalo položky na E-mail a Cloud účtence
 
-- Oprava textu při potvrzení storna účtenky
+* Oprava textu při potvrzení storna účtenky
 
-- Nemožnost stornovat na Apple
+* Nemožnost stornovat na Apple
 
-- Přidána možnost filtrování účtenek dle data
+* Přidána možnost filtrování účtenek dle data
 
-- Přidána možnost zobrazit pouze stornované účtenky
+* Přidána možnost zobrazit pouze stornované účtenky
 
 ### 2.0.5
 
