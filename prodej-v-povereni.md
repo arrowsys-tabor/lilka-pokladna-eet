@@ -2,7 +2,7 @@
 
 V pokladně je možné nastavit Pověřující DIČ, kterému se bude tržba na Finančním portále přiřazovat, tržby Pověřujícího \(osoby která tržby evidovala\) budou na portálu přiřazeny do kolonky tržby v Pověření. Pověřující DIČ se nastavuje v záložce Správa - Nastavení - Firma v poli **Pověřující DIČ.**
 
-Do pole je zapotřebí uvést DIČ Pověřujícího poplatníka, který pověřil evidujícího k evidenci tržeb.
+Do pole je zapotřebí uvést DIČ Pověřujícího poplatníka, který pověřil evidujícího k evidenci tržeb. Aby tržba byla řádně evidována v pověření, je nutné v platební formuláři před úhradou označit tržbu jako **Prodej v pověření**.
 
 **Příklad - Pověření dle § 9 odst. 1 ZoET**
 
@@ -15,4 +15,10 @@ Pověřený \(provozovatel stanice\) uvede v datové zprávě své DIČ do
 položky DIČ poplatníka \(dic\_popl\), dále uvede označení \(číslo\) své provozovny, které mu bylo přiděleno Finanční správou při založení této čerpací stanice jako jeho provozovny v aplikaci EET a zprávu podepisuje svým certifikátem. Do položky DIČ pověřujícího poplatníka \(dic\_poverujiciho\) uvede DIČ pověřujícího, tedy CZ00000019.
 
 ![](/assets/poverujici_dic.png)
+
+
+
+
+
+![](/assets/poverujici_dic_platba.png)
 
