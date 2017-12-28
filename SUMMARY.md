@@ -25,6 +25,7 @@
   * [Platba](invoice.md)
   * [Pokladna](cashregister.md)
   * [Prodej použitého zboží](prodej-pouziteho-zbozi.md)
+  * [Prodej v pověření](prodej-v-povereni.md)
 * [Správa](sprava.md)
   * [Informace o firmě](informace-o-firme.md)
   * [Bitcoin](settings_settings/bitcoin.md)
