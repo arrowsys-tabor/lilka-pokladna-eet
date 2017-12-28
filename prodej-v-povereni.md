@@ -10,15 +10,9 @@ Do pole je zapotřebí uvést DIČ Pověřujícího poplatníka, který pověři
 
 Čerpací stanici provozuje poplatník s DIČ CZ12121218. Pohonné hmoty nejsou jeho vlastní zboží, nýbrž je prodává na základě pověření dle § 9 odst. 1 ZoET. Pověřující poplatník má DIČ CZ00000019.
 
-Pověřený \(provozovatel stanice\) uvede v datové zprávě své DIČ do
-
-položky DIČ poplatníka \(dic\_popl\), dále uvede označení \(číslo\) své provozovny, které mu bylo přiděleno Finanční správou při založení této čerpací stanice jako jeho provozovny v aplikaci EET a zprávu podepisuje svým certifikátem. Do položky DIČ pověřujícího poplatníka \(dic\_poverujiciho\) uvede DIČ pověřujícího, tedy CZ00000019.
+Pověřený \(provozovatel stanice\) uvede v datové zprávě své DIČ do položky DIČ poplatníka \(**kolonka DIČ v pokladně**\), dále uvede označení \(**ID provozvny**\) své provozovny, které mu bylo přiděleno Finanční správou při založení této čerpací stanice jako jeho provozovny v aplikaci EET a zprávu podepisuje svým certifikátem. Do položky DIČ pověřujícího poplatníka \(**Pověřující DIČ**\) uvede DIČ pověřujícího, tedy CZ00000019.
 
 ![](/assets/poverujici_dic.png)
-
-
-
-
 
 ![](/assets/poverujici_dic_platba.png)
 
