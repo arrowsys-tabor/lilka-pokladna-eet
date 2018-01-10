@@ -10,7 +10,7 @@
 * Přidána možnost "Řadit účtenky vzestupně"
 * Po přepnutí BT tiskárny v nastavení už není nutné vypínat a zapínat program, aby se změna projevil
 * Uložení předem vybraného filtru v účtenkách po dobu deseti minut od poslední změny
-* Přidána funkce pro doodeslání v režimu cestovních služeb je potřeba, obdobně jako pro Prodej použítého zboží zadat DPH s názvem "CEST"
+* Přidána funkce pro doodeslání v režimu cestovních služeb je potřeba, obdobně jako pro Prodej použitého zboží zadat DPH s názvem "CEST"
 * Ošetřeno vkládání nečíselných znaků do variabilní ceny a množství \(záložka Produkt\)
 * Oprava nastavení sekundární BT tiskárny.
 
