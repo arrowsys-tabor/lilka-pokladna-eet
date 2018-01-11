@@ -2,11 +2,13 @@
 
 V **Nastavení** lze nastavit vlastnosti zařízení \(jazyk, měna\), text na účtence \(hlavička a zápatí účtenky\), povolit či zakázat zasílání účtenek na e-mail zákazníka a propojit zařízení s Bitcoinpay účtem.
 
-Jazyk: Česky, Němčina, Angličtina, Španělština, Italština, Litevština, Polštinai, Vietnamština 
+Jazyk: Česky, Němčina, Angličtina, Španělština, Italština, Litevština, Polštinai, Vietnamština
 
 Měna: Bitcoin, Euro, Česká koruna, Polski zloty, United States dollar, Canadian dollar
 
 \*Pro zasílání v rámci české republiky je dané zákonem, že celková částka odeslaná do EET musí být v českých korunách.
+
+\*\* Zaokrouhlena je pouze měna "ČESKÁ KORUNA". Ostatní měny jsou bez zaokrouhlení.
 
 
 
