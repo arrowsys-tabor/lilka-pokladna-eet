@@ -1,26 +1,25 @@
 # Verze a změny
 
-### 2.2.6
+### 2.2.7
 
-* Upravení zasílání požadavků pro Bitcoin platby \(BlockCypher\)
+* Opraven export textu při exportu produktů do souboru
 * Oprava Cloud tisku pro Windows 10 verze 1709 a 1703
-* Přidán kanadský dolar
-* Zaokrouhlování nastaveno pouze pro Kč
-* Přidána možnost "Zakázat storno"
-* Přidána možnost "Řadit účtenky vzestupně"
-* Po přepnutí BT tiskárny v nastavení už není nutné vypínat a zapínat program, aby se změna projevil
-* Uložení předem vybraného filtru v účtenkách po dobu deseti minut od poslední změny
-* Přidána funkce pro doodeslání v režimu cestovních služeb je potřeba, obdobně jako pro Prodej použitého zboží zadat DPH s názvem "CEST"
-* Ošetřeno vkládání nečíselných znaků do variabilní ceny a množství \(záložka Produkt\)
-* Oprava nastavení sekundární BT tiskárny.
-
-* Přidány další varianty propojení hlavní a objednávkové tiskárny
-
-  * BT hlavní + WiFi objednávková
-
-  * V1 hlavní + WiFi objednávková
-
-  * V1 hlavní + BT objednávková
+* Upravení požadavků Blockcypher
+* Přidána měna Kanadský dolar
+* Zaokrouhlování pouze pro měnu Kč
+* Do nastavení přidána možnost "Zakázat storno"
+* Do nastavení přidána možnost "Řadit účtenky vzestupně"
+* Seznam tiskáren se nyní skryje, pokud se nastaví WiFi tiskárna
+* Oprava chyby se zobrazením množství na účtence v konkrétních situacích
+* Po přepnutí tiskárny nyní není třeba program vypnout a znovu spustit, aby se nastavení provedlo
+* Filtr účtenek si nyní pamatuje nastavení po dobu 10 minut od poslední změny
+* Přidána funkce pro odesílání v režimu cestovních služeb; pro odeslání v tomto režimu je třeba vybrat DPH s označením CEST \(je nutné doplnit tuto sazbu DPH ručně\)
+* V záložce Produkt ošetřeno zadávání nečíselných znaků do variabliní ceny
+* Oprava nastavení sekundární BT tiskárny
+* Přidány další varianty propojení hlavní a objednávkové tiskárny a to následující:
+* - BT hlavní + WiFi obejdnávková
+* - oranžové V1 hlavní + WiFi objednávková
+* - oranžové V1 hlavní + BT objednávková
 
 ### 2.1.4
 
