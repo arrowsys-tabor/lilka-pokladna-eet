@@ -6,6 +6,10 @@ Pomocí tohoto výstupu lze vygenerovat soubor, který obsahuje seznam všech po
 
 \*\*důležité sloupce pro **import z exportu** produktů jsou A, B, C, D, E, G. Volitelné pak H, I a K \(sloupce jsou takto řazené po úspěšném převedení na .xls a je nutné správně vložit tyto sloupce do souboru s importem\)
 
+Export produktů je též přípravou pro jednoduché vložení položek do programu **"ZÁSOBY"**.
+
+**ZÁSOBY -** program, který lze zakoupit zvlášť a použít pro sledování skladů, inventury a odpis zboží z vedeného skladu. Pro bližší informace nás neváhejte kontaktovat na **zasoby@arrowsys.cz**
+
 ### Postup pro ANDROID
 
 1. Přejděte do záložky **"SPRÁVA-&gt;SPRÁVA DAT"**.
@@ -19,8 +23,6 @@ Pomocí tohoto výstupu lze vygenerovat soubor, který obsahuje seznam všech po
 Po stistknutí tlačítka bude vytvořen e-mail se spojovacím .csv souborem v příloze. E-mail odešlete na adresu ke které máte přístup i z účetního PC. Soubor z e-mail klienta uložte do PC. Pro funkci odesílání e-mailu z pokladny je zapotřebí mít nastavenou iCloud email aplikaci\(Apple\)/výchozí poštovní klient POŠTA\(Windows\)
 
 Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve Vašem zařízení.
-
-
 
 ### Postup pro převod dat výstupu .csv na .xls
 
@@ -78,7 +80,7 @@ Percentage - procento DPH
 
 UnitPrice - jednotková cena položky
 
-StockRemaining -
+StockRemaining - počet jednotek na skladě - podklad pro program "ZÁSOBY".
 
 Unit - jednotka například množství nebo ceny \(ks, Kč\)
 
@@ -86,7 +88,7 @@ Barcode - čárový kód
 
 Jkpov - kód zboží
 
-BuyPrice -
+BuyPrice - nákupní cena - podklad pro program "ZÁSOBY".
 
 PLU - mezinárodní kód, dle kterého lze vkládat zboží do účtenky pouze po napsání tohoto kódu a stisku tlačítka PLU
 
