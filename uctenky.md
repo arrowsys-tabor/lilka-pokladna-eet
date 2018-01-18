@@ -4,9 +4,7 @@ Přehled všech účtenek vytvořených v EET pokladně LILKA.
 
 ### Filtr účtenek
 
--pomocí filtru účtenek lze zobrazit vybrané rozpětí data po dobu 10 minut bez nutnosti vždy volit nový rozsah data po zobrazení jednotlivých účtenek. 
-
-
+-pomocí filtru účtenek lze zobrazit vybrané rozpětí data po dobu 10 minut bez nutnosti vždy volit nový rozsah data po zobrazení jednotlivých účtenek.
 
 ### Zobrazení účtenky
 
@@ -45,5 +43,5 @@ Přehled všech účtenek vytvořených v EET pokladně LILKA.
 4. Stiskněte ikonku obálky.
 5. Vyberte emailového klienta, zadejte adresu a odešlete.
 
-\*pro odeslání na email je nutné mít v aplikaci řádně nastavené odesílání na email .
+\*pro odeslání na email je nutné mít v aplikaci řádně nastavený emailový klient. Například GMAIL.
 
