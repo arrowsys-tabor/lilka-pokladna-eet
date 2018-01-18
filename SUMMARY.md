@@ -63,7 +63,7 @@
   * [Čtečka čárového kódu](periferie/ctecka-caroveho-kodu.md)
   * [BT čtečka čárového kódu](periferie/bt-ctecka-caroveho-kodu.md)
   * [Platební terminál ČSOB](periferie/platebni-terminal.md)
-* EXPORT
-  * EXPORT DAT
-  * EXPORT PRODUKTŮ
+* [EXPORT](export.md)
+  * [EXPORT DAT](export/export-dat.md)
+  * [EXPORT PRODUKTŮ](export/export-produktu.md)
 
