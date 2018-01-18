@@ -1,4 +1,4 @@
-### Export dat
+# Export dat
 
 Slouží jako podklad pro **odpis z programu "ZÁSOBY"**. Obsahuje seznam prodaného zboží za zvolené období dle jednotlivých účtenek.
 

@@ -1,4 +1,4 @@
-### Export produktů
+# Export produktů
 
 Pomocí tohoto výstupu lze vygenerovat soubor, který obsahuje seznam všech položek v programu včetně hodnot do nich zapsaných. Tento soubor lze při správném postupu použít jako podklad pro import \(viz. postup pro převod dat výstupu .csv na .xls níže\).
 
