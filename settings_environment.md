@@ -2,7 +2,7 @@
 
 #### Ovládání
 
-1. **Dotaz na množství po vybrání položky** - pokud je mód povolen, po každém přidání položky na účtenku se program dotáže na její                                                     množství. V opačném případě na účtenku vždy přidá položku pouze jednou.
+1. **Dotaz na množství po vybrání položky** - pokud je mód povolen, po každém přidání položky na účtenku se program dotáže na její množství. V opačném případě na účtenku vždy přidá položku pouze jednou.
 
 2. **Používat zvuková upozornění** - pokud je mód povolen, při každé platbě zazní zvuk otevření pokladny. V opačném případě nezazní.
 
@@ -30,9 +30,7 @@
 
 #### Nastavení sestav
 
-           1. **Tržby - nevypisovat položky **- pokud je volba povolena, netisknou se položky při tisku sestavy tržeb v záložce **SPRÁVA-&gt;PŘEHLEDY TRŽEB** a **POKLADNA-&gt;TRŽBY**.
-
-
+1. **Tržby - nevypisovat položky **- pokud je volba povolena, netisknou se položky při tisku sestavy tržeb v záložce **SPRÁVA-&gt;PŘEHLEDY TRŽEB** a **POKLADNA-&gt;TRŽBY**.
 
 **Počet kopií** - číslo, kolikrát se bude tisknout kopie účtenky. Kopie účtenky se tisknou pouze v případě, že po dokončení platby tisk kopie povolíte a číslo v této kolonce je větší než 1.
 
