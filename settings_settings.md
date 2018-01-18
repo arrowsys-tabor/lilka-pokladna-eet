@@ -10,8 +10,6 @@ Měna: Bitcoin, Euro, Česká koruna, Polski zloty, United States dollar, Canadi
 
 \*\* Zaokrouhlena je pouze měna "ČESKÁ KORUNA". Ostatní měny jsou bez zaokrouhlení.
 
-
-
 ![](img/settings_settings.png)
 
 ### 
@@ -44,6 +42,16 @@ Podporované klienty pro odesílání na email:
 \*na operačním systému **WINDOWS** je nutné mít nastavený výchozí program pro email jako **"POŠTA"**.
 
 \*Pokud potřebujete opět tisknout na Bluetooth tiskárnu, je nutné zaškrtnout v záložce **"SPRÁVA-&gt;TISKÁRNA"** pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**.
+
+
+
+### Výchozí EMAIL pro zálohu/export
+
+Postup:
+
+1. Přejděte do záložky **"SPRÁVA-&gt;NASTAVENÍ"**.
+2. Do pole **"Email pro zálohu/export"** zadejte email, který se má automaticky vyplnit do emailového klienta při záloze nebo exportu dat.
+3. Uložte.
 
 ### 
 
