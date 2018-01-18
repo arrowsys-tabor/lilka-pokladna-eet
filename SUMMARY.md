@@ -42,6 +42,9 @@
   * [Účtenky](uctenky.md)
   * [Správa dat](sprava-dat.md)
   * [Podpora](podpora.md)
+* [EXPORT](export.md)
+  * [EXPORT DAT](export/export-dat.md)
+  * [EXPORT PRODUKTŮ](export/export-produktu.md)
 * [Tiskárna](tiskarny.md)
   * [Tiskárna](printer.md)
   * [Tiskárna kuchyň](printerkitchen.md)
@@ -60,12 +63,7 @@
   * [Čtečka čárového kódu](periferie/ctecka-caroveho-kodu.md)
   * [BT čtečka čárového kódu](periferie/bt-ctecka-caroveho-kodu.md)
   * [Platební terminál ČSOB](periferie/platebni-terminal.md)
-* [Pro dealery](pro-dealery.md)
-  * [ELIO miniPOS V1](elio-minipos-v1.md)
-  * [Vzdálená správa V1](vzdalena-sprava-v1.md)
-  * [BETA - předčasaný přístup](beta-predcasany-pristup.md)
-  * [Rozsypání záložky ÚČTENKA](rozsypani-zalozky-uctenka.md)
-  * [ODBLOKOVÁNÍ LICENCE](odblokovani-licence.md)
-  * [TEAMVIEWER](teamviewer.md)
-  * [Instalace LILKA na ostatních zařízeních](instalace-lilka-na-ostatnich-zarizenich.md)
+* EXPORT
+  * EXPORT DAT
+  * EXPORT PRODUKTŮ
 

@@ -1,20 +1,26 @@
-# Výstup dat \(export\)
+### Export produktů
 
-* soubor obsahuje údaje o tržbách za dané období pro skladové a účetní systémy
+Pomocí tohoto výstupu lze vygenerovat soubor, který obsahuje seznam všech položek v programu včetně hodnot do nich zapsaných. Tento soubor lze při správném postupu použít jako podklad pro import \(viz. postup pro převod dat výstupu .csv na .xls níže\).
 
-Export dat provedeme vybráním záložky **Správa**. Následně v **Hlavní nabídce** vlevo vybereme položku **Správa**. Vybereme období ze kterého chceme data vybrat a klikneme na tlačítko **Export do CSV**.
+\*návod jak vytvořit import naleznete v sekci **PRÁCE S DATY-&gt;HROMADNÉ VKLÁDÁNÍ DAT \(IMPORT\)** této dokumetace
 
-Čas je ve formátu [UNIX](https://en.wikipedia.org/wiki/Unix_time), převodní vzorec pro excel je:** =E2/\(60\*1000\*60\*\(24\)\)+"1/1/1970 01:00" **kde E2 je buňka času v exportu.
+\*\*důležité sloupce pro **import z exportu** produktů jsou A, B, C, D, E, G. Volitelné pak H, I a K \(sloupce jsou takto řazené po úspěšném převedení na .xls a je nutné správně vložit tyto sloupce do souboru s importem\)
 
-### Android
+### Postup pro ANDROID
 
-Soubor se následně zapsán do datového úložiště zařízení. Ve výchozím stavu je úložiště nastaveno na /LILKA/pokladna-datumexportu.csv.
+1. Přejděte do záložky **"SPRÁVA-&gt;SPRÁVA DAT"**.
+2. Stiskněte tlačítko **"EXPORT PRODUKTŮ"**.
+3. Pokud Vám vyskočí okno s dotazem čím otevřít zvolte GMAIL, vyplňte adresu pro zaslání a odešlete na Vámi zvolenou adresu.
 
-### Apple/Windows
+\*na verzi ANDROID 6.0 a vyšší je nutné povolit aplikaci LILKA správná oprávnění, aby bylo možné export provést. Musí být povoleno **"ULOŽIŠTĚ, KONTAKTY A FOTOAPARÁT"**. Více informací o povolení oprávnění naleznete v sekci **ČASTÉ OTÁZKY-&gt;OPRÁVNĚNÍ ANDROID 6.0** této dokumentace.
+
+### Postup pro Apple/Windows
 
 Po stistknutí tlačítka bude vytvořen e-mail se spojovacím .csv souborem v příloze. E-mail odešlete na adresu ke které máte přístup i z účetního PC. Soubor z e-mail klienta uložte do PC. Pro funkci odesílání e-mailu z pokladny je zapotřebí mít nastavenou iCloud email aplikaci\(Apple\)/výchozí poštovní klient POŠTA\(Windows\)
 
 Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve Vašem zařízení.
+
+
 
 ### Postup pro převod dat výstupu .csv na .xls
 
@@ -60,51 +66,27 @@ Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve
 
 5/Stiskněte tlačítko **"DOKONČIT"  **a výsledný soubor uložte do počítače
 
-#### Sloupce a formát CSV
+### Vysvětlení jednotlivých pojmů EXPORTU PRODUKTŮ
 
-A - ReceiptId – interní ID účtenky,
+ProductName - název položky
 
-B - InternalNo – číslo účtenky,
+Abbreviation - zkratka, lze nastavit pro tisk na účtenku
 
-C- Jkpov – skladové označení položky,
+GroupName - název skupiny
 
-D - BuyerTin – DIČ odběratele,
+Percentage - procento DPH
 
-E - DateTime – datum a čas vystavení účtenky,
+UnitPrice - jednotková cena položky
 
-F - TotalValue – celková částka účtenky,
+StockRemaining -
 
-G - Text – název položky,
+Unit - jednotka například množství nebo ceny \(ks, Kč\)
 
-H - Unit – jednotka položky,
+Barcode - čárový kód
 
-I - UnitAmount – jednotkové množství položky,
+Jkpov - kód zboží
 
-J - UnitPrice – jednotková cena položky,
+BuyPrice -
 
-K - Quantity - množství,
-
-L - Amount - počet,
-
-M - QuantityAmount - množství \(na účtence\),
-
-N - Netto – částka položky bez DPH,
-
-O - Brutto – cena položky s DPH,
-
-P - Tax – DPH z položky,
-
-Q - TaxPercentage – Daňová sazba,
-
-R - BatchId – ID skupiny,
-
-S - BatchName - Název skupiny,
-
-T - fik – fiskální kód,
-
-U - EET\_SecureCode – BKP kód,
-
-V - EET\_SignatureCode – PKP kód,
-
-W - Name - poznámka účtenky
+PLU - mezinárodní kód, dle kterého lze vkládat zboží do účtenky pouze po napsání tohoto kódu a stisku tlačítka PLU
 
