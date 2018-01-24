@@ -1,6 +1,6 @@
 # Suma
 
-Suma je finanční součet všech položek na právě označené účtence, zobrazující se v horní části sekcí **Účtenka**, **Rychlé** a **Položky**.
+Suma je finanční součet všech položek na právě označené účtence, zobrazující se v levém horním rohu sekcí **Účtenka**, **Rychlé** a **Položky**.
 
 ![](/assets/suma.png)
 
