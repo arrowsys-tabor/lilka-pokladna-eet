@@ -32,9 +32,9 @@ ZPO-DPH15 - bazarový prodej
 
 ZPO-DPH21 - bazarový prodej
 
-CEST - cestovní kanceláře\(nutno dodatečně založit v SPRÁVA-&gt;DAŇOVÉ SAZBY\)
+CEST - cestovní kanceláře\(nutno dodatečně založit v SPRÁVA-&gt;DAŇOVÉ SAZBY s 0% DPH\)
+
+NEPODL - sazba celkové částky plnění osvobozených od DPH a ostatních plnění\(nutno dodatečně založit v SPRÁVA-&gt;DAŇOVÉ SAZBY s 0% DPH\)
 
 \*nově je možné přidat daňovou sazbu "CEST" pro cestovní kanceláře
-
-
 
