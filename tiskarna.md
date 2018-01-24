@@ -46,17 +46,15 @@ Sekundární tiskárna pro tisk do kuchyně. Doporučujeme tiskárnu podporujíc
 
 **WiFI -** tisk pomocí tiskárny, která je možná připojit pomocí WiFi. Je nutné nastavit její síťovou adresu IP a port.
 
-     **IP adresa -** síťová adresa tiskárny.
+* **IP adresa - **síťová adresa tiskárny.
 
-     **Port -** port tiskárny, nejčastěji "9100"
+* **Port -** port tiskárny, nejčastěji "9100"
 
 **Bluetooth -** tisk pomocí tiskárny podporující Bluetooth technologii. Je nutné mít tiskárnu spárovanou s operačním systémem a následně ji zvolit přímo v pokladně LILKA
 
-```
- **Název zařízení -** název tiskárny v operačním systému. Po vybrání správné tiskárny proveďte** "ZKUŠEBNÍ TISK"**
+* **Název zařízení -** název tiskárny v operačním systému. Po vybrání správné tiskárny proveďte "ZKUŠEBNÍ TISK"
 
- **ZKUŠEBNÍ TISK -** vytiskne zkušební lístek pro test funkčnosti tiskárny. Před tiskem se přesvědčte, že je tiskárna přípojená k do elekttrické sítě\(případně má nabitou baterii\), je v ní kotouček s papírem, máte **zapnuté BLUETOOTH** a tiskárnu spárovanou se zařízením. V případě WiFi musíte mít zapnutou tiskárnu, nastavenou správnou IP adresu a připojený síťový kabel.
-```
+**ZKUŠEBNÍ TISK -** vytiskne zkušební lístek pro test funkčnosti tiskárny. Před tiskem se přesvědčte, že je tiskárna přípojená k do elektrické sítě\\(případně má nabitou baterii\\), je v ní kotouček s papírem, máte \*\*zapnuté BLUETOOTH\*\* a tiskárnu spárovanou se zařízením. V případě WiFi musíte mít zapnutou tiskárnu, nastavenou správnou IP adresu a připojený síťový kabel.
 
 
 
