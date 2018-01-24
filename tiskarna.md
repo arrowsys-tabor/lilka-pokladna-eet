@@ -1,6 +1,6 @@
 # Tiskárna
 
-Slouží pro nastavení tiskáren a tiskových režimů. Pokladna LILKA primárně podporuje spojení tiskárny přes rozhraní BLUETOOTH na standartních účtenkových tiskárnách. Seznam 
+Slouží pro nastavení tiskáren a tiskových režimů. Pokladna LILKA primárně podporuje spojení tiskárny přes rozhraní BLUETOOTH na standartních účtenkových tiskárnách. Seznam
 
 ### Možnosti tiskárny
 
@@ -38,7 +38,23 @@ Je nutné mít vždy zaškrtnutý správný režim, aby bylo možné tisknout s 
 
 **Název zařízení -** zde vyberte tiskárnu, na které chcete tisknout účtenky
 
-**Tiskárna objednávek -** sekundární tiskárna pro tisk do kuchyně.
-
 **ZKUŠEBNÍ TISK -** vytiskne zkušební lístek pro test funkčnosti tiskárny. Před tiskem se přesvědčte, že je tiskárna přípojená k do elekttrické sítě\(případně má nabitou baterii\), je v ní kotouček s papírem, máte **zapnuté BLUETOOTH** a tiskárnu spárovanou se zařízením.
+
+### Tiskárna objednávek
+
+Sekundární tiskárna pro tisk do kuchyně. Doporučujeme tiskárnu podporující WiFi pro lepší pokrytí provozovny.
+
+**WiFI -** tisk pomocí tiskárny, která je možná připojit pomocí WiFi. Je nutné nastavit její síťovou adresu IP a port.
+
+     **IP adresa -** síťová adresa tiskárny.
+
+     **Port -** port tiskárny, nejčastěji "9100"
+
+**Bluetooth -** tisk pomocí tiskárny podporující Bluetooth technologii. Je nutné mít tiskárnu spárovanou s operačním systémem a následně ji zvolit přímo v pokladně LILKA
+
+     **Název zařízení -** název tiskárny v operačním systému. Po vybrání správné tiskárny proveďte** "ZKUŠEBNÍ TISK"**
+
+     **ZKUŠEBNÍ TISK -** vytiskne zkušební lístek pro test funkčnosti tiskárny. Před tiskem se přesvědčte, že je tiskárna přípojená k do elekttrické sítě\(případně má nabitou baterii\), je v ní kotouček s papírem, máte **zapnuté BLUETOOTH** a tiskárnu spárovanou se zařízením. V případě WiFi musíte mít zapnutou tiskárnu, nastavenou správnou IP adresu a připojený síťový kabel.
+
+
 
