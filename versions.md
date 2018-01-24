@@ -1,5 +1,10 @@
 # Verze a změny
 
+### 2.2.8
+
+* Přidání sloupce PLU do exportu produktů
+* Možnost tisku poznámky na objednávku\(SPRÁVA-PROSTŘEDÍ\)
+
 ### 2.2.7
 
 * Opraven export textu při exportu produktů do souboru
