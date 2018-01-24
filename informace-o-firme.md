@@ -26,3 +26,29 @@ Nastavení nejdůležitějších částí programu jako jsou údaje o provozovn�
 
 **Tisknout "SUBJEKT NENÍ PLÁTCEM DPH" -** tiskne na účtenku **"SUBJEKT NENÍ PLÁTCEM DPH".** V záložce **"RYCHLÉ" **nejsou zobrazeny tlačítka sazeb DPH 21%, 15% a 10%. Volba je určena pouze pro neplátce DPH.
 
+
+
+### Elektronická evidence tržeb
+
+**Označení provozovny -** obsahuje číslo provozovny, založené na daňovém portálu. Zobrazuje se na účtence a na výpisu tržeb z daňového portálu.
+
+**Označení pokladny -** označení pokladny, číslo, které je jako dodatečný údaj na účtence a následně výpisu tržeb z daňového portálu.
+
+**Pověřující DIČ -** údaj, který se vyplňuje pokud provozujete prodej v pověření \(nejčastěji prodej cigaret na jinou osobu\).
+
+**Heslo EET certifikátu -** tzv. soukromý klíč certifikátu. Nutné pro zobrazení tlačítka načíst certifikát.
+
+**Tlačítko "Načíst certifikát" -** funkce pro načtení certifikátu.
+
+**Mezní doba odezvy \(s\) -** určuje jak dlouho bude aplikace čekat na odezvu z EET pro vytištění FIK na účtence. Při nespojení s EET serverem nebo nefunkčním internetu program po uplynutí limitu vystaví automaticky off-line účtenku s PKP kódem.
+
+### EET Režimy
+
+**EET odesílání -** běžný režim zasílání do EET
+
+**Zjednodušený režim -** režim odesílání do 5-ti dnů. Pro tento režim je nutné získat povolení od místního finančního úřadu.
+
+**Ověřovací mód -** při zaškrtnutí zkontroluje zda je nastavení EET správné a vypíše pouze hlášení na obrazovce. Účtenka není zaslána do EET a není vytištěna.
+
+**Neprodukční prostředí -** režim pouze pro zkušební certifikáty a vývojáře EET softwaru.
+

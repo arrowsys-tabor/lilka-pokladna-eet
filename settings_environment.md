@@ -8,7 +8,7 @@
 
 3. **Návrat do RYCHLÉ po ukončení účtenky** - Pokud je mód aktivován, tak se po uhrazení účtenky aplikace vždy vrátí do záložky RYCHLÉ.
 
-4. **Skrýt platbu fakturou **- pokud je mód aktivován, tak při volbě způsobu úhrady není přítomna možnost FAKTURA. ÚČTENKA-&gt;PLATBA-&gt;způsob úhrady.
+4. **Skrýt platbu fakturou **- pokud je mód aktivován, tak při volbě způsobu úhrady není přítomna možnost FAKTURA.  ÚČTENKA-&gt;PLATBA-&gt;způsob úhrady.
 
 5. **Zakázat storno -** zakáže provedení storna v aplikaci.
 
