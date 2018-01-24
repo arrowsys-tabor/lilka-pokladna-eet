@@ -35,14 +35,13 @@
 
 ### 2.1.1
 
-* Oprava přidávání položky na účtenku  
-  , kdy v některých situacích nebyla položka korektně přidána na účtenku
+* Oprava přidávání položky na účtenku, kdy v některých situacích nebyla položka korektně přidána na účtenku
 
 * Omezení počtu číslic na kalkulačce na 12
 
 ### 2.1.0
 
-* Oprava tisku PKP kódu na Q80 - tiskárna nemohla vytisknout řetězec delší než 150 znaků. \(iOS\)
+* Oprava tisku PKP kódu na Q80i - tiskárna nemohla vytisknout řetězec delší než 150 znaků. \(iOS\)
 
 ### 2.0.6
 
@@ -50,7 +49,7 @@
 
 * Oprava textu při potvrzení storna účtenky
 
-* Nemožnost stornovat na Apple
+* Oprava - nemožnost stornovat na Apple z důvodu špatného popisu tlačítka
 
 * Přidána možnost filtrování účtenek dle data
 
