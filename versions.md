@@ -17,9 +17,9 @@
 * V záložce Produkt ošetřeno zadávání nečíselných znaků do variabliní ceny
 * Oprava nastavení sekundární BT tiskárny
 * Přidány další varianty propojení hlavní a objednávkové tiskárny a to následující:
-* - BT hlavní + WiFi obejdnávková
-* - oranžové V1 hlavní + WiFi objednávková
-* - oranžové V1 hlavní + BT objednávková
+* * BT hlavní + WiFi obejdnávková
+* * oranžové V1 hlavní + WiFi objednávková
+* * oranžové V1 hlavní + BT objednávková
 
 ### 2.1.4
 

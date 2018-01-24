@@ -10,7 +10,11 @@
 
 4. **Skrýt platbu fakturou **- pokud je mód aktivován, tak při volbě způsobu úhrady není přítomna možnost FAKTURA. ÚČTENKA-&gt;PLATBA-&gt;způsob úhrady.
 
-5. **Výchozí způsob úhrady - hotovost **- pokud je mód aktivován, tak se při stisku tlačítka UHRADIT v záložce ÚČTENKA automaticky zvolí způsob úhrady HOTOVOST a účtenka automaticky odešle.
+5. **Zakázat storno -** zakáže provedení storna v aplikaci.
+
+6. **Řadit účtenky zestupně -** seřadí rozpracované účtenky v hlavní záložce ÚČTENKA **od nejnovější po nejstarší**.
+
+7. **Výchozí způsob úhrady - hotovost **- pokud je mód aktivován, tak se při stisku tlačítka UHRADIT v záložce ÚČTENKA automaticky zvolí způsob úhrady HOTOVOST a účtenka automaticky odešle.
 
 #### Účtenka
 
