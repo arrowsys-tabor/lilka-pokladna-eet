@@ -9,9 +9,9 @@ V záložce **"Účtenky"** založíte novou účtenku kliknutím na velké modr
     </p>
 </div>
 
-### Nyní přidejte produkty
+### Nyní přidejte položky
 
-Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce **"Produkty"** klikněte na řádek produktu který budete chtít přidat na účtenku. Zobrazí se okno pro doplnění **"Množství na účtenku"**. V případě **"chybného vložení produktu na účtenku"** přidržte příslušný řádek prstem po 2 vteřiny a objeví se potvrzení volby o odstranění.
+Jakmile budete mít vybranou účtenku a evidované první položky, v záložce **"Položky"** klikněte na řádek produktu který budete chtít přidat na účtenku. Zobrazí se okno pro doplnění **"Množství na účtenku"**. V případě **"chybného vložení položky na účtenku"** přidržte příslušný řádek prstem po 2 vteřiny a objeví se potvrzení volby o odstranění.
 
 <div align="center">
     <p>
@@ -19,7 +19,7 @@ Jakmile budete mít vybranou účtenku a evidované první produkty, v záložce
     </p>
 </div>
 
-Pokud se zařízením pracujete ve svislém módu (na šířku), můžete produkty načítat na účtenku z nabídky produktů, která se zobrazuje vedle seznamu účtenek (vpravo).
+Pokud se zařízením pracujete ve svislém módu (na šířku), můžete položky načítat na účtenku z nabídky položek, která se zobrazuje vedle seznamu účtenek (vpravo).
 
 ![](img/firstReceipt_widthMode.png)
 
