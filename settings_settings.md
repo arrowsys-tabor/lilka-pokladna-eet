@@ -2,6 +2,8 @@
 
 V **Nastavení** lze nastavit vlastnosti zařízení \(jazyk, měna\), text na účtence \(hlavička a zápatí účtenky\), povolit či zakázat zasílání účtenek na e-mail zákazníka a propojit zařízení s Bitcoinpay účtem.
 
+### Prostředí
+
 **Jazyk účtenky: **Česky, Němčina, Angličtina, Španělština, Italština, Litevština, Polština, Vietnamština
 
 **Jazyk aplikace: **Česky, Němčina, Angličtina, Španělština, Italština, Litevština, Polština, Vietnamština
@@ -14,9 +16,17 @@ V **Nastavení** lze nastavit vlastnosti zařízení \(jazyk, měna\), text na �
 
 ![](img/settings_settings.png)
 
-### 
 
-### Zaslání účtenky na email
+
+### Účtenka
+
+Hlavička účtenky \(pod údaji firmy\) - text zobrazený pod údaji na účtence.
+
+Zápatí účtenky \(pod součtem\) - text zobrazený pod celkovým součtem na účtence. 
+
+
+
+### Zasílání účtenek elektronickou poštou
 
 zákazníkovi je nutné dle zákona o EET předat účtenku. Je povoleno ji poslat i pomocí emailu. Takto zaslaná účtenka se považuje jako předaná zákazníkovi.
 
@@ -31,6 +41,8 @@ Podporované klienty pro odesílání na email:
 \*z pravidla platí, že aplikace pro email musí být správně nastavena a poté by mělo jít nainstalovat i jiné alternativní emailové klienty.
 
 ![](/assets/SPRAVA-NASTAVENI-EMAIL.PNG)
+
+**POSTUP:**
 
 1. Přejděte do záložky **"SPRÁVA-&gt;NASTAVENÍ"**.
 2. Zaškrtněte pole **"POVOLIT ODESLÁNÍ ÚČTENEK NA E-MAIL ZÁKAZNÍKA"**.
