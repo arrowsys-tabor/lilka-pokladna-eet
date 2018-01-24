@@ -54,7 +54,5 @@ Sekundární tiskárna pro tisk do kuchyně. Doporučujeme tiskárnu podporujíc
 
 * **Název zařízení -** název tiskárny v operačním systému. Po vybrání správné tiskárny proveďte "ZKUŠEBNÍ TISK"
 
-**ZKUŠEBNÍ TISK -** vytiskne zkušební lístek pro test funkčnosti tiskárny. Před tiskem se přesvědčte, že je tiskárna přípojená k do elektrické sítě\\(případně má nabitou baterii\\), je v ní kotouček s papírem, máte \*\*zapnuté BLUETOOTH\*\* a tiskárnu spárovanou se zařízením. V případě WiFi musíte mít zapnutou tiskárnu, nastavenou správnou IP adresu a připojený síťový kabel.
-
-
+**ZKUŠEBNÍ TISK -** vytiskne zkušební lístek pro test funkčnosti tiskárny. Před tiskem se přesvědčte, že je tiskárna přípojená k do elektrické sítě\\(případně má nabitou baterii\\), je v ní kotouček s papírem, máte zapnuté BLUETOOTH a tiskárnu spárovanou se zařízením. V případě WiFi musíte mít zapnutou tiskárnu, nastavenou správnou IP adresu a připojený síťový kabel.
 
