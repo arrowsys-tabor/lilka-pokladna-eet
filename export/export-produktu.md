@@ -70,25 +70,25 @@ Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve
 
 ### Vysvětlení jednotlivých pojmů EXPORTU PRODUKTŮ
 
-ProductName - název položky
+**ProductName -** název položky
 
-Abbreviation - zkratka, lze nastavit pro tisk na účtenku
+**Abbreviation -** zkratka, lze nastavit pro tisk na účtenku
 
-GroupName - název skupiny
+**GroupName -** název skupiny
 
-Percentage - procento DPH
+**Percentage -** procento DPH
 
-UnitPrice - jednotková cena položky
+**UnitPrice -** jednotková cena položky
 
-StockRemaining - počet jednotek na skladě - podklad pro program "ZÁSOBY".
+**StockRemaining -** počet jednotek na skladě - podklad pro program "ZÁSOBY".
 
-Unit - jednotka například množství nebo ceny \(ks, Kč\)
+**Unit -** jednotka například množství nebo ceny \(ks, Kč\)
 
-Barcode - čárový kód
+**Barcode -** čárový kód
 
-Jkpov - kód zboží
+**Jkpov -** kód zboží
 
-BuyPrice - nákupní cena - podklad pro program "ZÁSOBY".
+**BuyPrice -** nákupní cena - podklad pro program "ZÁSOBY".
 
-PLU - mezinárodní kód, dle kterého lze vkládat zboží do účtenky pouze po napsání tohoto kódu a stisku tlačítka PLU
+**PLU -** mezinárodní kód, dle kterého lze vkládat zboží do účtenky pouze po napsání tohoto kódu a stisku tlačítka PLU
 
