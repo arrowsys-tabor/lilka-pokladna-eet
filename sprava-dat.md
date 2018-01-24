@@ -43,7 +43,7 @@ Export produktů je též přípravou pro jednoduché vložení položek do prog
 
 #### Postup pro Apple/Windows
 
-Po stistknutí tlačítka bude vytvořen e-mail se spojovacím .csv souborem v příloze. E-mail odešlete na adresu ke které máte přístup i z účetního PC. Soubor z e-mail klienta uložte do PC. Pro funkci odesílání e-mailu z pokladny je zapotřebí mít nastavenou iCloud email aplikaci\(Apple\)/výchozí poštovní klient POŠTA\(Windows\)
+Po stistknutí tlačítka bude vytvořen e-mail se spojovacím .csv souborem v příloze. E-mail odešlete na adresu ke které máte přístup i z účetního PC. Soubor z e-mail klienta uložte do PC. Pro funkci odesílání e-mailu z pokladny je zapotřebí mít nastavenou iCloud email aplikaci\(Apple\)/výchozí poštovní klient POŠTA\(Windows\).
 
 Vygenerovaný soubor je možné odeslat standardně přes poštovní aplikaci ve Vašem zařízení.
 

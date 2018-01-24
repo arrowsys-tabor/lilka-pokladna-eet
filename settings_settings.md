@@ -2,9 +2,11 @@
 
 V **Nastavení** lze nastavit vlastnosti zařízení \(jazyk, měna\), text na účtence \(hlavička a zápatí účtenky\), povolit či zakázat zasílání účtenek na e-mail zákazníka a propojit zařízení s Bitcoinpay účtem.
 
-Jazyk: Česky, Němčina, Angličtina, Španělština, Italština, Litevština, Polštinai, Vietnamština
+**Jazyk účtenky: **Česky, Němčina, Angličtina, Španělština, Italština, Litevština, Polština, Vietnamština
 
-Měna: Bitcoin, Euro, Česká koruna, Polski zloty, United States dollar, Canadian dollar
+**Jazyk aplikace: **Česky, Němčina, Angličtina, Španělština, Italština, Litevština, Polština, Vietnamština
+
+**Měna:** Bitcoin, Euro, Česká koruna, Polski zloty, United States dollar, Canadian dollar
 
 \*Pro zasílání v rámci české republiky je dané zákonem, že celková částka odeslaná do EET musí být v českých korunách.
 
@@ -42,8 +44,6 @@ Podporované klienty pro odesílání na email:
 \*na operačním systému **WINDOWS** je nutné mít nastavený výchozí program pro email jako **"POŠTA"**.
 
 \*Pokud potřebujete opět tisknout na Bluetooth tiskárnu, je nutné zaškrtnout v záložce **"SPRÁVA-&gt;TISKÁRNA"** pole **"POVOLIT TISK NA BLUETOOTH TISKÁRNU"**.
-
-
 
 ### Výchozí EMAIL pro zálohu/export
 
