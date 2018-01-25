@@ -12,12 +12,10 @@ Stornovat účtenku lze dvěma způsoby. Prvním je stornování přes záložku
 
 **\*POZOR\*** Pokud stornujete manuálně je nutné vždy vložit odděleně částku v jednotlivé dani.
 
-
-
 ### Storno vybrané účtenky ze seznamu účtenek {#storno-vybrané-účtenky-ze-seznamu-účtenek}
 
 1. Přejděte do záložky **"SPRÁVA-&gt;ÚČTENKY"**.
-2. Zadejte **období od do**, za které potřebujete účtenky zobrazit a stiskněte tlačítko **"ZOBRAZIT**
+2. Zadejte **období od do**, za které potřebujete účtenky zobrazit a stiskněte tlačítko **"ZOBRAZIT".**
 3. Klikněte na vybranou účtenku.
 4. Stiskněte tlačítko **"STORNO"**.
 
