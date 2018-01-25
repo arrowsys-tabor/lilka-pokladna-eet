@@ -18,6 +18,7 @@
 * [Obsluha programu](obsluha-programu.md)
   * [Vložení produktů](products.md)
   * [Vytvoření účtenky](firstreceipt.md)
+  * [Storno účtenky](storno-uctenky.md)
   * [Rychlé](quick.md)
   * [Suma](sum.md)
   * [Sleva](discount.md)
@@ -25,7 +26,7 @@
   * [Platba](invoice.md)
   * [Pokladna](cashregister.md)
   * [Prodej použitého zboží](prodej-pouziteho-zbozi.md)
-  * [Prodej v pověření](prodej-v-povereni.md)
+  * Storno účtenky
 * [Správa](sprava.md)
   * [Informace o firmě](informace-o-firme.md)
   * [Bitcoin](settings_settings/bitcoin.md)
