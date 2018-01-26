@@ -29,29 +29,50 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 \*V záložce **"POLOŽKY"** je prvně nutné vyplnit k danému zboží čárová kód.
 
-## BLUETOOTH čtečka čárového kódu VIRTUOS BT-310
+# BLUETOOTH čtečka čárového kódu VIRTUOS BT-310
 
 Připojení Bluetooth čtečky čárového kódu odstraňuje nemožnost mít zařízení na napájecím adaptéru.
 
-#### Nastavení čtečky pomocí ZÁKLADNÍ INSTALAČNÍ PŘÍRUČKY
+## Nastavení čtečky pomocí ZÁKLADNÍ INSTALAČNÍ PŘÍRUČKY
 
 Reset čtečky do továrního nastavení
 
 ![](/assets/BT-310 reset.JPG)
 
-Nastavení jazyku U.S.A.
+## Nastavení jazyku U.S.A.
 
--
+-![](/assets/START CONFIGURATION.JPG)
 
-Nastavení klávesnice google
+![](/assets/SET LANGUAGE USA.JPG)
 
--
 
-Vypnutí terminátoru - znaku ENTER
+
+![](/assets/END CONFIGURATION.JPG)
+
+## **Nastavení klávesnice google**
+
+POSTUP: 
+
+1. Přejděte do záložky NASTAVENÍ v operačním systému ANDROID
+2. Vstupte do záložky JAZYK A ZADÁVÁNÍ
+3. Zvolte AKTUÁLNÍ KLÁVESNICE
+4. Povolte hardwarovou klávesnici.
+
+\*Toto nastavení má za následek, že při spárované čtečce čárového kódu bude vyskakovat při kliknutí do textového pole pomocná klávesnice. Bez správného nastavení se Vám podobu spárování čtečky nebude zobrazovat.
+
+## Vypnutí terminátoru - znaku ENTER
+
+Pro vypnutí je nutné zvolit None\(\(+B9A\)\)
+
+
 
 ![](/assets/START CONFIGURATION.JPG)
 
-**Ke stažení:**
+![](/assets/SET MESSAGE TERMINATOR NONE.JPG)
+
+![](/assets/END CONFIGURATION.JPG)
+
+### **Ke stažení:**
 
 Odkaz na ovladač DONGLU a stažení základní příručky přímo ze stránek výrobce naleznete [ZDE](https://www.virtuos.cz/manualy-ovladace-ctecky-kodu/)
 
