@@ -29,3 +29,19 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 \*V záložce **"POLOŽKY"** je prvně nutné vyplnit k danému zboží čárová kód.
 
+
+
+### Námi podporovaná čtečka čárového kódu VIRTUOS BT-310
+
+#### Nastavení čtečky pomocí ZÁKLADNÍ INSTALAČNÍ PŘÍRUČKY
+
+Reset čtečky do továrního nastavení
+
+Nastavení jazyka
+
+Vypnutí terminátoru - znaku ENTER
+
+**Ke stažení:**
+
+Odkaz na ovladač DONGLU a stažení základní příručky naleznete [ZDE](https://www.virtuos.cz/manualy-ovladace-ctecky-kodu/)
+
