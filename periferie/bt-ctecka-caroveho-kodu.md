@@ -18,7 +18,7 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 1. Zapněte čtečku čárového kódu a pomocí **"ZÁKLADNÍ INSTALAČNÍ PŘÍRUČKY"** nastavte klávesnici na **"HID BT KLÁVESNICE"**.** **
 2. Na čtečce nastavte tzv. Terminátor čili ukončující znak na **"NONE"**
-3. Zkontrolujte zda máte nastavený správný jazyk klávesnice čtečky. Standartně **"ENGLISH"** nebo **"FRENCH"** pro vkládání čísel místo diakritických znamének.
+3. Zkontrolujte zda máte nastavený správný jazyk klávesnice čtečky. Standartně **"USA"** pro vkládání čísel místo diakritických znamének.
 
 ### Účtování pomocí nakonfigurované čtečky
 
@@ -45,13 +45,11 @@ Reset čtečky do továrního nastavení
 
 ![](/assets/SET LANGUAGE USA.JPG)
 
-
-
 ![](/assets/END CONFIGURATION.JPG)
 
 ## **Nastavení klávesnice google**
 
-POSTUP: 
+**POSTUP:**
 
 1. Přejděte do záložky NASTAVENÍ v operačním systému ANDROID
 2. Vstupte do záložky JAZYK A ZADÁVÁNÍ
@@ -63,8 +61,6 @@ POSTUP:
 ## Vypnutí terminátoru - znaku ENTER
 
 Pro vypnutí je nutné zvolit None\(\(+B9A\)\)
-
-
 
 ![](/assets/START CONFIGURATION.JPG)
 
