@@ -65,6 +65,11 @@
   * [BT čtečka čárového kódu](periferie/bt-ctecka-caroveho-kodu.md)
   * [Platební terminál ČSOB](periferie/platebni-terminal.md)
 * [Pro dealery](pro-dealery.md)
-  * [Rozsypání účtenky](rozsypani-zalozky-uctenka.md)
+  * [ELIO miniPOS V1](elio-minipos-v1.md)
   * [Vzdálená správa V1](vzdalena-sprava-v1.md)
+  * [BETA - předčasný přístup](beta-predcasany-pristup.md)
+  * [Rozsypání záložky ÚČTENKA](rozsypani-zalozky-uctenka.md)
+  * [ODBLOKOVÁNÍ LICENCE](odblokovani-licence.md)
+  * [TEAMVIEWER](teamviewer.md)
+  * [Instalace LILKA na ostatních zařízeních](instalace-lilka-na-ostatnich-zarizenich.md)
 
