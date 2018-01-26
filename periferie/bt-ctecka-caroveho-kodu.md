@@ -2,6 +2,8 @@
 
 Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do programu místo složitého hledání položky ve stovkách zboží. Čtečku je nutné prvně spárovat se systémem Android či iOS a správně nastavit dle posloupnosti čárových kódů v přiloženém manuálu k obsluze. Je nutné nastavit **HID BT klávesnici**, aby bylo možné v mobilních zařízeních načítat čárové kódy.
 
+**BEZDRÁTOVÁ BLUETOOTH ČTEČKA ČÁROVÉHO KÓDU VIRTUOS BT-310 SPOLEHLIVĚ PRACUJE S NÁMI PRODÁVANÝM ZAŘÍZENÍM ELIO M500.**
+
 ### Spárování BT čtečky se systémem Android
 
 1. Zapněte **"BLUETOOTH"** na mobilním zařízení.
