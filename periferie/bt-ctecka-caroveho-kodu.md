@@ -4,11 +4,11 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 ### Spárování BT čtečky se systémem Android
 
-1. Zapněte BLUETOOTH na mobilním zařízení.
+1. Zapněte **"BLUETOOTH"** na mobilním zařízení.
 2. Připojte **"BLUETOOTH"** čtečku a dlouhým stiskem scanovacího tlačítka vyzkoušejte zda je funkční laser.
 3. Po dobu pár vteřin podržte scanovací tlačítko pro vstup do režimu párování. 
 4. Vyhledejte v zařízení čtečku v nastavení BLUETOOTH a spárujte ji se zařízením.
-5. Přejděte do **"NASTAVENÍ-&gt;JAZYK A ZADÁVÁNÍ-&gt;AKTUÁLNÍ KLÁVESNICE"** ve Vašem zařízení. Zde se musí zapnout podpora hardwarové klávesnice, jinak bude brána jako hlavní klávesnice BT čtečka. Nabídka zobrazená níže je dostupná až po úspěšném spárování čtečky.
+5. Přejděte do **"NASTAVENÍ-&gt;JAZYK A ZADÁVÁNÍ-&gt;AKTUÁLNÍ KLÁVESNICE"** ve Vašem zařízení. **Zde se musí zapnout podpora hardwarové klávesnice**, jinak bude brána jako hlavní klávesnice BT čtečka. Nabídka zobrazená níže je dostupná až po úspěšném spárování čtečky.
 
 \*aktuální nastavení klávesnice se může v jednotlivých verzích ANDROID lišit
 
@@ -51,9 +51,9 @@ Reset čtečky do továrního nastavení
 
 **POSTUP:**
 
-1. Přejděte do záložky NASTAVENÍ v operačním systému ANDROID
-2. Vstupte do záložky JAZYK A ZADÁVÁNÍ
-3. Zvolte AKTUÁLNÍ KLÁVESNICE
+1. Přejděte do záložky **"NASTAVENÍ"** v operačním systému ANDROID.
+2. Vstupte do záložky **"JAZYK A ZADÁVÁNÍ"**.
+3. Zvolte **"AKTUÁLNÍ KLÁVESNICE"**.
 4. Povolte hardwarovou klávesnici.
 
 \*Toto nastavení má za následek, že při spárované čtečce čárového kódu bude vyskakovat při kliknutí do textového pole pomocná klávesnice. Bez správného nastavení se Vám podobu spárování čtečky nebude zobrazovat.
