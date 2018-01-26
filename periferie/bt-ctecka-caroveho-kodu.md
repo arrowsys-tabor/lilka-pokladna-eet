@@ -37,11 +37,17 @@ Připojení Bluetooth čtečky čárového kódu odstraňuje nemožnost mít za�
 
 Reset čtečky do továrního nastavení
 
-Nastavení jazyka
+-
+
+Nastavení jazyku FRENCH
+
+-
 
 Vypnutí terminátoru - znaku ENTER
 
+-
+
 **Ke stažení:**
 
-Odkaz na ovladač DONGLU a stažení základní příručky naleznete [ZDE](https://www.virtuos.cz/manualy-ovladace-ctecky-kodu/)
+Odkaz na ovladač DONGLU a stažení základní příručky přímo ze stránek výrobce naleznete [ZDE](https://www.virtuos.cz/manualy-ovladace-ctecky-kodu/)
 
