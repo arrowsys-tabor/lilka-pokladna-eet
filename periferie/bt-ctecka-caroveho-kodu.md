@@ -37,15 +37,19 @@ Připojení Bluetooth čtečky čárového kódu odstraňuje nemožnost mít za�
 
 Reset čtečky do továrního nastavení
 
+![](/assets/BT-310 reset.JPG)
+
+Nastavení jazyku U.S.A.
+
 -
 
-Nastavení jazyku FRENCH
+Nastavení klávesnice google
 
 -
 
 Vypnutí terminátoru - znaku ENTER
 
--
+![](/assets/START CONFIGURATION.JPG)
 
 **Ke stažení:**
 
