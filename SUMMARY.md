@@ -64,4 +64,7 @@
   * [Čtečka čárového kódu](periferie/ctecka-caroveho-kodu.md)
   * [BT čtečka čárového kódu](periferie/bt-ctecka-caroveho-kodu.md)
   * [Platební terminál ČSOB](periferie/platebni-terminal.md)
+* [Pro dealery](pro-dealery.md)
+  * [Rozsypání účtenky](rozsypani-zalozky-uctenka.md)
+  * [Vzdálená správa V1](vzdalena-sprava-v1.md)
 
