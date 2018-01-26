@@ -29,9 +29,9 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 \*V záložce **"POLOŽKY"** je prvně nutné vyplnit k danému zboží čárová kód.
 
+## Námi podporovaná čtečka čárového kódu VIRTUOS BT-310
 
-
-### Námi podporovaná čtečka čárového kódu VIRTUOS BT-310
+Připojení Bluetooth čtečky čárového kódu odstraňuje nemožnost mít zařízení na napájecím adaptéru.
 
 #### Nastavení čtečky pomocí ZÁKLADNÍ INSTALAČNÍ PŘÍRUČKY
 
