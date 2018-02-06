@@ -46,7 +46,7 @@ ELIO T1 - XL-6200
 
 ![](https://anetca.arrowsys.cz/assets/CTECKA-END.png)
 
-4/ Nastavte jazyk čtečky na**"FRENCH"**\(je nutné nastavit pro čtení čárových kódů jako číslo\). Načtěte**"START-&gt;FRENCH-&gt;END"**
+4/ Nastavte jazyk čtečky na**"US"**\(je nutné nastavit pro čtení čárových kódů jako číslo\). Načtěte**"START-&gt;US-&gt;END"**
 
 ![](https://anetca.arrowsys.cz/assets/CTECKA-START.png)
 
