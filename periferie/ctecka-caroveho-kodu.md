@@ -12,6 +12,14 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 4/ Pokud i tak načítá diakritická znaménka je nutno změnit jazyk klávesnice na anglický, tak, aby se při načtení čárového kódu objevila čísla nikoli diakritická znaménka.
 
+### Kompatibilní zařízení: 
+
+LARK Ultimate X4 10.1 - XL6200
+
+ELIO T1 - XL-6200
+
+
+
 ### Vkládání čárového kódu do programu: {#vkládání-čárového-kódu-do-programu}
 
 1/ Spusťte aplikaci **LILKA**.
@@ -20,7 +28,7 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 3/ Přejděte do záložky**"Rychlé"**, stiskněte tlačítko**"NOVÁ"**a nascanujte kód ze zboží, který by se měl pokud máte správně nastavenou čtečku čárového kódu načíst automaticky do účtenky.
 
-### Nastavení námi podporované čtečky XL-620 {#nastavení-námi-podporované-čtečky-xl-620}
+### Nastavení námi podporované čtečky XL-6200 {#nastavení-námi-podporované-čtečky-xl-620}
 
 1/ Zapněte čtečku a dlouhým stiskem scanovacího tlačítka zjistěte, zda je funkční laser.
 

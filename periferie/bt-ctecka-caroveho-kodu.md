@@ -22,6 +22,12 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 2. Na čtečce nastavte tzv. Terminátor čili ukončující znak na **"NONE"**
 3. Zkontrolujte zda máte nastavený správný jazyk klávesnice čtečky. Standartně **"USA"** pro vkládání čísel místo diakritických znamének.
 
+
+
+### Kompatibilní zařízení:
+
+LARK Ultimate X4 10.1 - Virtuos BT-310
+
 ### Účtování pomocí nakonfigurované čtečky
 
 1. Spusťte EET pokladnu LILKA.
