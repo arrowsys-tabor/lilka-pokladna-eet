@@ -12,13 +12,11 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 4/ Pokud i tak načítá diakritická znaménka je nutno změnit jazyk klávesnice na anglický, tak, aby se při načtení čárového kódu objevila čísla nikoli diakritická znaménka.
 
-### Kompatibilní zařízení: 
+### Kompatibilní zařízení:
 
 LARK Ultimate X4 10.1 - XL6200
 
 ELIO T1 - XL-6200
-
-
 
 ### Vkládání čárového kódu do programu: {#vkládání-čárového-kódu-do-programu}
 
@@ -52,7 +50,7 @@ ELIO T1 - XL-6200
 
 ![](https://anetca.arrowsys.cz/assets/CTECKA-START.png)
 
-![](https://anetca.arrowsys.cz/assets/CTECKA-FRENCH.png)
+![](/assets/CTECKA-XL6200-USA.JPG)
 
 ![](https://anetca.arrowsys.cz/assets/CTECKA-END.png)
 
