@@ -2,6 +2,14 @@
 
 Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do programu místo složitého hledání položky ve stovkách zboží. Každá čtečka je typu **PLUG and PLAY**, což znamená, že stačí pouze připojit k počítači či mobilnímu zařízení a je provozuschopná. Další nastavení je pak uživatelské pomocí posloupnosti čárových kódů v přiloženém manuálu k obsluze.
 
+### Kompatibilita zařízení:
+
+**ELIO XL-6200\(USB\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+
+**Manhattan 178488\(USB\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+
+**Virtuos BT-310\(Bluetooth\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Elio V1, Elio M500/P2000, Aclas 6", Elio T1, iPad, iPhone
+
 ### Instalace: {#instalace}
 
 1/ Připojte čtečku čárového kódu k PC či mobilnímu zařízení.
@@ -11,12 +19,6 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 3/ Následně je nutno čtečku nastavit pomocí přiložené kartičky s čárovými kódy. \(důležité je hlavně nastavit tzv. Terminátor, čili ukončující znak na **"ENTER"**\)
 
 4/ Pokud i tak načítá diakritická znaménka je nutno změnit jazyk klávesnice na anglický, tak, aby se při načtení čárového kódu objevila čísla nikoli diakritická znaménka.
-
-### Kompatibilní zařízení:
-
-LARK Ultimate X4 10.1 - XL6200
-
-ELIO T1 - XL-6200
 
 ### Vkládání čárového kódu do programu: {#vkládání-čárového-kódu-do-programu}
 

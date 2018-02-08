@@ -4,6 +4,14 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 **BEZDRÁTOVÁ BLUETOOTH ČTEČKA ČÁROVÉHO KÓDU VIRTUOS BT-310 SPOLEHLIVĚ PRACUJE S NÁMI PRODÁVANÝM ZAŘÍZENÍM ELIO M500.**
 
+### Kompatibilita zařízení:
+
+**ELIO XL-6200\(USB\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+
+**Manhattan 178488\(USB\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+
+**Virtuos BT-310\(Bluetooth\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Elio V1, Elio M500/P2000, Aclas 6", Elio T1, iPad, iPhone
+
 ### Spárování BT čtečky se systémem Android
 
 1. Zapněte **"BLUETOOTH"** na mobilním zařízení.
@@ -21,12 +29,6 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 1. Zapněte čtečku čárového kódu a pomocí **"ZÁKLADNÍ INSTALAČNÍ PŘÍRUČKY"** nastavte klávesnici na **"HID BT KLÁVESNICE"**.** **
 2. Na čtečce nastavte tzv. Terminátor čili ukončující znak na **"NONE"**
 3. Zkontrolujte zda máte nastavený správný jazyk klávesnice čtečky. Standartně **"USA"** pro vkládání čísel místo diakritických znamének.
-
-
-
-### Kompatibilní zařízení:
-
-LARK Ultimate X4 10.1 - Virtuos BT-310
 
 ### Účtování pomocí nakonfigurované čtečky
 
