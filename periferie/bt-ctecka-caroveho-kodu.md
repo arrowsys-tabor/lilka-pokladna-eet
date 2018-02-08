@@ -41,7 +41,16 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 # BLUETOOTH čtečka čárového kódu VIRTUOS BT-310
 
-Připojení Bluetooth čtečky čárového kódu odstraňuje nemožnost mít zařízení na napájecím adaptéru.
+Připojení čtečky čárového kódu přes Bluetooth odstraňuje problém drátových čteček, kdy nelze mít připojenou čtečku a zároveň nabíjet zařízení.
+
+#### POSTUP:
+
+1.  Zapněte BT na Vašem zařízení. 
+2.  Dlouze stiskněte tlačítko na BT čtečce. \(alespoň 6s dokud nepípne a nerozbliká se\)
+3.  Vyberte BT-310 ze seznamu zařízení a klikněte na něj pro spárování.\(čtecka po úspěšném spárování 3x krátce pípne\)
+4.  Pokud je správně napárováno, bude Vám čtečka vkládat po načtení čárového kódu čísla. V opačném případě je nutné nastavit její jazyk.
+
+\*ujistěte se, že je čtečka napárována vždy jen na jedno zařízení.
 
 ## Nastavení čtečky pomocí ZÁKLADNÍ INSTALAČNÍ PŘÍRUČKY
 
