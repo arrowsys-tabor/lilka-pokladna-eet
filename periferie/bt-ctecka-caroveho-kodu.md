@@ -6,11 +6,11 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 ### Kompatibilita zařízení:
 
-**ELIO XL-6200\(USB\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+**ELIO XL-6200\(USB\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
 
-**Manhattan 178488\(USB\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+**Manhattan 178488\(USB\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
 
-**Virtuos BT-310\(Bluetooth\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Elio V1, Elio M500/P2000, Aclas 6", Elio T1, iPad, iPhone
+**Virtuos BT-310\(Bluetooth\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Elio V1, Elio M500/P2000, Aclas 6", Elio T1, iPad, iPhone
 
 ### Spárování BT čtečky se systémem Android
 
@@ -45,10 +45,10 @@ Připojení čtečky čárového kódu přes Bluetooth odstraňuje problém drá
 
 #### POSTUP:
 
-1.  Zapněte BT na Vašem zařízení. 
-2.  Dlouze stiskněte tlačítko na BT čtečce. \(alespoň 6s dokud nepípne a nerozbliká se\)
-3.  Vyberte BT-310 ze seznamu zařízení a klikněte na něj pro spárování.\(čtecka po úspěšném spárování 3x krátce pípne\)
-4.  Pokud je správně napárováno, bude Vám čtečka vkládat po načtení čárového kódu čísla. V opačném případě je nutné nastavit její jazyk.
+1. Zapněte BT na Vašem zařízení. 
+2. Dlouze stiskněte tlačítko na BT čtečce. \(alespoň 6s dokud nepípne a nerozbliká se\)
+3. Vyberte BT-310 ze seznamu zařízení a klikněte na něj pro spárování.\(čtecka po úspěšném spárování 3x krátce pípne\)
+4. Pokud je správně napárováno, bude Vám čtečka vkládat po načtení čárového kódu čísla. V opačném případě je nutné nastavit její jazyk.
 
 \*ujistěte se, že je čtečka napárována vždy jen na jedno zařízení.
 

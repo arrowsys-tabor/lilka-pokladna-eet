@@ -4,11 +4,11 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 ### Kompatibilita zařízení:
 
-**ELIO XL-6200\(USB\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+**ELIO XL-6200\(USB\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
 
-**Manhattan 178488\(USB\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+**Manhattan 178488\(USB\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
 
-**Virtuos BT-310\(Bluetooth\) -** PC, Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Elio V1, Elio M500/P2000, Aclas 6", Elio T1, iPad, iPhone
+**Virtuos BT-310\(Bluetooth\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Elio V1, Elio M500/P2000, Aclas 6", Elio T1, iPad, iPhone
 
 ### Instalace: {#instalace}
 
