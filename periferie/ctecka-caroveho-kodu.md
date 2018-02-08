@@ -4,7 +4,7 @@ Slouží k zjednodušení práce pomocí načtení čárového kódu přímo do 
 
 ### Kompatibilita zařízení:
 
-**ELIO XL-6200\(USB\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+**SUNLUX XL-6200\(USB\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
 
 **Manhattan 178488\(USB\) -** PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
 
