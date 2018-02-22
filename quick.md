@@ -8,6 +8,7 @@ Pro bezproblémový chod kalkulačky musí být založeny položky se správnou 
 * **pro DPH 10%: 90910 **
 * **pro DPH 15%: 90915**
 * **pro DPH 21%: 90921**
+* **pro NEPODLEHA DPH: 90903**
 
 ### Zadaní tržby na účtenku
 
