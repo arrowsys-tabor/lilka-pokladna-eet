@@ -4,6 +4,10 @@ U nových verzí mobilního operačního systému ANDROID je možno uživatelsky
 
 **MENU-&gt;NASTAVENÍ-&gt;APLIKACE-&gt;vyberte aplikaci "EET Pokladna LILKA" a klikněte na kolonku OPRÁVNĚNÍ**
 
+
+
+Tato oprávnění lze také udělit přímo z pokladny LILKA, a to v sekci **"SPRÁVA-&gt;PODPORA-&gt;OPRÁVNĚNÍ"**.
+
 ### 
 
 ### 
