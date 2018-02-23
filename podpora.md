@@ -54,5 +54,9 @@ Pokud byste chtěli znovu instalovat čistou verzi, je zapotřebí kontaktovat n
 3. V hlavní nabídce zvolte záložku **"PODPORA"**.
 4. Stiskněte tlačítko **"AKTUALIZOVAT DATABÁZI"**.
 
+### Oprávnění
+
+Pokud nemá pokladna dostatečné oprávnění pro ANDROID, například nevyskočí při stisknutí tlačítka ZÁLOHOVAT  v sekci SPRÁVA-&gt;SPRÁVA DAT okno s výběrem aplikace pro odeslání zálohy, lze tato oprávnění dodatečně udělit stisknutím tlačítka **"OPRÁVNĚNÍ"**. Druhou variantou je pak tato oprávnění udělit manuálně přímo v systému ANDROID \(MENU-NASTAVENÍ-APLIKACE-LILKA-záložka OPRÁVNĚNÍ\).
+
 
 
