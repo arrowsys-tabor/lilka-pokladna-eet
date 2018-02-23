@@ -26,8 +26,6 @@ Nastavení nejdůležitějších částí programu jako jsou údaje o provozovn�
 
 **Tisknout "SUBJEKT NENÍ PLÁTCEM DPH" -** tiskne na účtenku **"SUBJEKT NENÍ PLÁTCEM DPH".** V záložce **"RYCHLÉ" **nejsou zobrazeny tlačítka sazeb DPH 21%, 15% a 10%. Volba je určena pouze pro neplátce DPH.
 
-
-
 ### Elektronická evidence tržeb
 
 **Označení provozovny -** obsahuje číslo provozovny, založené na daňovém portálu. Zobrazuje se na účtence a na výpisu tržeb z daňového portálu.
@@ -51,4 +49,16 @@ Nastavení nejdůležitějších částí programu jako jsou údaje o provozovn�
 **Ověřovací mód -** při zaškrtnutí zkontroluje zda je nastavení EET správné a vypíše pouze hlášení na obrazovce. Účtenka není zaslána do EET a není vytištěna.
 
 **Neprodukční prostředí -** režim pouze pro zkušební certifikáty a vývojáře EET softwaru.
+
+
+
+### Pokročilé nastavení
+
+Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop [ZDE](https://www.arrowsys.cz/cs/lilka-aktualizace-zmeny-ustavniho-soudu-od-132018). Koupením tohoto upgradu si zajistíte možnost vypnutí změn schválených ústavním soudem, které platí od 1.3.2018
+
+1.  Neodesílat tržby Bitcoinem.
+2.  Neodesílat tržby kreditní kartou.
+3.  Netisknout DIČ na účtence.
+
+
 
