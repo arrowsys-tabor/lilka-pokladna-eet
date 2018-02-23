@@ -54,13 +54,11 @@ Nastavení nejdůležitějších částí programu jako jsou údaje o provozovn�
 
 Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop [ZDE](https://www.arrowsys.cz/cs/lilka-aktualizace-zmeny-ustavniho-soudu-od-132018). Koupením tohoto upgradu si zajistíte možnost vypnutí změn schválených ústavním soudem, které platí od 1.3.2018
 
-1. Neodesílat tržby Bitcoinem.
-2. Neodesílat tržby kreditní kartou.
-3. Netisknout DIČ na účtence.
+1. **Neodesílat tržby Bitcoinem -** zamezí zasílání tržeb do EET pomocí způsobu úhrady BITCOIN
+2. **Neodesílat tržby kreditní kartou -** zamezí zasílání tržeb do EET pomocí způsobu úhrady KARTOU
+3. **Netisknout DIČ na účtence -** na účtence zaslané do EET se nezobrazí IČO
 
 Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po stiknutí tlačítka **"POKROČÍLÉ NASTAVENÍ"** upozornění **"TENTO MODUL NENÍ PRO VAŠI LICENCI AKTIVNÍ. KONTAKTUJTE WWW.ARROWSYS.CZ"**.
 
 \*je nutné mít nastavené **správné ičo**, které se vztahuje k licenci, aby bylo možné přejít do **POKROČILÉHO NASTAVENÍ**.
-
-
 
