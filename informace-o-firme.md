@@ -50,9 +50,9 @@ Nastavení nejdůležitějších částí programu jako jsou údaje o provozovn�
 
 **Neprodukční prostředí -** režim pouze pro zkušební certifikáty a vývojáře EET softwaru.
 
-### Pokročilé nastavení
+### Pokročilé nastavení - balíček změn ÚSTAVNÍHO SOUDU
 
-Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop [ZDE](https://www.arrowsys.cz/cs/lilka-aktualizace-zmeny-ustavniho-soudu-od-132018). Koupením tohoto upgradu si zajistíte možnost vypnutí změn schválených ústavním soudem, které platí od 1.3.2018
+Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop [ZDE](https://www.arrowsys.cz/cs/lilka-aktualizace-zmeny-ustavniho-soudu-od-132018). Koupením tohoto upgradu si **zajistíte** možnost **vypnutí změn schválených ústavním soudem**, které platí od 1.3.2018.
 
 ![](/assets/SPRAVA-FIRMA-POKROCILE BUTTON1.jpg)
 
