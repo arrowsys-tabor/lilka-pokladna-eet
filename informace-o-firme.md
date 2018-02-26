@@ -56,9 +56,9 @@ Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop
 
 ![](/assets/SPRAVA-FIRMA-POKROCILE BUTTON1.jpg)
 
-1. **Neodesílat tržby Bitcoinem -** zamezí zasílání tržeb do EET pomocí způsobu úhrady BITCOIN
-2. **Neodesílat tržby kreditní kartou -** zamezí zasílání tržeb do EET pomocí způsobu úhrady KARTOU
-3. **Netisknout DIČ na účtence -** na účtence zaslané do EET se nezobrazí DIČ
+1. **Neodesílat tržby Bitcoinem -** zamezí zasílání tržeb do EET pomocí způsobu úhrady BITCOIN.
+2. **Neodesílat tržby kreditní kartou -** zamezí zasílání tržeb do EET pomocí způsobu úhrady KARTOU.
+3. **Netisknout DIČ na účtence -** na účtence zaslané do EET se nezobrazí DIČ.
 
 ![](/assets/SPRAVA-FIRMA-POKROCILE.jpg)
 
