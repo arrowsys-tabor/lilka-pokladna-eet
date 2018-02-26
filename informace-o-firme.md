@@ -62,7 +62,7 @@ Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop
 
 ![](/assets/SPRAVA-FIRMA-POKROCILE.jpg)
 
-Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po stiknutí tlačítka **"POKROČÍLÉ NASTAVENÍ"** upozornění **"TENTO MODUL NENÍ PRO VAŠI LICENCI AKTIVNÍ. KONTAKTUJTE WWW.ARROWSYS.CZ"**.
+Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po stisknutí tlačítka **"POKROČILÉ NASTAVENÍ"** upozornění **"TENTO MODUL NENÍ PRO VAŠI LICENCI AKTIVNÍ. KONTAKTUJTE WWW.ARROWSYS.CZ"**.
 
 ![](/assets/FIRMA-PORKOCILE-ERROR.jpg)
 
