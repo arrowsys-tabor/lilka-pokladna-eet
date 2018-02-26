@@ -56,7 +56,7 @@ Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop
 
 1. **Neodesílat tržby Bitcoinem -** zamezí zasílání tržeb do EET pomocí způsobu úhrady BITCOIN
 2. **Neodesílat tržby kreditní kartou -** zamezí zasílání tržeb do EET pomocí způsobu úhrady KARTOU
-3. **Netisknout DIČ na účtence -** na účtence zaslané do EET se nezobrazí IČO
+3. **Netisknout DIČ na účtence -** na účtence zaslané do EET se nezobrazí DIČ
 
 Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po stiknutí tlačítka **"POKROČÍLÉ NASTAVENÍ"** upozornění **"TENTO MODUL NENÍ PRO VAŠI LICENCI AKTIVNÍ. KONTAKTUJTE WWW.ARROWSYS.CZ"**.
 
