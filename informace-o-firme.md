@@ -66,7 +66,5 @@ Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po sti
 
 ![](/assets/FIRMA-PORKOCILE-ERROR.jpg)
 
-
-
 \*je nutné mít nastavené **správné ičo**, které se vztahuje k licenci, aby bylo možné přejít do **POKROČILÉHO NASTAVENÍ**.
 
