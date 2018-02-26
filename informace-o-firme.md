@@ -56,12 +56,6 @@ Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop
 
 ![](/assets/SPRAVA-FIRMA-POKROCILE BUTTON1.jpg)
 
-1. **Neodesílat tržby Bitcoinem -** zamezí zasílání tržeb do EET pomocí způsobu úhrady BITCOIN.
-2. **Neodesílat tržby kreditní kartou -** zamezí zasílání tržeb do EET pomocí způsobu úhrady KARTOU.
-3. **Netisknout DIČ na účtence -** na účtence zaslané do EET se nezobrazí DIČ.
-
-![](/assets/SPRAVA-FIRMA-POKROCILE.jpg)
-
 Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po stisknutí tlačítka **"POKROČILÉ NASTAVENÍ"** upozornění **"TENTO MODUL NENÍ PRO VAŠI LICENCI AKTIVNÍ. KONTAKTUJTE WWW.ARROWSYS.CZ"**.
 
 ![](/assets/FIRMA-PORKOCILE-ERROR.jpg)
@@ -69,4 +63,16 @@ Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po sti
 **Kontakt:** **obchod@arrowsys.cz**
 
 \*aby bylo možné přejít do **"POKROČILÉHO NASTAVENÍ", **je nutné mít nastavené **správné ičo**, které se vztahuje k licenci.
+
+#### 
+
+#### Možnosti nastavení změn ústavního soudu
+
+1. **Neodesílat tržby Bitcoinem -** zamezí zasílání tržeb do EET pomocí způsobu úhrady BITCOIN.
+2. **Neodesílat tržby kreditní kartou -** zamezí zasílání tržeb do EET pomocí způsobu úhrady KARTOU.
+3. **Netisknout DIČ na účtence -** na účtence zaslané do EET se nezobrazí DIČ.
+
+![](/assets/SPRAVA-FIRMA-POKROCILE.jpg)
+
+
 
