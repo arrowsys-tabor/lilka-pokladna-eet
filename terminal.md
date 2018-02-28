@@ -10,7 +10,7 @@ Instalaci platebních terminálů provádí servisní organizace ČSOB. V souča
 
 Ingenico: ICT 220, IPP 320
 
-Verifone: WX 675 a WX 520.
+Verifone: VX675 a VX520.
 
 #### Nastavení terminálu
 
