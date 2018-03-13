@@ -1,16 +1,25 @@
 ### BITCOIN
 
-### Přijímání plateb BITCOIN
+### 1. Přijímání plateb přímo v BITCOIN
 
-Platba pomocí kryptoměny BITCOIN, kdy se jedná pouze o převádění BITCOINů mezi jednotlivými peněženkami. Transakce jsou prováděny pouze v Bitcoinech.
+Platba pomocí kryptoměny Bitcoin, kdy jsou převáděny BTC mezi peněženkou zákazníka přímo do peněženky obchodníka. 
 
 ### BITCOIN peněženka - získání BITCOIN ADRESY
 
-Slouží k přijímání a odesílání BITCOIN mezi uživateli. Pro propojení s pokladnou LILKA je nutné získat veřejný kód na obrázku níže. Ten se následně zadá do pole **"BITCOIN ADRESA"**
+Bitcoin adresa je veřejná část Bitcoin peněženky, kterou je potřeba poskytnout druhé straně, aby vám mohla zaslat BTC. Slouží podobně jako číslo bankovního účtu. Tuto Bitcoinovou adresu, v případě, že chcete přijímat přímo BTC, je nutné zadat do Nastavení.
 
-Veřejný kód slouží pouze k přijímání nikoli odesílání, tudíž nehrozí ke ztrátě Bitcoinů z pokladního zařízení.
+Adresa může být zadána ve 2 formátech 
 
-#### **Postup získání kódu:**
+* Standartní Bitcoin adresa 26-35 alfanumerických znaků, začínajících 1 nebo 3
+* BIP44 - začíná hodnotou "xpub.."
+
+Adresu v tomto formátu vyplňte do pole **"BITCOIN ADRESA"**
+
+Veřejná bitcoinová adresa slouží pouze k přijímání nikoli odesílání, tudíž nehrozí ke ztrátě Bitcoinů z pokladního zařízení.
+
+#### Založení BTC peněženky
+
+Nejjednodušší, ačkoliv nejméně bezpečné peněženky pro uchování BTC lze vytvořit přímo v chytrém telefonu. Vaši peněženku si důkladně zazálohujte. V případě ztráty chytrého telefonu může kdokoliv získat přístup k těmto BTC. Nejbezpečnější uchování BTC poskytují hardwarové peněženky Trezor a Ledger.
 
 1. Spusťte ve vašem ANDROID zařízení **"OBCHOD PLAY"**.
 2. vyhledejte aplikaci **"BITCOIN WALLET"** a nainstalujte ji. Pokud již Bitcoin peněženku máte spusťte ji.
