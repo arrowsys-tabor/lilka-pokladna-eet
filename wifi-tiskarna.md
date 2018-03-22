@@ -25,7 +25,7 @@ Jedná se o bezdrátový tisk pomocí WIFI sítě. Tiskárnu je nutno řádně n
 
 ### SELFTEST tiskárny:
 
-Ve vypnutém stavu držte tlačítko FEED a zapněte tiskárnu. Po 1-2 vteřinách pusťte tlačítko FEED.
+Ve vypnutém stavu držte tlačítko "FEED" a zapněte tiskárnu. Po 1-2 vteřinách pusťte tlačítko "FEED".
 
 \*po delším časovém úseku vyjede i lístek s nastavením WIFI
 
