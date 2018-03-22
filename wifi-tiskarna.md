@@ -10,7 +10,7 @@ Jedná se o bezdrátový tisk pomocí WIFI sítě. Tiskárnu je nutno řádně n
 4. Uživatelské jméno a heslo zjistíte z uživatelské příručky k tiskárně.
 5. V záložce **Mode Selection** zvolte **STA Mode** a dejte **APPLY**.
 6. V záložce STA Interface Setting vyberte pomocí tlačítka **SEARCH WiFi síť**, na kterou potřebujete tiskárnu napojit. Zadejte heslo tzv. **PASS PHRASE** a stiskněte **APPLY**.
-7. V poli **WAN CONNECTION TYPE** zvolte D**HCP\(Auto config\)** a pojmenujte tiskárnu dle potřeby do pole **Hostname\(Optional\)**.
+7. V poli **WAN CONNECTION TYPE** zvolte **DHCP\(Auto config\)** a pojmenujte tiskárnu dle potřeby do pole **Hostname\(Optional\)**.
 8. Uložte pomocí APPLY a restartujte tiskárnu. 
 9. Ve Vašem WIFI routeru zjistěte IP adresu, kterou router přiřadil tiskárně.
 10. Spusťte EET Pokladnu LILKA a přejděte do záložky **"SPRÁVA-&gt;TISKÁRNY"**.
