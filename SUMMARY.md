@@ -26,7 +26,7 @@
   * [Platba](invoice.md)
   * [Pokladna](cashregister.md)
   * [Prodej použitého zboží](prodej-pouziteho-zbozi.md)
-  * Storno účtenky
+  * [Storno účtenky](storno-uctenky.md)
 * [Správa](sprava.md)
   * [Informace o firmě](informace-o-firme.md)
   * [Bitcoin](settings_settings/bitcoin.md)
